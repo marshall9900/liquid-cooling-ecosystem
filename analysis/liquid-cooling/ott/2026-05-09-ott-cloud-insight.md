@@ -1,0 +1,83 @@
+# OTT云商洞察(v5) — 阶段×预算×供应商
+
+> 更新：2026-05-09 | 频率：双周
+
+## 一、全球OTT (含海外超节点)
+
+| 维度 | Microsoft | Google | Amazon | Meta |
+|------|----------|--------|--------|------|
+| AI阶段 | 规模部署+对外(Azure AI) | 全栈(TPU+自研冷却) | 规模部署+对外(Bedrock) | 规模部署 |
+| AI Capex 2025E($B) | ~65 | ~60 | ~75 | ~40 |
+| AI Capex 2026E($B) | ~80(+23%) | ~75(+25%) | ~100(+33%) | ~65(+63%) |
+| GPU | NVIDIA+AMD+Maia自研 | NVIDIA+TPU v5/v6 | NVIDIA+Trainium2 | NVIDIA+MTIA |
+| 自研芯片 | Maia 100/200 | 🔥TPU v5p/v6 | Trainium2/Inferentia3 | MTIA v2/v3 |
+| DC液冷比例 | 70%+ | 90%+ | 70%+ | 80%+ |
+| 液冷路线 | 冷板+浸没测试 | 自研CDU+冷板(温水) | 自研冷板 | 冷板(OCP) |
+| 液冷供应商 | 半开放 | 🔒封闭 | 🔒封闭 | ⚠️半开放(OCP) |
+| 海悟机会 | 远期(通过OEM) | 无 | 无 | 远期(OCP认证) |
+
+## 二、中国OTT
+
+| 维度 | 字节跳动 | 阿里云 | 腾讯 | 百度 |
+|------|---------|--------|------|------|
+| AI阶段 | 🔥规模最大(全球) | 规模部署+对外 | 规模部署 | 规模部署 |
+| AI Capex 2026E(¥B) | 200-250 | 180-220 | 120-150 | 80-100 |
+| GPU采购(品牌) | NVIDIA+昇腾+自研? | NVIDIA+含光+PPU | NVIDIA+燧原 | NVIDIA+昆仑芯 |
+| 自研芯片 | 传闻推理芯片 | 含光800/PPU(训练) | 蓬莱/紫霄 | 昆仑芯2/3 |
+| DC液冷比例 | 70%+ | 60%+ | 50%+ | 50%+ |
+| 液冷供应商(推测) | 英维克/高澜?+秦淮 | 英维克/高澜? | 合作采购 | 开放采购 |
+| 液冷采购策略 | 多供应商 | 🔥阿里认证→招标 | 招标 | 开放 |
+| DC合作方 | 🔥秦淮数据主力 | 数据港主力 | 万国/世纪互联 | 自建+合作 |
+| **海悟机会** | 🔴P0🔥 | 🟠P1 | 🟠P1 | 🟠P1 |
+
+## 三、预算→液冷推导
+
+### 全球OTT
+| 指标 | 2026E |
+|------|-------|
+| 全球OTT AI Capex | ~$362B |
+| 液冷采购占比 | 8-10% |
+| 液冷采购额 | ~$29-36B |
+| 其中组件(冷板+Manifold+快接头) | ~$17-22B(60%) |
+
+### 中国OTT
+| 指标 | 2026E |
+|------|-------|
+| 中国OTT AI Capex | ~¥650B(~$90B) |
+| 液冷采购占比 | 10% |
+| 液冷采购额 | ~¥65B(~$9B) |
+| 组件 | ~¥39B(~$5.4B) |
+
+## 四、OTT液冷供应商现状(推测)
+
+| 层面 | 字节 | 阿里 | 腾讯 | 微软 | Meta |
+|------|------|------|------|------|------|
+| 冷板 | 英维克/高澜? | 英维克? | ? | CoolIT/AVC(通过OEM) | CoolIT/AVC? |
+| CDU | 英维克? | 英维克? | ? | Vertiv/自研? | Vertiv? |
+| 管路 | 通用 | 通用 | 通用 | 通用 | 通用 |
+
+> 🔥中国OTT液冷供应商格局不透明，英维克覆盖最广但不确定独家。海悟需逐个OTT验证。
+
+---
+
+---
+
+## 数据溯源（铁律⑤：每条必须有文件名或URL）
+
+| 数据类别 | 源文件/URL | 日期 | 可信度 |
+|---------|-----------|------|--------|
+| Microsoft AI Capex ~$80B | sources/sec/ott/MSFT/latest_filings.txt → https://www.sec.gov/Archives/edgar/data/0000789019/000119312526191507/msft-20260331.htm (10-Q 2026-04-29) | 2026-04-29 | ⭐⭐⭐⭐⭐ |
+| Google AI Capex ~$75B | sources/sec/ott/GOOG/latest_filings.txt → https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000048/goog-20260331.htm (10-Q 2026-04-30) | 2026-04-30 | ⭐⭐⭐⭐⭐ |
+| Amazon AI Capex ~$100B | sources/sec/ott/AMZN/latest_filings.txt → https://www.sec.gov/Archives/edgar/data/0001018724/000101872426000014/amzn-20260331.htm (10-Q 2026-04-30) | 2026-04-30 | ⭐⭐⭐⭐⭐ |
+| Meta AI Capex ~$65B | sources/sec/ott/META/latest_filings.txt → https://www.sec.gov/Archives/edgar/data/0001326801/000162828026028526/meta-20260331.htm (10-Q 2026-04-30) | 2026-04-30 | ⭐⭐⭐⭐⭐ |
+| 中国OTT AI Capex(字节/阿里/腾讯/百度) | sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md | 2026-05-07 | ⭐⭐⭐ |
+| 字节/阿里IDC采购细节 | sources/wechat/2026-05-07-bytedance-alibaba-idc-procurement-2026.md | 2026-05-07 | ⭐⭐⭐ |
+| Google液冷供应链 | sources/wechat/2026-05-07-google-liquid-cooling-supply-chain.md | 2026-05-07 | ⭐⭐⭐ |
+| 液冷采购占比8-10% | 方法论：Morgan Stanley GB300 BOM模型×行业CAPEX结构交叉验证（Dell'Oro/Omdia付费报告无法直接获取） | 2026Q1 | ⭐⭐⭐ |
+| DC液冷比例(70%/90%等) | MSFT https://www.microsoft.com/en-us/corporate-responsibility/sustainability + GOOG https://sustainability.google/reports/ + AMZN https://sustainability.aboutamazon.com/ + META https://sustainability.fb.com/ | 2026Q1 | ⭐⭐⭐⭐ |
+| 阿里云CAPEX目标 | sources/rss/2026-05-09/DCDynamics_2026-05-09.html | 2026-05-09 | ⭐⭐⭐ |
+| Meta AI军备分析 | sources/rss/2026-05-09/caixin_【周刊提前读】硅谷巨头Meta身处监管与AI军备夹缝 前路是一场豪赌.json | 2026-05-09 | ⭐⭐⭐ |
+| 高盛DC电力需求预测 | sources/rss/2026-05-09/36kr_高盛：美国数据中心用电需求或在两年内翻倍.json | 2026-05-09 | ⭐⭐⭐⭐ |
+| 液冷供应商推测(英维克/高澜等) | ⚠️ 行业推断(非公开招投标)，待商务侧渠道验证 | 持续更新 | ⭐⭐ |
+
+> 📌 铁律⑤：SEC 10-Q/10-K已拉取至 sources/sec/，多源冲突以最新10-Q日期为准。

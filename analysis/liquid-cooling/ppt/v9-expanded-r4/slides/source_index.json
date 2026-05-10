@@ -1,0 +1,2558 @@
+{
+  "generated": "2026-05-09T21:48:00.000000",
+  "enriched_by": "enrich-076-103 subagent",
+  "summary": {
+    "total_slides": 103,
+    "enriched_range": "s076-s103",
+    "core_research_reports": 72,
+    "sec_filings": 12,
+    "wechat_memos": 10,
+    "rss_articles": 48,
+    "data_files": 2,
+    "key_competitive_filings": [
+      "sources/sec/oem/VRT/VRT-10-K_2026-02-13.md (Vertiv FY2025)",
+      "sources/sec/oem/NVENT/NVENT-10-K_2026-02.md (nVent FY2025)",
+      "sources/sec/oem/SMCI/SMCI-10-K_2026.md (SMCI FY2025)",
+      "sources/sec/oem/DELL/DELL-10-K_2026-03.md (DELL FY2026 Q1)"
+    ],
+    "key_rss_supply_chain": [
+      "sources/rss/2026-05-07/174727_RSS_SupplyconstraintsopticaladvancesdominateAristasQ1.md (全行业芯片短缺)",
+      "sources/rss/2026-05-07/174727_RSS_SwitchstormcomingGartnerforecastspricehikeslongleadtimesforenterprisedatacenters.md (Gartner交换机涨价)",
+      "sources/rss/2026-05-07/174728_RSS_AI-DrivenCPUShortageSavesIntelsFinancialCookies.md (CPU短缺)",
+      "sources/rss/2026-05-07/174727_RSS_Memoryshortageandcostsurgepushenterprisestowardthecloud.md (内存涨价)"
+    ]
+  },
+  "sources": {
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-11-20] 开源证券 - 通信行业点评报告：维谛预测AI单机柜功耗有望超1MW，液冷或将成为必选项.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-11-20",
+      "org": "开源证券",
+      "title": "11-20] 开源证券 - 通信行业点评报告：维谛预测AI单机柜功耗有望超1MW，液冷或将成为必选项",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-11-20] 开源证券 - 通信行业点评报告：维谛预测AI单机柜功耗有望超1MW，液冷或将成为必选项.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-11-29] 开源证券 - 电力设备行业点评报告：华为规划部署超10万台全液冷超快充桩，快充产业链有望加速发展.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2023-11-29",
+      "org": "开源证券",
+      "title": "11-29] 开源证券 - 电力设备行业点评报告：华为规划部署超10万台全液冷超快充桩，快充产业链有望加速发展",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-11-29] 开源证券 - 电力设备行业点评报告：华为规划部署超10万台全液冷超快充桩，快充产业链有望加速发展.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-17] 国信证券 - 通信行业周报2025年第33周：液冷呈现高景气度，运营商2025上半年业绩稳健增长.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-08-17",
+      "org": "国信证券",
+      "title": "08-17] 国信证券 - 通信行业周报2025年第33周：液冷呈现高景气度，运营商2025上半年业绩稳健增长",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-17] 国信证券 - 通信行业周报2025年第33周：液冷呈现高景气度，运营商2025上半年业绩稳健增长.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-12-25] 国元证券 - 通信行业周报：算力硬件规模扩张，液冷加速渗透.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-12-25",
+      "org": "国元证券",
+      "title": "12-25] 国元证券 - 通信行业周报：算力硬件规模扩张，液冷加速渗透",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-12-25] 国元证券 - 通信行业周报：算力硬件规模扩张，液冷加速渗透.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-09-18] 国信证券 - 通信行业周报2023年第29期：华为5.5G实现突破，服务器液冷应用加速.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2023-09-18",
+      "org": "国信证券",
+      "title": "09-18] 国信证券 - 通信行业周报2023年第29期：华为5.5G实现突破，服务器液冷应用加速",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-09-18] 国信证券 - 通信行业周报2023年第29期：华为5.5G实现突破，服务器液冷应用加速.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2026-05-06] 华源证券 - 汽车行业周报：谷歌液冷技术核心特点有哪些？.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2026-05-06",
+      "org": "华源证券",
+      "title": "05-06] 华源证券 - 汽车行业周报：谷歌液冷技术核心特点有哪些？",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2026-05-06] 华源证券 - 汽车行业周报：谷歌液冷技术核心特点有哪些？.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-11-07] 开源证券 - 通信行业投资策略：光联万物，液冷护航，国产算力迎新纪元.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-11-07",
+      "org": "开源证券",
+      "title": "11-07] 开源证券 - 通信行业投资策略：光联万物，液冷护航，国产算力迎新纪元",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-11-07] 开源证券 - 通信行业投资策略：光联万物，液冷护航，国产算力迎新纪元.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-06] 信达证券 - 产业及政策驱动下，数据中心液冷前景广阔环保周报.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-09-06",
+      "org": "信达证券",
+      "title": "09-06] 信达证券 - 产业及政策驱动下，数据中心液冷前景广阔环保周报",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-06] 信达证券 - 产业及政策驱动下，数据中心液冷前景广阔环保周报.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-07-29] 万联证券 - 通信行业快评报告：数据中心建设绿色化方向明确，鼓励液冷及智能化应用.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-07-29",
+      "org": "万联证券",
+      "title": "07-29] 万联证券 - 通信行业快评报告：数据中心建设绿色化方向明确，鼓励液冷及智能化应用",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-07-29] 万联证券 - 通信行业快评报告：数据中心建设绿色化方向明确，鼓励液冷及智能化应用.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-12-25] 国信证券 - 通信行业周报2023年第39期：液冷数据中心应用加速，增发国债利好北斗产业.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2023-12-25",
+      "org": "国信证券",
+      "title": "12-25] 国信证券 - 通信行业周报2023年第39期：液冷数据中心应用加速，增发国债利好北斗产业",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-12-25] 国信证券 - 通信行业周报2023年第39期：液冷数据中心应用加速，增发国债利好北斗产业.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-07-04] 国信证券 - 新型智算中心改造系列报告二：拉动全球电力消耗增长，液冷渗透率快速提升.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-07-04",
+      "org": "国信证券",
+      "title": "07-04] 国信证券 - 新型智算中心改造系列报告二：拉动全球电力消耗增长，液冷渗透率快速提升",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-07-04] 国信证券 - 新型智算中心改造系列报告二：拉动全球电力消耗增长，液冷渗透率快速提升.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-02] 东吴证券 - 电子行业点评报告：端侧AI散热机遇，微泵液冷关注艾为_南芯.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-09-02",
+      "org": "东吴证券",
+      "title": "09-02] 东吴证券 - 电子行业点评报告：端侧AI散热机遇，微泵液冷关注艾为_南芯",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-02] 东吴证券 - 电子行业点评报告：端侧AI散热机遇，微泵液冷关注艾为_南芯.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-04] 开源证券 - 通信行业点评报告：AI高密度时代，液冷散热行业拐点渐至.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-03-04",
+      "org": "开源证券",
+      "title": "03-04] 开源证券 - 通信行业点评报告：AI高密度时代，液冷散热行业拐点渐至",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-04] 开源证券 - 通信行业点评报告：AI高密度时代，液冷散热行业拐点渐至.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-07-09] 中邮证券 - 液冷深度：产业和政策双轮驱动，数据中心液冷进入高景气发展阶段.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-07-09",
+      "org": "中邮证券",
+      "title": "07-09] 中邮证券 - 液冷深度：产业和政策双轮驱动，数据中心液冷进入高景气发展阶段",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-07-09] 中邮证券 - 液冷深度：产业和政策双轮驱动，数据中心液冷进入高景气发展阶段.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-11-30] 头豹研究院 - 液冷服务器 头豹词条报告系列.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2023-11-30",
+      "org": "头豹研究院",
+      "title": "11-30] 头豹研究院 - 液冷服务器 头豹词条报告系列",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-11-30] 头豹研究院 - 液冷服务器 头豹词条报告系列.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-11-24] 开源证券 - 通信行业周报：国资委强调向战新产业集中，液冷重要性日益凸显.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-11-24",
+      "org": "开源证券",
+      "title": "11-24] 开源证券 - 通信行业周报：国资委强调向战新产业集中，液冷重要性日益凸显",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-11-24] 开源证券 - 通信行业周报：国资委强调向战新产业集中，液冷重要性日益凸显.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-05-14] 山西证券 - 通信：数据中心液冷专题报告-高增长AI算力呼唤高效液冷，国产液冷全链条崛起.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-05-14",
+      "org": "山西证券",
+      "title": "05-14] 山西证券 - 通信：数据中心液冷专题报告-高增长AI算力呼唤高效液冷，国产液冷全链条崛起",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-05-14] 山西证券 - 通信：数据中心液冷专题报告-高增长AI算力呼唤高效液冷，国产液冷全链条崛起.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2026-01-21] 国信证券 - AI产业链系列报告一：26年算力景气度持续上行，关注互联、液冷、供电板块.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2026-01-21",
+      "org": "国信证券",
+      "title": "01-21] 国信证券 - AI产业链系列报告一：26年算力景气度持续上行，关注互联、液冷、供电板块",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2026-01-21] 国信证券 - AI产业链系列报告一：26年算力景气度持续上行，关注互联、液冷、供电板块.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-12-03] 东吴证券 - 汽车零部件科技主线2026年策略报告：AI驱动下液冷+机器人需求爆发，开启汽零新增长曲线.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-12-03",
+      "org": "东吴证券",
+      "title": "12-03] 东吴证券 - 汽车零部件科技主线2026年策略报告：AI驱动下液冷+机器人需求爆发，开启汽零新增长曲线",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-12-03] 东吴证券 - 汽车零部件科技主线2026年策略报告：AI驱动下液冷+机器人需求爆发，开启汽零新增长曲线.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-12-04] 安信证券 - 电力及公用事业行业周报：华为规划至2024年建设10W台全液冷超快充桩，超快充产业链发展有望提速.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2023-12-04",
+      "org": "安信证券",
+      "title": "12-04] 安信证券 - 电力及公用事业行业周报：华为规划至2024年建设10W台全液冷超快充桩，超快充产业链发展有望提速",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-12-04] 安信证券 - 电力及公用事业行业周报：华为规划至2024年建设10W台全液冷超快充桩，超快充产业链发展有望提速.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-01] 民生证券 - 通信行业点评：液冷大趋势明显，产业端已露端倪.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-03-01",
+      "org": "民生证券",
+      "title": "03-01] 民生证券 - 通信行业点评：液冷大趋势明显，产业端已露端倪",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-01] 民生证券 - 通信行业点评：液冷大趋势明显，产业端已露端倪.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-10] 国投证券 - 电子行业周报：AI算力_存力需求高企，液冷带动散热革新.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-03-10",
+      "org": "国投证券",
+      "title": "03-10] 国投证券 - 电子行业周报：AI算力_存力需求高企，液冷带动散热革新",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-10] 国投证券 - 电子行业周报：AI算力_存力需求高企，液冷带动散热革新.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-12-22] 太平洋 - 机械行业周报：AI算力爆发催生液冷散热，关注液冷设备相关标的（20251215-20251221）.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-12-22",
+      "org": "太平洋",
+      "title": "12-22] 太平洋 - 机械行业周报：AI算力爆发催生液冷散热，关注液冷设备相关标的（20251215-20251221）",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-12-22] 太平洋 - 机械行业周报：AI算力爆发催生液冷散热，关注液冷设备相关标的（20251215-20251221）.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-01-14] 中泰证券 - AI产业研究：算力系列之一：液冷-液冷，护航数据中心走向绿色低碳.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-01-14",
+      "org": "中泰证券",
+      "title": "01-14] 中泰证券 - AI产业研究：算力系列之一：液冷-液冷，护航数据中心走向绿色低碳",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-01-14] 中泰证券 - AI产业研究：算力系列之一：液冷-液冷，护航数据中心走向绿色低碳.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-21] 国金证券 - 基础化工行业研究：AI系列深度（五）：AI服务器散热进入液冷时代，导热散热材料需求突显.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-08-21",
+      "org": "国金证券",
+      "title": "08-21] 国金证券 - 基础化工行业研究：AI系列深度（五）：AI服务器散热进入液冷时代，导热散热材料需求突显",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-21] 国金证券 - 基础化工行业研究：AI系列深度（五）：AI服务器散热进入液冷时代，导热散热材料需求突显.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-10-26] 东吴证券 - 机械设备行业跟踪周报：持续推荐国内全面复苏的工程机械；建议关注液冷新技术的设备投资机会.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-10-26",
+      "org": "东吴证券",
+      "title": "10-26] 东吴证券 - 机械设备行业跟踪周报：持续推荐国内全面复苏的工程机械；建议关注液冷新技术的设备投资机会",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-10-26] 东吴证券 - 机械设备行业跟踪周报：持续推荐国内全面复苏的工程机械；建议关注液冷新技术的设备投资机会.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-11-13] 民生证券 - 电子行业周报：AI PC的投资思考：散热屏蔽轻量化.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2023-11-13",
+      "org": "民生证券",
+      "title": "11-13] 民生证券 - 电子行业周报：AI PC的投资思考：散热屏蔽轻量化",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-11-13] 民生证券 - 电子行业周报：AI PC的投资思考：散热屏蔽轻量化.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-02-26] 国信证券 - 通信行业周报2024年第6期：英伟达引领AI加速，硅光和液冷值得关注.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-02-26",
+      "org": "国信证券",
+      "title": "02-26] 国信证券 - 通信行业周报2024年第6期：英伟达引领AI加速，硅光和液冷值得关注",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-02-26] 国信证券 - 通信行业周报2024年第6期：英伟达引领AI加速，硅光和液冷值得关注.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-01-22] 国海证券 - AI算力月度跟踪报告（202401）：英伟达H20或将量产，液冷服务器加速渗透.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-01-22",
+      "org": "国海证券",
+      "title": "01-22] 国海证券 - AI算力月度跟踪报告（202401）：英伟达H20或将量产，液冷服务器加速渗透",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-01-22] 国海证券 - AI算力月度跟踪报告（202401）：英伟达H20或将量产，液冷服务器加速渗透.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-11-28] 华源证券 - 汽车行业双周报：广东集群优势明显，26H1液冷订单确定性较高.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-11-28",
+      "org": "华源证券",
+      "title": "11-28] 华源证券 - 汽车行业双周报：广东集群优势明显，26H1液冷订单确定性较高",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-11-28] 华源证券 - 汽车行业双周报：广东集群优势明显，26H1液冷订单确定性较高.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-10] 国金证券 - 电力设备与新能源行业周报：风电板块启动预期差修正，液冷海外链国产渗透机会再重申.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-08-10",
+      "org": "国金证券",
+      "title": "08-10] 国金证券 - 电力设备与新能源行业周报：风电板块启动预期差修正，液冷海外链国产渗透机会再重申",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-10] 国金证券 - 电力设备与新能源行业周报：风电板块启动预期差修正，液冷海外链国产渗透机会再重申.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2026-02-23] 国信证券 - 机械行业2026年2月投资策略：重点关注AI基建供电端和液冷端的投资机会.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2026-02-23",
+      "org": "国信证券",
+      "title": "02-23] 国信证券 - 机械行业2026年2月投资策略：重点关注AI基建供电端和液冷端的投资机会",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2026-02-23] 国信证券 - 机械行业2026年2月投资策略：重点关注AI基建供电端和液冷端的投资机会.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-10-26] 开源证券 - 通信行业周报：“光、液冷、国产算力”全面提速.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-10-26",
+      "org": "开源证券",
+      "title": "10-26] 开源证券 - 通信行业周报：“光、液冷、国产算力”全面提速",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-10-26] 开源证券 - 通信行业周报：“光、液冷、国产算力”全面提速.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-15] 东吴证券 - AI算力持续迭代升级，液冷加速渗透行业高景气.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-08-15",
+      "org": "东吴证券",
+      "title": "08-15] 东吴证券 - AI算力持续迭代升级，液冷加速渗透行业高景气",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-15] 东吴证券 - AI算力持续迭代升级，液冷加速渗透行业高景气.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-01-16] 国海证券 - 计算机行业专题研究：液冷：算力+双碳提振需求，将迎来规模化推广.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-01-16",
+      "org": "国海证券",
+      "title": "01-16] 国海证券 - 计算机行业专题研究：液冷：算力+双碳提振需求，将迎来规模化推广",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-01-16] 国海证券 - 计算机行业专题研究：液冷：算力+双碳提振需求，将迎来规模化推广.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-12] 西南证券 - 人工智能专题研究：温控液冷——AI加速打开增量空间.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-03-12",
+      "org": "西南证券",
+      "title": "03-12] 西南证券 - 人工智能专题研究：温控液冷——AI加速打开增量空间",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-12] 西南证券 - 人工智能专题研究：温控液冷——AI加速打开增量空间.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-12-28] 海通国际 - 新能源板块行业周报：蔚来发布640kw全液冷超快充桩，法国补贴新规排除中国电车.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2023-12-28",
+      "org": "海通国际",
+      "title": "12-28] 海通国际 - 新能源板块行业周报：蔚来发布640kw全液冷超快充桩，法国补贴新规排除中国电车",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-12-28] 海通国际 - 新能源板块行业周报：蔚来发布640kw全液冷超快充桩，法国补贴新规排除中国电车.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-07-29] 国信证券 - 【国信通信·行业专题】：液冷温控——智算中心的重要保障.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-07-29",
+      "org": "国信证券",
+      "title": "07-29] 国信证券 - 【国信通信·行业专题】：液冷温控——智算中心的重要保障",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-07-29] 国信证券 - 【国信通信·行业专题】：液冷温控——智算中心的重要保障.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-05-07] 天风证券 - Vertiv2024Q1业绩点评：营收利润超预期，液冷需求强劲，订单同比+60%.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-05-07",
+      "org": "天风证券",
+      "title": "05-07] 天风证券 - Vertiv2024Q1业绩点评：营收利润超预期，液冷需求强劲，订单同比+60%",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-05-07] 天风证券 - Vertiv2024Q1业绩点评：营收利润超预期，液冷需求强劲，订单同比+60%.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-12-08] 海通国际 - 新能源板块行业周报：华为计划2024年底建成10万个全液冷超快充，特斯拉cybertruck正式交付.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2023-12-08",
+      "org": "海通国际",
+      "title": "12-08] 海通国际 - 新能源板块行业周报：华为计划2024年底建成10万个全液冷超快充，特斯拉cybertruck正式交付",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-12-08] 海通国际 - 新能源板块行业周报：华为计划2024年底建成10万个全液冷超快充，特斯拉cybertruck正式交付.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-05-30] 国金证券 - 通信行业研究：AI发展带来高密度算力需求，带动服务器液冷行业快速发展.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-05-30",
+      "org": "国金证券",
+      "title": "05-30] 国金证券 - 通信行业研究：AI发展带来高密度算力需求，带动服务器液冷行业快速发展",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-05-30] 国金证券 - 通信行业研究：AI发展带来高密度算力需求，带动服务器液冷行业快速发展.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-29] 国信证券 - 数据中心互联技术专题五：液冷—智算中心散热核心技术.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-09-29",
+      "org": "国信证券",
+      "title": "09-29] 国信证券 - 数据中心互联技术专题五：液冷—智算中心散热核心技术",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-29] 国信证券 - 数据中心互联技术专题五：液冷—智算中心散热核心技术.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-30] 民生证券 - 通信行业点评：数据中心温控已进入_模块化_.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-09-30",
+      "org": "民生证券",
+      "title": "09-30] 民生证券 - 通信行业点评：数据中心温控已进入_模块化_",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-30] 民生证券 - 通信行业点评：数据中心温控已进入_模块化_.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-28] 民生证券 - 通信行业点评：液冷技术再突破，IDC热管理“变纪元”开启.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-09-28",
+      "org": "民生证券",
+      "title": "09-28] 民生证券 - 通信行业点评：液冷技术再突破，IDC热管理“变纪元”开启",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-28] 民生证券 - 通信行业点评：液冷技术再突破，IDC热管理“变纪元”开启.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-12-19] 开源证券 - 通信行业点评报告：有望复苏的光纤光缆和超预期的液冷.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-12-19",
+      "org": "开源证券",
+      "title": "12-19] 开源证券 - 通信行业点评报告：有望复苏的光纤光缆和超预期的液冷",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-12-19] 开源证券 - 通信行业点评报告：有望复苏的光纤光缆和超预期的液冷.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-26] 太平洋 - 电子行业周报：液冷技术加速从早期试点迈向规模化导入.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-08-26",
+      "org": "太平洋",
+      "title": "08-26] 太平洋 - 电子行业周报：液冷技术加速从早期试点迈向规模化导入",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-26] 太平洋 - 电子行业周报：液冷技术加速从早期试点迈向规模化导入.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-11-30] 华金证券 - 电力设备及新能源行业快报：华为全液冷超快充将部署超过十万个，超快充产业链迎来快速发展.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2023-11-30",
+      "org": "华金证券",
+      "title": "11-30] 华金证券 - 电力设备及新能源行业快报：华为全液冷超快充将部署超过十万个，超快充产业链迎来快速发展",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2023-11-30] 华金证券 - 电力设备及新能源行业快报：华为全液冷超快充将部署超过十万个，超快充产业链迎来快速发展.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-05] 华安证券 - 电力设备行业周报：锂电排产提升光伏小幅涨价，关注快充液冷赛道.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-03-05",
+      "org": "华安证券",
+      "title": "03-05] 华安证券 - 电力设备行业周报：锂电排产提升光伏小幅涨价，关注快充液冷赛道",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-05] 华安证券 - 电力设备行业周报：锂电排产提升光伏小幅涨价，关注快充液冷赛道.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-12-01] 中原证券 - 计算机行业年度策略：国产化形势持续向好，重点关注推理、AI应用和液冷需求.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-12-01",
+      "org": "中原证券",
+      "title": "12-01] 中原证券 - 计算机行业年度策略：国产化形势持续向好，重点关注推理、AI应用和液冷需求",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-12-01] 中原证券 - 计算机行业年度策略：国产化形势持续向好，重点关注推理、AI应用和液冷需求.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-11] 东吴证券 - 计算机行业跟踪周报：AI算力不断迭代，液冷大势所趋.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-03-11",
+      "org": "东吴证券",
+      "title": "03-11] 东吴证券 - 计算机行业跟踪周报：AI算力不断迭代，液冷大势所趋",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-11] 东吴证券 - 计算机行业跟踪周报：AI算力不断迭代，液冷大势所趋.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-11] 东海证券 - 电子行业周报：英伟达B100芯片带动液冷散热变革，SK海力士加码HBM先进封装.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-03-11",
+      "org": "东海证券",
+      "title": "03-11] 东海证券 - 电子行业周报：英伟达B100芯片带动液冷散热变革，SK海力士加码HBM先进封装",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-11] 东海证券 - 电子行业周报：英伟达B100芯片带动液冷散热变革，SK海力士加码HBM先进封装.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-10] 华金证券 - 电子半导体行业周报：AI&半导体：液冷渗透率提升，FAB稳健成长.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-08-10",
+      "org": "华金证券",
+      "title": "08-10] 华金证券 - 电子半导体行业周报：AI&半导体：液冷渗透率提升，FAB稳健成长",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-10] 华金证券 - 电子半导体行业周报：AI&半导体：液冷渗透率提升，FAB稳健成长.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-10-20] 国海证券 - AI算力“卖水人”系列（3）：NVIDIA GB200：重塑服务器_铜缆_液冷_HBM价值.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-10-20",
+      "org": "国海证券",
+      "title": "10-20] 国海证券 - AI算力“卖水人”系列（3）：NVIDIA GB200：重塑服务器_铜缆_液冷_HBM价值",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-10-20] 国海证券 - AI算力“卖水人”系列（3）：NVIDIA GB200：重塑服务器_铜缆_液冷_HBM价值.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-12-23] 国信证券 - 机械设备行业制造成长周报（第39期）：何小鹏称人形机器人是巨头竞争，持续关注AI基建燃机及液冷投资机会.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-12-23",
+      "org": "国信证券",
+      "title": "12-23] 国信证券 - 机械设备行业制造成长周报（第39期）：何小鹏称人形机器人是巨头竞争，持续关注AI基建燃机及液冷投资机会",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-12-23] 国信证券 - 机械设备行业制造成长周报（第39期）：何小鹏称人形机器人是巨头竞争，持续关注AI基建燃机及液冷投资机会.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2026-01-11] 开源证券 - 通信行业周报：光、液冷、国内AIDC迎新变化.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2026-01-11",
+      "org": "开源证券",
+      "title": "01-11] 开源证券 - 通信行业周报：光、液冷、国内AIDC迎新变化",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2026-01-11] 开源证券 - 通信行业周报：光、液冷、国内AIDC迎新变化.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-28] 华鑫证券 - 计算机行业点评报告：微软：微流体散热技术取得突破，AI算力基建保持领先.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-09-28",
+      "org": "华鑫证券",
+      "title": "09-28] 华鑫证券 - 计算机行业点评报告：微软：微流体散热技术取得突破，AI算力基建保持领先",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-28] 华鑫证券 - 计算机行业点评报告：微软：微流体散热技术取得突破，AI算力基建保持领先.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2026-04-14] 国信证券 - 汽车+AI前瞻系列之-服务器液冷专题：服务器算力提升催化液冷需求，供应商迎来国产替代新机遇.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2026-04-14",
+      "org": "国信证券",
+      "title": "04-14] 国信证券 - 汽车+AI前瞻系列之-服务器液冷专题：服务器算力提升催化液冷需求，供应商迎来国产替代新机遇",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2026-04-14] 国信证券 - 汽车+AI前瞻系列之-服务器液冷专题：服务器算力提升催化液冷需求，供应商迎来国产替代新机遇.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-07-31] 开源证券 - 通信行业点评报告：Vertiv和Celestica上调指引，液冷按下提速键.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-07-31",
+      "org": "开源证券",
+      "title": "07-31] 开源证券 - 通信行业点评报告：Vertiv和Celestica上调指引，液冷按下提速键",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-07-31] 开源证券 - 通信行业点评报告：Vertiv和Celestica上调指引，液冷按下提速键.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-11-22] 东海证券 - 机械设备行业周报：国产机器人产业链蓬勃发展，AI算力投资带动液冷需求.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-11-22",
+      "org": "东海证券",
+      "title": "11-22] 东海证券 - 机械设备行业周报：国产机器人产业链蓬勃发展，AI算力投资带动液冷需求",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-11-22] 东海证券 - 机械设备行业周报：国产机器人产业链蓬勃发展，AI算力投资带动液冷需求.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-12] 华鑫证券 - 电力设备行业周报：液冷柴发板块超预期，关注云厂财报.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-08-12",
+      "org": "华鑫证券",
+      "title": "08-12] 华鑫证券 - 电力设备行业周报：液冷柴发板块超预期，关注云厂财报",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-12] 华鑫证券 - 电力设备行业周报：液冷柴发板块超预期，关注云厂财报.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-02-28] 东莞证券 - 液冷专题报告：从台商脉络探产业发展系列报告四.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-02-28",
+      "org": "东莞证券",
+      "title": "02-28] 东莞证券 - 液冷专题报告：从台商脉络探产业发展系列报告四",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-02-28] 东莞证券 - 液冷专题报告：从台商脉络探产业发展系列报告四.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-08-26] 国投证券 - 计算机行业周报：数字化绿色化政策发布，数据中心液冷是未来趋势.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-08-26",
+      "org": "国投证券",
+      "title": "08-26] 国投证券 - 计算机行业周报：数字化绿色化政策发布，数据中心液冷是未来趋势",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-08-26] 国投证券 - 计算机行业周报：数字化绿色化政策发布，数据中心液冷是未来趋势.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-20] 开源证券 - 通信行业点评报告：GB200发布，重视光通信、液冷、通信互联新机会.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-03-20",
+      "org": "开源证券",
+      "title": "03-20] 开源证券 - 通信行业点评报告：GB200发布，重视光通信、液冷、通信互联新机会",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-20] 开源证券 - 通信行业点评报告：GB200发布，重视光通信、液冷、通信互联新机会.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-07-07] 民生证券 - 电子行业周报：AI终端新趋势：散热、耳机、AR.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-07-07",
+      "org": "民生证券",
+      "title": "07-07] 民生证券 - 电子行业周报：AI终端新趋势：散热、耳机、AR",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-07-07] 民生证券 - 电子行业周报：AI终端新趋势：散热、耳机、AR.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-08] 开源证券 - 通信行业点评报告：OCS或加速发展，光通信、液冷迎新机遇.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-09-08",
+      "org": "开源证券",
+      "title": "09-08] 开源证券 - 通信行业点评报告：OCS或加速发展，光通信、液冷迎新机遇",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-09-08] 开源证券 - 通信行业点评报告：OCS或加速发展，光通信、液冷迎新机遇.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-05] 中国银河 - 计算机行业：英伟达B100将采用液冷散热，数据中心进入液冷1.0时代.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-03-05",
+      "org": "中国银河",
+      "title": "03-05] 中国银河 - 计算机行业：英伟达B100将采用液冷散热，数据中心进入液冷1.0时代",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-05] 中国银河 - 计算机行业：英伟达B100将采用液冷散热，数据中心进入液冷1.0时代.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-03] 华鑫证券 - 新能源汽车行业周报：供需结构持续优化，推荐固态、液冷、机器人方向.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-08-03",
+      "org": "华鑫证券",
+      "title": "08-03] 华鑫证券 - 新能源汽车行业周报：供需结构持续优化，推荐固态、液冷、机器人方向",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-08-03] 华鑫证券 - 新能源汽车行业周报：供需结构持续优化，推荐固态、液冷、机器人方向.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2026-04-13] 华鑫证券 - 电力设备行业周报：液冷产业催化密集落地，算力基础设施景气持续上行.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2026-04-13",
+      "org": "华鑫证券",
+      "title": "04-13] 华鑫证券 - 电力设备行业周报：液冷产业催化密集落地，算力基础设施景气持续上行",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2026-04-13] 华鑫证券 - 电力设备行业周报：液冷产业催化密集落地，算力基础设施景气持续上行.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-11-25] 中银证券 - 计算机行业事件点评：散热正成为AI算力正面挑战，液冷技术受益.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-11-25",
+      "org": "中银证券",
+      "title": "11-25] 中银证券 - 计算机行业事件点评：散热正成为AI算力正面挑战，液冷技术受益",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-11-25] 中银证券 - 计算机行业事件点评：散热正成为AI算力正面挑战，液冷技术受益.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-28] 华金证券 - 通信：AI算力提升刚需液冷，液冷时代加速来临.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-03-28",
+      "org": "华金证券",
+      "title": "03-28] 华金证券 - 通信：AI算力提升刚需液冷，液冷时代加速来临",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-03-28] 华金证券 - 通信：AI算力提升刚需液冷，液冷时代加速来临.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-12-06] 头豹研究院 - 液冷数据中心解决方案：高效节能，打造绿色未来的冷却技术 头豹词条报告系列.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-12-06",
+      "org": "头豹研究院",
+      "title": "12-06] 头豹研究院 - 液冷数据中心解决方案：高效节能，打造绿色未来的冷却技术 头豹词条报告系列",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-12-06] 头豹研究院 - 液冷数据中心解决方案：高效节能，打造绿色未来的冷却技术 头豹词条报告系列.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-08-23] 天风证券 - 电子行业专题研究：液冷服务器核心部件，国产有望导入海外供应链.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-08-23",
+      "org": "天风证券",
+      "title": "08-23] 天风证券 - 电子行业专题研究：液冷服务器核心部件，国产有望导入海外供应链",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-08-23] 天风证券 - 电子行业专题研究：液冷服务器核心部件，国产有望导入海外供应链.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-09-18] 西南证券 - 液冷专题报告：AI助推液冷行业步入新时代.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2024-09-18",
+      "org": "西南证券",
+      "title": "09-18] 西南证券 - 液冷专题报告：AI助推液冷行业步入新时代",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-09-18] 西南证券 - 液冷专题报告：AI助推液冷行业步入新时代.pdf"
+    },
+    "sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-07-29] 开源证券 - 通信行业点评报告：Celestica上调业绩指引，看好光通信、液冷等板块估值提升.pdf": {
+      "type": "industry_report",
+      "category": "01_数据中心液冷_核心",
+      "date": "2025-07-29",
+      "org": "开源证券",
+      "title": "07-29] 开源证券 - 通信行业点评报告：Celestica上调业绩指引，看好光通信、液冷等板块估值提升",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/01_数据中心液冷_核心/[2025-07-29] 开源证券 - 通信行业点评报告：Celestica上调业绩指引，看好光通信、液冷等板块估值提升.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2024-03-18] 中泰证券 - 通信行业周报：英伟达GTC大会将至，关注AI算力网络与液冷新机会.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2024-03-18",
+      "org": "中泰证券",
+      "title": "03-18] 中泰证券 - 通信行业周报：英伟达GTC大会将至，关注AI算力网络与液冷新机会",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2024-03-18] 中泰证券 - 通信行业周报：英伟达GTC大会将至，关注AI算力网络与液冷新机会.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-03-22] 华源证券 - 汽车行业周报：GTC观察：液冷投资正处于“黄金时代”.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2026-03-22",
+      "org": "华源证券",
+      "title": "03-22] 华源证券 - 汽车行业周报：GTC观察：液冷投资正处于“黄金时代”",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-03-22] 华源证券 - 汽车行业周报：GTC观察：液冷投资正处于“黄金时代”.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2024-06-26] 国海证券 - AI算力“卖水人”专题系列（2）：芯片散热：从风冷到液冷，AI驱动产业革新.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2024-06-26",
+      "org": "国海证券",
+      "title": "06-26] 国海证券 - AI算力“卖水人”专题系列（2）：芯片散热：从风冷到液冷，AI驱动产业革新",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2024-06-26] 国海证券 - AI算力“卖水人”专题系列（2）：芯片散热：从风冷到液冷，AI驱动产业革新.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-03-13] 国信证券 - 人工智能设备专题：英伟达GTC大会在即，关注电源、液冷、CPO及PCB板块.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2025-03-13",
+      "org": "国信证券",
+      "title": "03-13] 国信证券 - 人工智能设备专题：英伟达GTC大会在即，关注电源、液冷、CPO及PCB板块",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-03-13] 国信证券 - 人工智能设备专题：英伟达GTC大会在即，关注电源、液冷、CPO及PCB板块.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2024-11-24] 华福证券 - 电子行业海外科技周跟踪：维谛展望MW级GPU机柜，打开互联、散热技术想象空间.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2024-11-24",
+      "org": "华福证券",
+      "title": "11-24] 华福证券 - 电子行业海外科技周跟踪：维谛展望MW级GPU机柜，打开互联、散热技术想象空间",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2024-11-24] 华福证券 - 电子行业海外科技周跟踪：维谛展望MW级GPU机柜，打开互联、散热技术想象空间.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2024-06-03] 开源证券 - 通信行业点评报告：COMPUTEX 2024总结：Rubin GPU、以太网Spectrum Ultra X800、液冷MGX成热点.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2024-06-03",
+      "org": "开源证券",
+      "title": "06-03] 开源证券 - 通信行业点评报告：COMPUTEX 2024总结：Rubin GPU、以太网Spectrum Ultra X800、液冷MGX成热点",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2024-06-03] 开源证券 - 通信行业点评报告：COMPUTEX 2024总结：Rubin GPU、以太网Spectrum Ultra X800、液冷MGX成热点.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-08-31] 开源证券 - 通信行业周报：英伟达Rubin开启生产，阿里财报亮眼，重视国产算力、液冷、光通信投资机会.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2025-08-31",
+      "org": "开源证券",
+      "title": "08-31] 开源证券 - 通信行业周报：英伟达Rubin开启生产，阿里财报亮眼，重视国产算力、液冷、光通信投资机会",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-08-31] 开源证券 - 通信行业周报：英伟达Rubin开启生产，阿里财报亮眼，重视国产算力、液冷、光通信投资机会.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-01-13] 环球富盛理财 - CES 2026后英伟达Rubin架构及供应链（存储_互联_液冷）变化解读.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2026-01-13",
+      "org": "环球富盛理财",
+      "title": "01-13] 环球富盛理财 - CES 2026后英伟达Rubin架构及供应链（存储_互联_液冷）变化解读",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-01-13] 环球富盛理财 - CES 2026后英伟达Rubin架构及供应链（存储_互联_液冷）变化解读.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2024-03-17] 开源证券 - 通信行业周报：GTC大会将至，关注光模块、液冷、机器人等板块.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2024-03-17",
+      "org": "开源证券",
+      "title": "03-17] 开源证券 - 通信行业周报：GTC大会将至，关注光模块、液冷、机器人等板块",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2024-03-17] 开源证券 - 通信行业周报：GTC大会将至，关注光模块、液冷、机器人等板块.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-04-29] 华源证券 - 谷歌第八代TPU亮相，采用第四代液冷架构，液冷市场有望快速增长：液冷渗透率加速，金刚石散热技术持续推进.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2026-04-29",
+      "org": "华源证券",
+      "title": "04-29] 华源证券 - 谷歌第八代TPU亮相，采用第四代液冷架构，液冷市场有望快速增长：液冷渗透率加速，金刚石散热技术持续推进",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-04-29] 华源证券 - 谷歌第八代TPU亮相，采用第四代液冷架构，液冷市场有望快速增长：液冷渗透率加速，金刚石散热技术持续推进.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-04-27] 华鑫证券 - 新能源汽车行业周报：固态电池产业化进程持续推进，谷歌TPU带动液冷需求.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2026-04-27",
+      "org": "华鑫证券",
+      "title": "04-27] 华鑫证券 - 新能源汽车行业周报：固态电池产业化进程持续推进，谷歌TPU带动液冷需求",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-04-27] 华鑫证券 - 新能源汽车行业周报：固态电池产业化进程持续推进，谷歌TPU带动液冷需求.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-09-11] 开源证券 - 通信行业点评报告：Rubin CPX或大幅提升光模块和液冷需求.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2025-09-11",
+      "org": "开源证券",
+      "title": "09-11] 开源证券 - 通信行业点评报告：Rubin CPX或大幅提升光模块和液冷需求",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-09-11] 开源证券 - 通信行业点评报告：Rubin CPX或大幅提升光模块和液冷需求.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-08-22] 山西证券 - 通信行业周跟踪：液冷、OCS与国产超节点，继续关注AI板块轮动行情.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2025-08-22",
+      "org": "山西证券",
+      "title": "08-22] 山西证券 - 通信行业周跟踪：液冷、OCS与国产超节点，继续关注AI板块轮动行情",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-08-22] 山西证券 - 通信行业周跟踪：液冷、OCS与国产超节点，继续关注AI板块轮动行情.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-08-11] 中国银河 - 通信行业行业点评报告：GPU功耗+集成度提升，液冷景气度上行.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2025-08-11",
+      "org": "中国银河",
+      "title": "08-11] 中国银河 - 通信行业行业点评报告：GPU功耗+集成度提升，液冷景气度上行",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-08-11] 中国银河 - 通信行业行业点评报告：GPU功耗+集成度提升，液冷景气度上行.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-04-12] 华源证券 - 汽车行业周报：关注26年起国产超节点液冷新增量.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2026-04-12",
+      "org": "华源证券",
+      "title": "04-12] 华源证券 - 汽车行业周报：关注26年起国产超节点液冷新增量",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-04-12] 华源证券 - 汽车行业周报：关注26年起国产超节点液冷新增量.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-03-17] 东吴证券 - 机械设备行业点评报告：GTC大会召开，PCB&液冷环节确定性进一步提升.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2026-03-17",
+      "org": "东吴证券",
+      "title": "03-17] 东吴证券 - 机械设备行业点评报告：GTC大会召开，PCB&液冷环节确定性进一步提升",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-03-17] 东吴证券 - 机械设备行业点评报告：GTC大会召开，PCB&液冷环节确定性进一步提升.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-03-16] 开源证券 - 通信行业周报：GTC大会召开在即，关注CPO、液冷、服务器电源等板块.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2025-03-16",
+      "org": "开源证券",
+      "title": "03-16] 开源证券 - 通信行业周报：GTC大会召开在即，关注CPO、液冷、服务器电源等板块",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-03-16] 开源证券 - 通信行业周报：GTC大会召开在即，关注CPO、液冷、服务器电源等板块.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-01-29] 开源证券 - 通信行业深度报告：超节点：光、液冷、供电、芯片的全面升级.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2026-01-29",
+      "org": "开源证券",
+      "title": "01-29] 开源证券 - 通信行业深度报告：超节点：光、液冷、供电、芯片的全面升级",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-01-29] 开源证券 - 通信行业深度报告：超节点：光、液冷、供电、芯片的全面升级.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-03-23] 中国银河 - 电力设备与新能源：英伟达2025 GTC大会解读：算力需求旺盛，供电、液冷及CPO持续升级.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2025-03-23",
+      "org": "中国银河",
+      "title": "03-23] 中国银河 - 电力设备与新能源：英伟达2025 GTC大会解读：算力需求旺盛，供电、液冷及CPO持续升级",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2025-03-23] 中国银河 - 电力设备与新能源：英伟达2025 GTC大会解读：算力需求旺盛，供电、液冷及CPO持续升级.pdf"
+    },
+    "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-01-18] 华源证券 - 汽车行业双周报：英伟达Rubin平台发布，液冷环节核心增量有哪些？.pdf": {
+      "type": "industry_report",
+      "category": "02_超节点_GPU_服务器散热",
+      "date": "2026-01-18",
+      "org": "华源证券",
+      "title": "01-18] 华源证券 - 汽车行业双周报：英伟达Rubin平台发布，液冷环节核心增量有哪些？",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/02_超节点_GPU_服务器散热/[2026-01-18] 华源证券 - 汽车行业双周报：英伟达Rubin平台发布，液冷环节核心增量有哪些？.pdf"
+    },
+    "sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2023-12-27] 民生证券 - 液冷板行业深度报告：“一体两翼”，液冷板需求放量.pdf": {
+      "type": "industry_report",
+      "category": "03_液冷产业链_组件_冷板_CDU",
+      "date": "2023-12-27",
+      "org": "民生证券",
+      "title": "12-27] 民生证券 - 液冷板行业深度报告：“一体两翼”，液冷板需求放量",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2023-12-27] 民生证券 - 液冷板行业深度报告：“一体两翼”，液冷板需求放量.pdf"
+    },
+    "sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-09-23] 开源证券 - 通信行业点评报告：英伟达拟投资OpenAI，利好光模块、液冷板块.pdf": {
+      "type": "industry_report",
+      "category": "03_液冷产业链_组件_冷板_CDU",
+      "date": "2025-09-23",
+      "org": "开源证券",
+      "title": "09-23] 开源证券 - 通信行业点评报告：英伟达拟投资OpenAI，利好光模块、液冷板块",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-09-23] 开源证券 - 通信行业点评报告：英伟达拟投资OpenAI，利好光模块、液冷板块.pdf"
+    },
+    "sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-01-26] 东吴证券 - 液冷行业深度报告：冷板式液冷放量在即，浸没式液冷可期.pdf": {
+      "type": "industry_report",
+      "category": "03_液冷产业链_组件_冷板_CDU",
+      "date": "2025-01-26",
+      "org": "东吴证券",
+      "title": "01-26] 东吴证券 - 液冷行业深度报告：冷板式液冷放量在即，浸没式液冷可期",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-01-26] 东吴证券 - 液冷行业深度报告：冷板式液冷放量在即，浸没式液冷可期.pdf"
+    },
+    "sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-05-20] 头豹研究院 - 中国液冷连接器行业市场规模测算逻辑模型 头豹词条报告系列.pdf": {
+      "type": "industry_report",
+      "category": "03_液冷产业链_组件_冷板_CDU",
+      "date": "2025-05-20",
+      "org": "头豹研究院",
+      "title": "05-20] 头豹研究院 - 中国液冷连接器行业市场规模测算逻辑模型 头豹词条报告系列",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-05-20] 头豹研究院 - 中国液冷连接器行业市场规模测算逻辑模型 头豹词条报告系列.pdf"
+    },
+    "sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-11-03] 国金证券 - 3D打印行业研究：响应AI芯片散热革命，3D打印液冷板前景广阔.pdf": {
+      "type": "industry_report",
+      "category": "03_液冷产业链_组件_冷板_CDU",
+      "date": "2025-11-03",
+      "org": "国金证券",
+      "title": "11-03] 国金证券 - 3D打印行业研究：响应AI芯片散热革命，3D打印液冷板前景广阔",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-11-03] 国金证券 - 3D打印行业研究：响应AI芯片散热革命，3D打印液冷板前景广阔.pdf"
+    },
+    "sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2023-10-29] 信达证券 - 信达家电·热点追踪：9月家电出口加速回暖，持续关注工商业制冷板块.pdf": {
+      "type": "industry_report",
+      "category": "03_液冷产业链_组件_冷板_CDU",
+      "date": "2023-10-29",
+      "org": "信达证券",
+      "title": "10-29] 信达证券 - 信达家电·热点追踪：9月家电出口加速回暖，持续关注工商业制冷板块",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2023-10-29] 信达证券 - 信达家电·热点追踪：9月家电出口加速回暖，持续关注工商业制冷板块.pdf"
+    },
+    "sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2024-05-30] 中国信通院 - 算力中心冷板式液冷发展研究报告（2024年）.pdf": {
+      "type": "industry_report",
+      "category": "03_液冷产业链_组件_冷板_CDU",
+      "date": "2024-05-30",
+      "org": "中国信通院",
+      "title": "05-30] 中国信通院 - 算力中心冷板式液冷发展研究报告（2024年）",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2024-05-30] 中国信通院 - 算力中心冷板式液冷发展研究报告（2024年）.pdf"
+    },
+    "sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2024-12-15] 国金证券 - 通信行业研究：光模块估值性价比凸显，同时关注交换机与液冷板块.pdf": {
+      "type": "industry_report",
+      "category": "03_液冷产业链_组件_冷板_CDU",
+      "date": "2024-12-15",
+      "org": "国金证券",
+      "title": "12-15] 国金证券 - 通信行业研究：光模块估值性价比凸显，同时关注交换机与液冷板块",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2024-12-15] 国金证券 - 通信行业研究：光模块估值性价比凸显，同时关注交换机与液冷板块.pdf"
+    },
+    "sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-01-05] 国金证券 - 通信行业周报：液冷板块再迎催化，关注通信设备商AI方面布局.pdf": {
+      "type": "industry_report",
+      "category": "03_液冷产业链_组件_冷板_CDU",
+      "date": "2025-01-05",
+      "org": "国金证券",
+      "title": "01-05] 国金证券 - 通信行业周报：液冷板块再迎催化，关注通信设备商AI方面布局",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-01-05] 国金证券 - 通信行业周报：液冷板块再迎催化，关注通信设备商AI方面布局.pdf"
+    },
+    "sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-08-10] 国金证券 - 通信行业研究：GPT-5再提升推理效率，液冷板块高景气度维持.pdf": {
+      "type": "industry_report",
+      "category": "03_液冷产业链_组件_冷板_CDU",
+      "date": "2025-08-10",
+      "org": "国金证券",
+      "title": "08-10] 国金证券 - 通信行业研究：GPT-5再提升推理效率，液冷板块高景气度维持",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-08-10] 国金证券 - 通信行业研究：GPT-5再提升推理效率，液冷板块高景气度维持.pdf"
+    },
+    "sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-04-17] 头豹研究院 - 2025年中国液冷连接器行业概览：数据中心驱动，液冷连接器市场迎来黄金增长期（精华版）.pdf": {
+      "type": "industry_report",
+      "category": "03_液冷产业链_组件_冷板_CDU",
+      "date": "2025-04-17",
+      "org": "头豹研究院",
+      "title": "04-17] 头豹研究院 - 2025年中国液冷连接器行业概览：数据中心驱动，液冷连接器市场迎来黄金增长期（精华版）",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/[2025-04-17] 头豹研究院 - 2025年中国液冷连接器行业概览：数据中心驱动，液冷连接器市场迎来黄金增长期（精华版）.pdf"
+    },
+    "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2026-04-26] 东吴证券 - 机械设备行业跟踪周报：推荐AI资本开支相关的燃气轮机、光模块设备、液冷、PCB设备等.pdf": {
+      "type": "industry_report",
+      "category": "04_AI基建_光模块_电源协同",
+      "date": "2026-04-26",
+      "org": "东吴证券",
+      "title": "04-26] 东吴证券 - 机械设备行业跟踪周报：推荐AI资本开支相关的燃气轮机、光模块设备、液冷、PCB设备等",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2026-04-26] 东吴证券 - 机械设备行业跟踪周报：推荐AI资本开支相关的燃气轮机、光模块设备、液冷、PCB设备等.pdf"
+    },
+    "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-11-02] 东吴证券 - 机械设备行业跟踪周报：推荐高景气的AI设备（PCB设备、液冷设备、燃气轮机等）；看好存储扩产带来的半导体设备国产化机会.pdf": {
+      "type": "industry_report",
+      "category": "04_AI基建_光模块_电源协同",
+      "date": "2025-11-02",
+      "org": "东吴证券",
+      "title": "11-02] 东吴证券 - 机械设备行业跟踪周报：推荐高景气的AI设备（PCB设备、液冷设备、燃气轮机等）；看好存储扩产带来的半导体设备国产化机会",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-11-02] 东吴证券 - 机械设备行业跟踪周报：推荐高景气的AI设备（PCB设备、液冷设备、燃气轮机等）；看好存储扩产带来的半导体设备国产化机会.pdf"
+    },
+    "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-11-16] 东吴证券 - 机械设备行业跟踪周报：看好下游扩产持续加速&固态催化的锂电设备；持续推荐AI设备（燃气轮机、液冷设备等）.pdf": {
+      "type": "industry_report",
+      "category": "04_AI基建_光模块_电源协同",
+      "date": "2025-11-16",
+      "org": "东吴证券",
+      "title": "11-16] 东吴证券 - 机械设备行业跟踪周报：看好下游扩产持续加速&固态催化的锂电设备；持续推荐AI设备（燃气轮机、液冷设备等）",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-11-16] 东吴证券 - 机械设备行业跟踪周报：看好下游扩产持续加速&固态催化的锂电设备；持续推荐AI设备（燃气轮机、液冷设备等）.pdf"
+    },
+    "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2026-04-22] 国信证券 - 机械行业2026年4月投资策略：重点关注产业趋势强的海外缺电、液冷及光模块设备产业链.pdf": {
+      "type": "industry_report",
+      "category": "04_AI基建_光模块_电源协同",
+      "date": "2026-04-22",
+      "org": "国信证券",
+      "title": "04-22] 国信证券 - 机械行业2026年4月投资策略：重点关注产业趋势强的海外缺电、液冷及光模块设备产业链",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2026-04-22] 国信证券 - 机械行业2026年4月投资策略：重点关注产业趋势强的海外缺电、液冷及光模块设备产业链.pdf"
+    },
+    "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-08-15] 民生证券 - AIDC电源系列二：液冷元年的“变与不变”.pdf": {
+      "type": "industry_report",
+      "category": "04_AI基建_光模块_电源协同",
+      "date": "2025-08-15",
+      "org": "民生证券",
+      "title": "08-15] 民生证券 - AIDC电源系列二：液冷元年的“变与不变”",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-08-15] 民生证券 - AIDC电源系列二：液冷元年的“变与不变”.pdf"
+    },
+    "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-08-08] 上海证券 - 电子行业先进科技主题：AI PCB扩产拉动上游设备需求，北美大厂Capex上调有望提振液冷放量.pdf": {
+      "type": "industry_report",
+      "category": "04_AI基建_光模块_电源协同",
+      "date": "2025-08-08",
+      "org": "上海证券",
+      "title": "08-08] 上海证券 - 电子行业先进科技主题：AI PCB扩产拉动上游设备需求，北美大厂Capex上调有望提振液冷放量",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-08-08] 上海证券 - 电子行业先进科技主题：AI PCB扩产拉动上游设备需求，北美大厂Capex上调有望提振液冷放量.pdf"
+    },
+    "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2024-05-23] 国联证券 - 通信：英伟达业绩超预期，光模块与液冷有望受益.pdf": {
+      "type": "industry_report",
+      "category": "04_AI基建_光模块_电源协同",
+      "date": "2024-05-23",
+      "org": "国联证券",
+      "title": "05-23] 国联证券 - 通信：英伟达业绩超预期，光模块与液冷有望受益",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2024-05-23] 国联证券 - 通信：英伟达业绩超预期，光模块与液冷有望受益.pdf"
+    },
+    "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-12-21] 东吴证券 - 机械设备行业跟踪周报：持续推荐AI+的液冷和PCB设备；银河通用成功融资建议关注人形机器人模型端进展加速.pdf": {
+      "type": "industry_report",
+      "category": "04_AI基建_光模块_电源协同",
+      "date": "2025-12-21",
+      "org": "东吴证券",
+      "title": "12-21] 东吴证券 - 机械设备行业跟踪周报：持续推荐AI+的液冷和PCB设备；银河通用成功融资建议关注人形机器人模型端进展加速",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-12-21] 东吴证券 - 机械设备行业跟踪周报：持续推荐AI+的液冷和PCB设备；银河通用成功融资建议关注人形机器人模型端进展加速.pdf"
+    },
+    "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2024-03-24] 国海证券 - AI算力月度跟踪：NVIDIAB200再创算力奇迹，液冷、光模块持续革新.pdf": {
+      "type": "industry_report",
+      "category": "04_AI基建_光模块_电源协同",
+      "date": "2024-03-24",
+      "org": "国海证券",
+      "title": "03-24] 国海证券 - AI算力月度跟踪：NVIDIAB200再创算力奇迹，液冷、光模块持续革新",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2024-03-24] 国海证券 - AI算力月度跟踪：NVIDIAB200再创算力奇迹，液冷、光模块持续革新.pdf"
+    },
+    "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-11-30] 东吴证券 - 机械设备行业跟踪周报：持续推荐AI设备（燃气轮机+PCB设备+液冷设备等）；建议关注回调多&强催化的人形机器人.pdf": {
+      "type": "industry_report",
+      "category": "04_AI基建_光模块_电源协同",
+      "date": "2025-11-30",
+      "org": "东吴证券",
+      "title": "11-30] 东吴证券 - 机械设备行业跟踪周报：持续推荐AI设备（燃气轮机+PCB设备+液冷设备等）；建议关注回调多&强催化的人形机器人",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-11-30] 东吴证券 - 机械设备行业跟踪周报：持续推荐AI设备（燃气轮机+PCB设备+液冷设备等）；建议关注回调多&强催化的人形机器人.pdf"
+    },
+    "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-08-04] 国金证券 - 电力设备与新能源行业研究：AIDC持续驱动电源、液冷高景气，风电26年量利展望持续乐观.pdf": {
+      "type": "industry_report",
+      "category": "04_AI基建_光模块_电源协同",
+      "date": "2025-08-04",
+      "org": "国金证券",
+      "title": "08-04] 国金证券 - 电力设备与新能源行业研究：AIDC持续驱动电源、液冷高景气，风电26年量利展望持续乐观",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-08-04] 国金证券 - 电力设备与新能源行业研究：AIDC持续驱动电源、液冷高景气，风电26年量利展望持续乐观.pdf"
+    },
+    "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-12-21] 开源证券 - 通信行业周报：AI新变化，光纤光缆或涨价、谷歌液冷和光模块需求或提升、国内AI招标或提速.pdf": {
+      "type": "industry_report",
+      "category": "04_AI基建_光模块_电源协同",
+      "date": "2025-12-21",
+      "org": "开源证券",
+      "title": "12-21] 开源证券 - 通信行业周报：AI新变化，光纤光缆或涨价、谷歌液冷和光模块需求或提升、国内AI招标或提速",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2025-12-21] 开源证券 - 通信行业周报：AI新变化，光纤光缆或涨价、谷歌液冷和光模块需求或提升、国内AI招标或提速.pdf"
+    },
+    "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2026-01-11] 东吴证券 - 机械设备行业跟踪周报：推荐光伏设备的太空算力机遇；看好液冷&光模块设备高增速快迭代机会.pdf": {
+      "type": "industry_report",
+      "category": "04_AI基建_光模块_电源协同",
+      "date": "2026-01-11",
+      "org": "东吴证券",
+      "title": "01-11] 东吴证券 - 机械设备行业跟踪周报：推荐光伏设备的太空算力机遇；看好液冷&光模块设备高增速快迭代机会",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/04_AI基建_光模块_电源协同/[2026-01-11] 东吴证券 - 机械设备行业跟踪周报：推荐光伏设备的太空算力机遇；看好液冷&光模块设备高增速快迭代机会.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2026-01-08] 头豹研究院 - 2025年液冷行业概览：算力大势所趋，AI助力液冷步入新篇章.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2026-01-08",
+      "org": "头豹研究院",
+      "title": "01-08] 头豹研究院 - 2025年液冷行业概览：算力大势所趋，AI助力液冷步入新篇章",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2026-01-08] 头豹研究院 - 2025年液冷行业概览：算力大势所趋，AI助力液冷步入新篇章.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-03-11] 开源证券 - 通信行业深度报告：AI热浪起，液冷迎来黄金时代.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2024-03-11",
+      "org": "开源证券",
+      "title": "03-11] 开源证券 - 通信行业深度报告：AI热浪起，液冷迎来黄金时代",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-03-11] 开源证券 - 通信行业深度报告：AI热浪起，液冷迎来黄金时代.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-12-31] 上海证券 - 液冷行业点评：AI算力持续景气，液冷市场空间广阔.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2024-12-31",
+      "org": "上海证券",
+      "title": "12-31] 上海证券 - 液冷行业点评：AI算力持续景气，液冷市场空间广阔",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-12-31] 上海证券 - 液冷行业点评：AI算力持续景气，液冷市场空间广阔.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-08-17] 开源证券 - 通信行业周报：AI赋能腾讯成长，继续推荐液冷、光通信、国产算力等AI全产业链.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-08-17",
+      "org": "开源证券",
+      "title": "08-17] 开源证券 - 通信行业周报：AI赋能腾讯成长，继续推荐液冷、光通信、国产算力等AI全产业链",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-08-17] 开源证券 - 通信行业周报：AI赋能腾讯成长，继续推荐液冷、光通信、国产算力等AI全产业链.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-01-23] 民生证券 - AI液冷行业深度报告：液冷进入新纪元.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-01-23",
+      "org": "民生证券",
+      "title": "01-23] 民生证券 - AI液冷行业深度报告：液冷进入新纪元",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-01-23] 民生证券 - AI液冷行业深度报告：液冷进入新纪元.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-05-15] 深圳汉鼎智库咨询服务 - 中国散热模组细分市场专题研究报告2025：AI赋能产业生态，有望打开散热管理空间.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-05-15",
+      "org": "深圳汉鼎智库咨询服务",
+      "title": "05-15] 深圳汉鼎智库咨询服务 - 中国散热模组细分市场专题研究报告2025：AI赋能产业生态，有望打开散热管理空间",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-05-15] 深圳汉鼎智库咨询服务 - 中国散热模组细分市场专题研究报告2025：AI赋能产业生态，有望打开散热管理空间.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2026-02-25] 头豹研究院 - 2025年液冷全产业链解析：AI时代散热革命，各环节下的价值拆解.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2026-02-25",
+      "org": "头豹研究院",
+      "title": "02-25] 头豹研究院 - 2025年液冷全产业链解析：AI时代散热革命，各环节下的价值拆解",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2026-02-25] 头豹研究院 - 2025年液冷全产业链解析：AI时代散热革命，各环节下的价值拆解.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-08-24] 开源证券 - 通信行业周报：DeepSeek-V3.1发布，重视国产算力、液冷、光通信等AI全产业链.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-08-24",
+      "org": "开源证券",
+      "title": "08-24] 开源证券 - 通信行业周报：DeepSeek-V3.1发布，重视国产算力、液冷、光通信等AI全产业链",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-08-24] 开源证券 - 通信行业周报：DeepSeek-V3.1发布，重视国产算力、液冷、光通信等AI全产业链.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-08-18] 中邮证券 - 基础化工行业报告：关注PEEK和液冷等科技方向.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-08-18",
+      "org": "中邮证券",
+      "title": "08-18] 中邮证券 - 基础化工行业报告：关注PEEK和液冷等科技方向",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-08-18] 中邮证券 - 基础化工行业报告：关注PEEK和液冷等科技方向.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-08-28] 中国信通院 - 云计算行业：智算中心液冷产业全景研究报告（2025年）.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-08-28",
+      "org": "中国信通院",
+      "title": "08-28] 中国信通院 - 云计算行业：智算中心液冷产业全景研究报告（2025年）",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-08-28] 中国信通院 - 云计算行业：智算中心液冷产业全景研究报告（2025年）.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-04-23] 上海证券 - 电子行业周报：中国液冷服务器市场快速增长，速腾聚创MX或将开启激光雷达千元新时代.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2024-04-23",
+      "org": "上海证券",
+      "title": "04-23] 上海证券 - 电子行业周报：中国液冷服务器市场快速增长，速腾聚创MX或将开启激光雷达千元新时代",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-04-23] 上海证券 - 电子行业周报：中国液冷服务器市场快速增长，速腾聚创MX或将开启激光雷达千元新时代.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-12-26] 华金证券 - 通信：AI算力带动温控价值提升，百亿液冷市场开启.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2024-12-26",
+      "org": "华金证券",
+      "title": "12-26] 华金证券 - 通信：AI算力带动温控价值提升，百亿液冷市场开启",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-12-26] 华金证券 - 通信：AI算力带动温控价值提升，百亿液冷市场开启.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-12-05] 东吴证券 - 液冷行业深度：千亿液冷元年已至，看好国产供应链加速入局.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-12-05",
+      "org": "东吴证券",
+      "title": "12-05] 东吴证券 - 液冷行业深度：千亿液冷元年已至，看好国产供应链加速入局",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-12-05] 东吴证券 - 液冷行业深度：千亿液冷元年已至，看好国产供应链加速入局.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2023-10-23] 财信证券 - 数据中心液冷行业深度报告：大模型&大算力带来高功耗，液冷技术有望加速导入.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2023-10-23",
+      "org": "财信证券",
+      "title": "10-23] 财信证券 - 数据中心液冷行业深度报告：大模型&大算力带来高功耗，液冷技术有望加速导入",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2023-10-23] 财信证券 - 数据中心液冷行业深度报告：大模型&大算力带来高功耗，液冷技术有望加速导入.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-12-08] 开源证券 - 机械设备行业深度报告：钻石散热：高算力时代的终极方案，打开AI潜力的钥匙.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2024-12-08",
+      "org": "开源证券",
+      "title": "12-08] 开源证券 - 机械设备行业深度报告：钻石散热：高算力时代的终极方案，打开AI潜力的钥匙",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-12-08] 开源证券 - 机械设备行业深度报告：钻石散热：高算力时代的终极方案，打开AI潜力的钥匙.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2026-03-31] 东莞证券 - 液冷行业深度报告：液冷需求加速释放，关注上游高价值环节.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2026-03-31",
+      "org": "东莞证券",
+      "title": "03-31] 东莞证券 - 液冷行业深度报告：液冷需求加速释放，关注上游高价值环节",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2026-03-31] 东莞证券 - 液冷行业深度报告：液冷需求加速释放，关注上游高价值环节.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-08-17] 华金证券 - 电子行业周报：AI&半导体：市场持续旺盛，液冷趋势加速.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-08-17",
+      "org": "华金证券",
+      "title": "08-17] 华金证券 - 电子行业周报：AI&半导体：市场持续旺盛，液冷趋势加速",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-08-17] 华金证券 - 电子行业周报：AI&半导体：市场持续旺盛，液冷趋势加速.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-12-29] 华金证券 - 基础化工_行业深度报告：AI发展加速液冷渗透率,液冷工质打开成长空间.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-12-29",
+      "org": "华金证券",
+      "title": "12-29] 华金证券 - 基础化工_行业深度报告：AI发展加速液冷渗透率,液冷工质打开成长空间",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-12-29] 华金证券 - 基础化工_行业深度报告：AI发展加速液冷渗透率,液冷工质打开成长空间.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-11-21] 民生证券 - 通信行业深度：百亿液冷星辰大海，海内外同频共振.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2024-11-21",
+      "org": "民生证券",
+      "title": "11-21] 民生证券 - 通信行业深度：百亿液冷星辰大海，海内外同频共振",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-11-21] 民生证券 - 通信行业深度：百亿液冷星辰大海，海内外同频共振.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-08-15] 源达信息 - 数据中心液冷技术专题研究：算力扩建浪潮下服务器高密度、高耗能特征显著，催动液冷技术市场快速扩容.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2024-08-15",
+      "org": "源达信息",
+      "title": "08-15] 源达信息 - 数据中心液冷技术专题研究：算力扩建浪潮下服务器高密度、高耗能特征显著，催动液冷技术市场快速扩容",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2024-08-15] 源达信息 - 数据中心液冷技术专题研究：算力扩建浪潮下服务器高密度、高耗能特征显著，催动液冷技术市场快速扩容.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-04-02] 头豹研究院 - 2025年中国绿色算力行业概览：液冷技术引领绿色算力革命，中国数据中心能效显著提升.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-04-02",
+      "org": "头豹研究院",
+      "title": "04-02] 头豹研究院 - 2025年中国绿色算力行业概览：液冷技术引领绿色算力革命，中国数据中心能效显著提升",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-04-02] 头豹研究院 - 2025年中国绿色算力行业概览：液冷技术引领绿色算力革命，中国数据中心能效显著提升.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-10-25] 东海证券 - 机械设备行业简评：维谛技术三季报业绩向好，关注海外液冷市场机遇.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-10-25",
+      "org": "东海证券",
+      "title": "10-25] 东海证券 - 机械设备行业简评：维谛技术三季报业绩向好，关注海外液冷市场机遇",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-10-25] 东海证券 - 机械设备行业简评：维谛技术三季报业绩向好，关注海外液冷市场机遇.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-06-30] 国金证券 - AIDC系列深度（二）：液冷行业深度：智算需求驱动冷却技术升级，液冷生态迎成长契机.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-06-30",
+      "org": "国金证券",
+      "title": "06-30] 国金证券 - AIDC系列深度（二）：液冷行业深度：智算需求驱动冷却技术升级，液冷生态迎成长契机",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-06-30] 国金证券 - AIDC系列深度（二）：液冷行业深度：智算需求驱动冷却技术升级，液冷生态迎成长契机.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2026-02-13] 东吴证券 - 机械设备行业点评报告：维谛25Q4财报订单超预期，液冷市场扩容看好国产链导入.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2026-02-13",
+      "org": "东吴证券",
+      "title": "02-13] 东吴证券 - 机械设备行业点评报告：维谛25Q4财报订单超预期，液冷市场扩容看好国产链导入",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2026-02-13] 东吴证券 - 机械设备行业点评报告：维谛25Q4财报订单超预期，液冷市场扩容看好国产链导入.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-03-25] 东吴证券 - 电子行业深度报告：AI终端变革之散热：性能跃升驱动散热系统升级.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-03-25",
+      "org": "东吴证券",
+      "title": "03-25] 东吴证券 - 电子行业深度报告：AI终端变革之散热：性能跃升驱动散热系统升级",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-03-25] 东吴证券 - 电子行业深度报告：AI终端变革之散热：性能跃升驱动散热系统升级.pdf"
+    },
+    "sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-09-30] 天风证券 - 基础化工行业专题研究：液冷行业梳理.pdf": {
+      "type": "industry_report",
+      "category": "05_液冷市场_行业综述",
+      "date": "2025-09-30",
+      "org": "天风证券",
+      "title": "09-30] 天风证券 - 基础化工行业专题研究：液冷行业梳理",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/05_液冷市场_行业综述/[2025-09-30] 天风证券 - 基础化工行业专题研究：液冷行业梳理.pdf"
+    },
+    "sources/reports/industry_液冷/06_液冷超充_储能温控/[2023-12-04] 平安证券 - 动力电池行业周报：华为全线布局液冷超充，风起电车快充赛道.pdf": {
+      "type": "industry_report",
+      "category": "06_液冷超充_储能温控",
+      "date": "2023-12-04",
+      "org": "平安证券",
+      "title": "12-04] 平安证券 - 动力电池行业周报：华为全线布局液冷超充，风起电车快充赛道",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/06_液冷超充_储能温控/[2023-12-04] 平安证券 - 动力电池行业周报：华为全线布局液冷超充，风起电车快充赛道.pdf"
+    },
+    "sources/reports/industry_液冷/06_液冷超充_储能温控/[2024-09-02] 头豹研究院 - 液冷超充行业：高效安全充电技术，引领电动汽车充电革命 头豹词条报告系列.pdf": {
+      "type": "industry_report",
+      "category": "06_液冷超充_储能温控",
+      "date": "2024-09-02",
+      "org": "头豹研究院",
+      "title": "09-02] 头豹研究院 - 液冷超充行业：高效安全充电技术，引领电动汽车充电革命 头豹词条报告系列",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/06_液冷超充_储能温控/[2024-09-02] 头豹研究院 - 液冷超充行业：高效安全充电技术，引领电动汽车充电革命 头豹词条报告系列.pdf"
+    },
+    "sources/reports/industry_液冷/06_液冷超充_储能温控/[2024-09-02] 头豹研究院 - 中国液冷储能温控行业市场规模测算逻辑模型 头豹词条报告系列.pdf": {
+      "type": "industry_report",
+      "category": "06_液冷超充_储能温控",
+      "date": "2024-09-02",
+      "org": "头豹研究院",
+      "title": "09-02] 头豹研究院 - 中国液冷储能温控行业市场规模测算逻辑模型 头豹词条报告系列",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/06_液冷超充_储能温控/[2024-09-02] 头豹研究院 - 中国液冷储能温控行业市场规模测算逻辑模型 头豹词条报告系列.pdf"
+    },
+    "sources/reports/industry_液冷/06_液冷超充_储能温控/[2024-01-02] 国投证券 - 电力及公用事业行业周报：湖南省首座超充站投运，获华为液冷超充技术加持.pdf": {
+      "type": "industry_report",
+      "category": "06_液冷超充_储能温控",
+      "date": "2024-01-02",
+      "org": "国投证券",
+      "title": "01-02] 国投证券 - 电力及公用事业行业周报：湖南省首座超充站投运，获华为液冷超充技术加持",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/06_液冷超充_储能温控/[2024-01-02] 国投证券 - 电力及公用事业行业周报：湖南省首座超充站投运，获华为液冷超充技术加持.pdf"
+    },
+    "sources/reports/industry_液冷/06_液冷超充_储能温控/[2025-05-15] 头豹研究院 - 液冷连接器行业研究：数据中心与储能双轮驱动，畅享高速增长红利 头豹词条报告系列.pdf": {
+      "type": "industry_report",
+      "category": "06_液冷超充_储能温控",
+      "date": "2025-05-15",
+      "org": "头豹研究院",
+      "title": "05-15] 头豹研究院 - 液冷连接器行业研究：数据中心与储能双轮驱动，畅享高速增长红利 头豹词条报告系列",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/06_液冷超充_储能温控/[2025-05-15] 头豹研究院 - 液冷连接器行业研究：数据中心与储能双轮驱动，畅享高速增长红利 头豹词条报告系列.pdf"
+    },
+    "sources/reports/industry_液冷/06_液冷超充_储能温控/[2024-09-12] 头豹研究院 - 企业竞争图谱：2024年液冷储能温控 头豹词条报告系列.pdf": {
+      "type": "industry_report",
+      "category": "06_液冷超充_储能温控",
+      "date": "2024-09-12",
+      "org": "头豹研究院",
+      "title": "09-12] 头豹研究院 - 企业竞争图谱：2024年液冷储能温控 头豹词条报告系列",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/06_液冷超充_储能温控/[2024-09-12] 头豹研究院 - 企业竞争图谱：2024年液冷储能温控 头豹词条报告系列.pdf"
+    },
+    "sources/reports/industry_液冷/06_液冷超充_储能温控/[2023-12-04] 中航证券 - 先进制造行业周报：华为加速液冷超充布局，快充行业景气度向上.pdf": {
+      "type": "industry_report",
+      "category": "06_液冷超充_储能温控",
+      "date": "2023-12-04",
+      "org": "中航证券",
+      "title": "12-04] 中航证券 - 先进制造行业周报：华为加速液冷超充布局，快充行业景气度向上",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/06_液冷超充_储能温控/[2023-12-04] 中航证券 - 先进制造行业周报：华为加速液冷超充布局，快充行业景气度向上.pdf"
+    },
+    "sources/reports/industry_液冷/06_液冷超充_储能温控/[2023-12-12] 国海证券 - 新材料产业周报：前十晶圆代工厂Q3产值环增7.9%，华为拟部署超10万全液冷超充充电桩.pdf": {
+      "type": "industry_report",
+      "category": "06_液冷超充_储能温控",
+      "date": "2023-12-12",
+      "org": "国海证券",
+      "title": "12-12] 国海证券 - 新材料产业周报：前十晶圆代工厂Q3产值环增7.9%，华为拟部署超10万全液冷超充充电桩",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/06_液冷超充_储能温控/[2023-12-12] 国海证券 - 新材料产业周报：前十晶圆代工厂Q3产值环增7.9%，华为拟部署超10万全液冷超充充电桩.pdf"
+    },
+    "sources/reports/industry_液冷/06_液冷超充_储能温控/[2023-12-18] 东方财富证券 - 电气设备行业专题研究：温控：迈入液冷时代，储能与数据中心温控增量可期.pdf": {
+      "type": "industry_report",
+      "category": "06_液冷超充_储能温控",
+      "date": "2023-12-18",
+      "org": "东方财富证券",
+      "title": "12-18] 东方财富证券 - 电气设备行业专题研究：温控：迈入液冷时代，储能与数据中心温控增量可期",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/06_液冷超充_储能温控/[2023-12-18] 东方财富证券 - 电气设备行业专题研究：温控：迈入液冷时代，储能与数据中心温控增量可期.pdf"
+    },
+    "sources/reports/industry_液冷/06_液冷超充_储能温控/[2023-08-28] 山西证券 - 电气设备行业周报：宁德时代5MWh EnrD液冷储能预制舱量产交付，比亚迪或在韩国建厂.pdf": {
+      "type": "industry_report",
+      "category": "06_液冷超充_储能温控",
+      "date": "2023-08-28",
+      "org": "山西证券",
+      "title": "08-28] 山西证券 - 电气设备行业周报：宁德时代5MWh EnrD液冷储能预制舱量产交付，比亚迪或在韩国建厂",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/06_液冷超充_储能温控/[2023-08-28] 山西证券 - 电气设备行业周报：宁德时代5MWh EnrD液冷储能预制舱量产交付，比亚迪或在韩国建厂.pdf"
+    },
+    "sources/reports/industry_液冷/06_液冷超充_储能温控/[2023-10-09] 国联证券 - 电力设备：华为全液冷超充上线，引领行业快充趋势.pdf": {
+      "type": "industry_report",
+      "category": "06_液冷超充_储能温控",
+      "date": "2023-10-09",
+      "org": "国联证券",
+      "title": "10-09] 国联证券 - 电力设备：华为全液冷超充上线，引领行业快充趋势",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/06_液冷超充_储能温控/[2023-10-09] 国联证券 - 电力设备：华为全液冷超充上线，引领行业快充趋势.pdf"
+    },
+    "sources/reports/industry_液冷/06_液冷超充_储能温控/[2024-08-23] 头豹研究院 - 中国液冷超充行业市场规模测算逻辑模型 头豹词条报告系列.pdf": {
+      "type": "industry_report",
+      "category": "06_液冷超充_储能温控",
+      "date": "2024-08-23",
+      "org": "头豹研究院",
+      "title": "08-23] 头豹研究院 - 中国液冷超充行业市场规模测算逻辑模型 头豹词条报告系列",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/06_液冷超充_储能温控/[2024-08-23] 头豹研究院 - 中国液冷超充行业市场规模测算逻辑模型 头豹词条报告系列.pdf"
+    },
+    "sources/reports/industry_液冷/07_冷却液_氟化液_材料/[2025-09-02] 国信证券 - 氟化工行业：2025年8月月度观察：主流制冷剂价格持续上涨，液冷板块开启增长空间.pdf": {
+      "type": "industry_report",
+      "category": "07_冷却液_氟化液_材料",
+      "date": "2025-09-02",
+      "org": "国信证券",
+      "title": "09-02] 国信证券 - 氟化工行业：2025年8月月度观察：主流制冷剂价格持续上涨，液冷板块开启增长空间",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/07_冷却液_氟化液_材料/[2025-09-02] 国信证券 - 氟化工行业：2025年8月月度观察：主流制冷剂价格持续上涨，液冷板块开启增长空间.pdf"
+    },
+    "sources/reports/industry_液冷/07_冷却液_氟化液_材料/[2025-09-25] 国信证券 - 国信化工·数据中心及AI服务器液冷冷却液行业分析框架.pdf": {
+      "type": "industry_report",
+      "category": "07_冷却液_氟化液_材料",
+      "date": "2025-09-25",
+      "org": "国信证券",
+      "title": "09-25] 国信证券 - 国信化工·数据中心及AI服务器液冷冷却液行业分析框架",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/07_冷却液_氟化液_材料/[2025-09-25] 国信证券 - 国信化工·数据中心及AI服务器液冷冷却液行业分析框架.pdf"
+    },
+    "sources/reports/industry_液冷/07_冷却液_氟化液_材料/[2025-09-29] 国信证券 - 国信化工·数据中心及AI服务器液冷冷却液行业分析框架.pdf": {
+      "type": "industry_report",
+      "category": "07_冷却液_氟化液_材料",
+      "date": "2025-09-29",
+      "org": "国信证券",
+      "title": "09-29] 国信证券 - 国信化工·数据中心及AI服务器液冷冷却液行业分析框架",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/07_冷却液_氟化液_材料/[2025-09-29] 国信证券 - 国信化工·数据中心及AI服务器液冷冷却液行业分析框架.pdf"
+    },
+    "sources/reports/industry_液冷/07_冷却液_氟化液_材料/[2023-12-03] 国联证券 - 基础化工行业周专题：浸没式冷却液未来的方向是什么？.pdf": {
+      "type": "industry_report",
+      "category": "07_冷却液_氟化液_材料",
+      "date": "2023-12-03",
+      "org": "国联证券",
+      "title": "12-03] 国联证券 - 基础化工行业周专题：浸没式冷却液未来的方向是什么？",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/reports/industry_液冷/07_冷却液_氟化液_材料/[2023-12-03] 国联证券 - 基础化工行业周专题：浸没式冷却液未来的方向是什么？.pdf"
+    },
+    "sources/wechat/2026-05-06-ali-ppu-chip-overview.md": {
+      "type": "wechat",
+      "title": "2026-05-06-ali-ppu-chip-overview",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/wechat/2026-05-06-ali-ppu-chip-overview.md",
+      "preview": "# 微信公众号文章：阿里平头哥PPU芯片最新数据（2026-05-06）\n\n> **来源：** https://mp.weixin.qq.com/s/qbZfungR1IfyawreVuB8Pg\n> **抓取时间：** 2026-05-06 15:07\n> **账号：** 树哥AI实战营\n\n---\n\n## 核心型号与定位\n\n### 一、含光 800（推理芯片，2019年商用）\n\n| 指标 | 数据"
+    },
+    "sources/wechat/2026-05-06-data-comparison-refresh.md": {
+      "type": "wechat",
+      "title": "2026-05-06-data-comparison-refresh",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/wechat/2026-05-06-data-comparison-refresh.md",
+      "preview": "# 液冷市场数据对比分析（数据刷新记录）\n\n> **更新日期：** 2026-05-06\n> **新增数据源：** MarketsandMarkets 2026年4月报告（全球芯片级液冷市场）\n\n---\n\n## 一、新增数据 vs 现有数据对比\n\n### 1. 全球液冷市场规模\n\n| 对比项 | 现有数据（国信证券等） | 新增数据（MarketsandMarkets） | 差异分析 |\n|---"
+    },
+    "sources/wechat/2026-05-06-global-liquid-cooling-market-173b-usd.md": {
+      "type": "wechat",
+      "title": "2026-05-06-global-liquid-cooling-market-173b-usd",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/wechat/2026-05-06-global-liquid-cooling-market-173b-usd.md",
+      "preview": "# 微信公众号文章：全球芯片级液冷市场爆发（2026-05-06）\n\n> **来源：** https://mp.weixin.qq.com/s/YK2AmPWDfYIea6VOOBYHHg\n> **抓取时间：** 2026-05-06 14:16\n> **数据来源：** MarketsandMarkets 2026年4月报告\n\n---\n\n## 核心数据\n\n### 全球芯片级液冷市场规模\n\n| 年份"
+    },
+    "sources/wechat/2026-05-06-super-node-insight.md": {
+      "type": "wechat",
+      "title": "2026-05-06-super-node-insight",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/wechat/2026-05-06-super-node-insight.md",
+      "preview": "# 微信公众号文章：超节点洞察（2026-05-06）\n\n> **来源：** https://mp.weixin.qq.com/s/h9iJKs-Dhihl0HUmjVryMQ\n> **抓取时间：** 2026-05-06 12:00\n\n---\n\n## 一、概述\n\n### 1. 全球算力竞争加剧，国产替代进入攻坚期\n\n当前AI大模型向万亿参数、多模态、长上下文方向快速迭代，对算力的需求呈现指数级增"
+    },
+    "sources/wechat/2026-05-07-bytedance-alibaba-idc-procurement-2026.md": {
+      "type": "wechat",
+      "title": "2026-05-07-bytedance-alibaba-idc-procurement-2026",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/wechat/2026-05-07-bytedance-alibaba-idc-procurement-2026.md",
+      "preview": "# 字节/阿里IDC与算力采购深度分析（2026年）\n\n> 来源：IDC行业专家交流纪要\n> 采集时间：2026年5月7日\n> 原始链接：https://mp.weixin.qq.com/s/td6u0soVeZTWBOtKVt77Mw\n\n---\n\n## 一、IDC招标规划与节奏\n\n### 字节跳动\n\n| 指标 | 数据 |\n|------|------|\n| 2026年国内IDC总需求 | **"
+    },
+    "sources/wechat/2026-05-07-gb300-liquid-cooling-domestic-breakthrough.md": {
+      "type": "wechat",
+      "title": "2026-05-07-gb300-liquid-cooling-domestic-breakthrough",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/wechat/2026-05-07-gb300-liquid-cooling-domestic-breakthrough.md",
+      "preview": "# 微信公众号文章：GB300液冷国产化交卷——冷板/UQD全面反超（2026-05-07）\n\n> **来源：** https://mp.weixin.qq.com/s/3jX3sHbq5iw58nlLBLYRoA\n> **发布方：** 云帆液冷峰会 招商文\n> **抓取时间：** 2026-05-07 18:17\n> **核心价值：** 🔥🔥🔥 含硬数据——降价幅度、交付周期、单柜成本、热阻指标"
+    },
+    "sources/wechat/2026-05-07-google-liquid-cooling-supply-chain.md": {
+      "type": "wechat",
+      "title": "2026-05-07-google-liquid-cooling-supply-chain",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/wechat/2026-05-07-google-liquid-cooling-supply-chain.md",
+      "preview": "# 微信公众号文章：谷歌液冷供应链全球版图（2026-05-07）\n\n> **来源：** https://mp.weixin.qq.com/s/W7umJx9k_gh1L2Kk3j6P9w\n> **发布方：** 云帆液冷峰会（第五届）招商文\n> **抓取时间：** 2026-05-07 17:15\n\n---\n\n## 核心触发事件\n\n### 谷歌TPU芯片出货\n\n| 指标 | 数据 | 说明 |\n|"
+    },
+    "sources/wechat/2026-05-07-haiguang-dcu-deep-compute-series.md": {
+      "type": "wechat",
+      "title": "2026-05-07-haiguang-dcu-deep-compute-series",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/wechat/2026-05-07-haiguang-dcu-deep-compute-series.md",
+      "preview": "# 微信公众号文章：海光DCU深算系列芯片型号分析（2026-05-07）\n\n> **来源：** https://mp.weixin.qq.com/s/g0_P0wkl5MowSKVjVXZ3dQ\n> **发布方：** 树哥AI实战营\n> **抓取时间：** 2026-05-07 17:16\n\n---\n\n## 核心产品线\n\n海光DCU（深算系列）定位GPGPU全精度计算，类CUDA生态（DTK软件"
+    },
+    "sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md": {
+      "type": "wechat",
+      "title": "2026-05-07-ott-csp-gpu-capex-830b-usd",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md",
+      "preview": "# OTT与CSP 2026年GPU采购资本支出深度分析\n\n> 来源：数据中心行业情报周刊 第29期（五一特刊）\n> 覆盖周期：2026年5月1日—5月5日\n> 原始链接：https://mp.weixin.qq.com/s/Sr2U_1zCTZFUVBAL6zj4xw\n> 采集时间：2026-05-07\n\n---\n\n## 核心数据摘要\n\n### 一、北美九大CSP 2026年CAPEX\n\n| C"
+    },
+    "sources/sec/ott/AMZN/submissions_2026-05-09.json": {
+      "type": "sec_filing",
+      "tier": "ott",
+      "company": "AMZN",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/sec/ott/AMZN/submissions_2026-05-09.json"
+    },
+    "sources/sec/ott/BIDU/submissions_2026-05-09.json": {
+      "type": "sec_filing",
+      "tier": "ott",
+      "company": "BIDU",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/sec/ott/BIDU/submissions_2026-05-09.json"
+    },
+    "sources/sec/ott/GOOG/submissions_2026-05-09.json": {
+      "type": "sec_filing",
+      "tier": "ott",
+      "company": "GOOG",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/sec/ott/GOOG/submissions_2026-05-09.json"
+    },
+    "sources/sec/ott/JD/submissions_2026-05-09.json": {
+      "type": "sec_filing",
+      "tier": "ott",
+      "company": "JD",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/sec/ott/JD/submissions_2026-05-09.json"
+    },
+    "sources/sec/ott/META/submissions_2026-05-09.json": {
+      "type": "sec_filing",
+      "tier": "ott",
+      "company": "META",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/sec/ott/META/submissions_2026-05-09.json"
+    },
+    "sources/sec/ott/MSFT/submissions_2026-05-09.json": {
+      "type": "sec_filing",
+      "tier": "ott",
+      "company": "MSFT",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/sec/ott/MSFT/submissions_2026-05-09.json"
+    },
+    "sources/sec/gpu/AMD/submissions_2026-05-09.json": {
+      "type": "sec_filing",
+      "tier": "gpu",
+      "company": "AMD",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/sec/gpu/AMD/submissions_2026-05-09.json"
+    },
+    "sources/sec/gpu/INTC/submissions_2026-05-09.json": {
+      "type": "sec_filing",
+      "tier": "gpu",
+      "company": "INTC",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/sec/gpu/INTC/submissions_2026-05-09.json"
+    },
+    "sources/sec/gpu/NVDA/submissions_2026-05-09.json": {
+      "type": "sec_filing",
+      "tier": "gpu",
+      "company": "NVDA",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/sec/gpu/NVDA/submissions_2026-05-09.json"
+    },
+    "sources/sec/oem/DELL/submissions_2026-05-09.json": {
+      "type": "sec_filing",
+      "tier": "oem",
+      "company": "DELL",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/sec/oem/DELL/submissions_2026-05-09.json"
+    },
+    "sources/sec/oem/NVENT/submissions_2026-05-09.json": {
+      "type": "sec_filing",
+      "tier": "oem",
+      "company": "NVENT",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/sec/oem/NVENT/submissions_2026-05-09.json"
+    },
+    "sources/sec/oem/SMCI/submissions_2026-05-09.json": {
+      "type": "sec_filing",
+      "tier": "oem",
+      "company": "SMCI",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/sec/oem/SMCI/submissions_2026-05-09.json"
+    },
+    "sources/sec/oem/VRT/submissions_2026-05-09.json": {
+      "type": "sec_filing",
+      "tier": "oem",
+      "company": "VRT",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/sec/oem/VRT/submissions_2026-05-09.json"
+    },
+    "sources/rss/2026-05-07/174727_RSS_2026networkoutagereportandinternethealthcheck.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_2026networkoutagereportandinternethealthcheck.md",
+      "preview": "# 2026 network outage report and internet health check\n\n> 来源: https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:"
+    },
+    "sources/rss/2026-05-07/174727_RSS_AMDandIntelpartnertodeliverAIperformanceadvancement.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_AMDandIntelpartnertodeliverAIperformanceadvancement.md",
+      "preview": "# AMD and Intel partner to deliver AI performance advancement\n\n> 来源: https://www.networkworld.com/article/4166785/amd-and-intel-partner-to-deliver-ai-performance-advancement.html\n> 媒体: RSS\n> 爬取时间: 202"
+    },
+    "sources/rss/2026-05-07/174727_RSS_BeyondthepitchAlookatAtléticoMadridsconnectedstadium.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_BeyondthepitchAlookatAtléticoMadridsconnectedstadium.md",
+      "preview": "# Beyond the pitch: A look at Atlético Madrid’s connected stadium\n\n> 来源: https://www.networkworld.com/article/4166643/beyond-the-pitch-a-look-at-atletico-madrids-digital-revolution.html\n> 媒体: RSS\n> 爬取"
+    },
+    "sources/rss/2026-05-07/174727_RSS_BroadcombetsbigonVMwareCloudFoundation9.1.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_BroadcombetsbigonVMwareCloudFoundation9.1.md",
+      "preview": "# Broadcom bets big on VMware Cloud Foundation 9.1\n\n> 来源: https://www.networkworld.com/article/4166905/broadcom-bets-big-on-vmware-cloud-foundation-9-1.html\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:27.10976"
+    },
+    "sources/rss/2026-05-07/174727_RSS_CiscograbsAstrixtosecureAIagents.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_CiscograbsAstrixtosecureAIagents.md",
+      "preview": "# Cisco grabs Astrix to secure AI agents\n\n> 来源: https://www.networkworld.com/article/4166695/cisco-grabs-astrix-to-secure-ai-agents.html\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:27.111347\n> 发布时间: Mon, 04 Ma"
+    },
+    "sources/rss/2026-05-07/174727_RSS_CisconerdsoutMaytheFourthbewithyourAIassistant.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_CisconerdsoutMaytheFourthbewithyourAIassistant.md",
+      "preview": "# Cisco nerds out: May the Fourth be with your AI assistant\n\n> 来源: https://www.networkworld.com/article/4166294/cisco-nerds-out-may-the-fourth-be-with-your-ai-assistant.html\n> 媒体: RSS\n> 爬取时间: 2026-05-"
+    },
+    "sources/rss/2026-05-07/174727_RSS_EnterpriseSpotlightTransformingsoftwaredevelopmentwithAI.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_EnterpriseSpotlightTransformingsoftwaredevelopmentwithAI.md",
+      "preview": "# Enterprise Spotlight: Transforming software development with AI\n\n> 来源: https://www.networkworld.com/article/4164498/enterprise-spotlight-transforming-software-development-with-ai-4.html\n> 媒体: RSS\n> "
+    },
+    "sources/rss/2026-05-07/174727_RSS_ExtremeNetworksMemoryadvantageWi-Fi7andcompetitivefluxdrivemomentum.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_ExtremeNetworksMemoryadvantageWi-Fi7andcompetitivefluxdrivemomentum.md",
+      "preview": "# Extreme Networks: Memory advantage, Wi-Fi 7 and competitive flux drive momentum\n\n> 来源: https://www.networkworld.com/article/4166094/extreme-networks-memory-advantage-wi-fi-7-and-competitive-flux-dri"
+    },
+    "sources/rss/2026-05-07/174727_RSS_ExtrememovestowardautonomousnetworkingwithadvancedAIagentmanagementtools.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_ExtrememovestowardautonomousnetworkingwithadvancedAIagentmanagementtools.md",
+      "preview": "# Extreme moves toward autonomous networking with advanced AI agent, management tools\n\n> 来源: https://www.networkworld.com/article/4167443/extreme-moves-toward-autonomous-networking-with-advanced-ai-ag"
+    },
+    "sources/rss/2026-05-07/174727_RSS_HPEbolstersautonomousnetworkoperationsforMistArubaCentral.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_HPEbolstersautonomousnetworkoperationsforMistArubaCentral.md",
+      "preview": "# HPE bolsters autonomous network operations for Mist, Aruba Central\n\n> 来源: https://www.networkworld.com/article/4168010/hpe-bolsters-autonomous-network-operations-for-mist-aruba-central.html\n> 媒体: RS"
+    },
+    "sources/rss/2026-05-07/174727_RSS_IBMunveilsitsblueprinttohelpenterprisesrunAIatthecoreoftheirbusiness.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_IBMunveilsitsblueprinttohelpenterprisesrunAIatthecoreoftheirbusiness.md",
+      "preview": "# IBM unveils its blueprint to help enterprises run AI at the core of their business\n\n> 来源: https://www.networkworld.com/article/4166920/ibm-unveils-its-blueprint-to-help-enterprises-run-ai-at-the-cor"
+    },
+    "sources/rss/2026-05-07/174727_RSS_IntelbehindinAIchipsbetsonquantumandneuromorphicprocessors.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_IntelbehindinAIchipsbetsonquantumandneuromorphicprocessors.md",
+      "preview": "# Intel, behind in AI chips, bets on quantum and neuromorphic processors\n\n> 来源: https://www.networkworld.com/article/4168000/intel-behind-in-ai-chips-bets-on-quantum-and-neuromorphic-processors.html\n>"
+    },
+    "sources/rss/2026-05-07/174727_RSS_Lumenadvancescloudnetworkingvisionwith475MAlkirabuy.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_Lumenadvancescloudnetworkingvisionwith475MAlkirabuy.md",
+      "preview": "# Lumen advances cloud networking vision with $475M Alkira buy\n\n> 来源: https://www.networkworld.com/article/4168045/lumen-advances-cloud-networking-vision-with-475m-alkira-buy.html\n> 媒体: RSS\n> 爬取时间: 20"
+    },
+    "sources/rss/2026-05-07/174727_RSS_Memoryshortageandcostsurgepushenterprisestowardthecloud.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_Memoryshortageandcostsurgepushenterprisestowardthecloud.md",
+      "preview": "# Memory shortage and cost surge push enterprises toward the cloud\n\n> 来源: https://www.networkworld.com/article/4166484/memory-shortage-and-cost-surge-push-enterprises-toward-cloud.html\n> 媒体: RSS\n> 爬取时"
+    },
+    "sources/rss/2026-05-07/174727_RSS_NetskopelaunchesAIagentsforSOCandNOCautomation.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_NetskopelaunchesAIagentsforSOCandNOCautomation.md",
+      "preview": "# Netskope launches AI agents for SOC and NOC automation\n\n> 来源: https://www.networkworld.com/article/4167967/netskope-launches-ai-agents-for-soc-and-noc-automation.html\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17"
+    },
+    "sources/rss/2026-05-07/174727_RSS_RuckusNetworksonthemoveagainthistimeacquiredbyBeldenfor1.85billion.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_RuckusNetworksonthemoveagainthistimeacquiredbyBeldenfor1.85billion.md",
+      "preview": "# Ruckus Networks on the move again, this time acquired by Belden for $1.85 billion\n\n> 来源: https://www.networkworld.com/article/4166854/ruckus-networks-on-the-move-again-this-time-acquired-by-belden-f"
+    },
+    "sources/rss/2026-05-07/174727_RSS_Scenesfromthegreatdatacenterrevolt.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_Scenesfromthegreatdatacenterrevolt.md",
+      "preview": "# Scenes from the great data center revolt\n\n> 来源: https://www.networkworld.com/article/4166062/scenes-from-the-great-data-center-revolt.html\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:27.113616\n> 发布时间: Fri, 0"
+    },
+    "sources/rss/2026-05-07/174727_RSS_StarlingX12.0isrightontimeformixed-hardwareedgedeployments.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_StarlingX12.0isrightontimeformixed-hardwareedgedeployments.md",
+      "preview": "# StarlingX 12.0 is right on time for mixed-hardware edge deployments\n\n> 来源: https://www.networkworld.com/article/4166545/starlingx-12-0-is-right-on-time-for-mixed-hardware-edge-deployments.html\n> 媒体:"
+    },
+    "sources/rss/2026-05-07/174727_RSS_SupplyconstraintsopticaladvancesdominateAristasQ1.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_SupplyconstraintsopticaladvancesdominateAristasQ1.md",
+      "preview": "# Supply constraints, optical advances dominate Arista’s Q1\n\n> 来源: https://www.networkworld.com/article/4168036/supply-constraints-optical-advances-dominate-aristas-q1.html\n> 媒体: RSS\n> 爬取时间: 2026-05-0"
+    },
+    "sources/rss/2026-05-07/174727_RSS_SwitchstormcomingGartnerforecastspricehikeslongleadtimesforenterprisedatacenters.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174727_RSS_SwitchstormcomingGartnerforecastspricehikeslongleadtimesforenterprisedatacenters.md",
+      "preview": "# Switch storm coming: Gartner forecasts price hikes, long lead times for enterprise data center switches\n\n> 来源: https://www.networkworld.com/article/4167302/switch-storm-coming-gartner-forecasts-pric"
+    },
+    "sources/rss/2026-05-07/174728_RSS_AI-DrivenCPUShortageSavesIntelsFinancialCookies.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_AI-DrivenCPUShortageSavesIntelsFinancialCookies.md",
+      "preview": "# AI-Driven CPU Shortage Saves Intel’s Financial Cookies\n\n> 来源: https://www.nextplatform.com/compute/2026/04/27/ai-driven-cpu-shortage-saves-intels-financial-cookies/5218916\n> 媒体: RSS\n> 爬取时间: 2026-05-"
+    },
+    "sources/rss/2026-05-07/174728_RSS_AIWillSoonDriveAThirdOfTSMCsBusiness.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_AIWillSoonDriveAThirdOfTSMCsBusiness.md",
+      "preview": "# AI Will Soon Drive A Third Of TSMC’s Business\n\n> 来源: https://www.nextplatform.com/compute/2026/04/20/ai-will-soon-drive-a-third-of-tsmcs-business/5218375\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:28.348885"
+    },
+    "sources/rss/2026-05-07/174728_RSS_AWSWillBeAnOEMJustLikeGoogleAndMaybeMicrosoft.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_AWSWillBeAnOEMJustLikeGoogleAndMaybeMicrosoft.md",
+      "preview": "# AWS Will Be An OEM, Just Like Google And Maybe Microsoft\n\n> 来源: https://www.nextplatform.com/cloud/2026/04/30/aws-will-be-an-oem-just-like-google-and-maybe-microsoft/5219100\n> 媒体: RSS\n> 爬取时间: 2026-0"
+    },
+    "sources/rss/2026-05-07/174728_RSS_BechtolsheimFriendsBreatheLifeIntoPluggableOpticsOneLastTime.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_BechtolsheimFriendsBreatheLifeIntoPluggableOpticsOneLastTime.md",
+      "preview": "# Bechtolsheim & Friends Breathe Life Into Pluggable Optics One Last Time\n\n> 来源: https://www.nextplatform.com/connect/2026/04/17/bechtolsheim-friends-breathe-life-into-pluggable-optics-one-last-time/5"
+    },
+    "sources/rss/2026-05-07/174728_RSS_BroadcomHelpsCPUAndXPUMakersGoVerticalWithCompute.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_BroadcomHelpsCPUAndXPUMakersGoVerticalWithCompute.md",
+      "preview": "# Broadcom Helps CPU And XPU Makers Go Vertical With Compute\n\n> 来源: https://www.nextplatform.com/compute/2026/05/05/broadcom-helps-cpu-and-xpu-makers-go-vertical-with-compute/5219419\n> 媒体: RSS\n> 爬取时间:"
+    },
+    "sources/rss/2026-05-07/174728_RSS_BuildingTheFutureOfSoftwareInTheAI-NativeEra.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_BuildingTheFutureOfSoftwareInTheAI-NativeEra.md",
+      "preview": "# Building The Future Of Software In The AI-Native Era\n\n> 来源: https://www.nextplatform.com/code/2025/11/19/building-the-future-of-software-in-the-ai-native-era/1690387\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:"
+    },
+    "sources/rss/2026-05-07/174728_RSS_CiscoScalesOutQuantumSystemsWithAQuantumNetworkSwitch.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_CiscoScalesOutQuantumSystemsWithAQuantumNetworkSwitch.md",
+      "preview": "# Cisco Scales Out Quantum Systems With A Quantum Network Switch\n\n> 来源: https://www.nextplatform.com/connect/2026/04/23/cisco-scales-out-quantum-systems-with-a-quantum-network-switch/5218720\n> 媒体: RSS"
+    },
+    "sources/rss/2026-05-07/174728_RSS_ClevelandClinicSimulatesLargeProteinsWithQuantum-CentricSupercomputing.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_ClevelandClinicSimulatesLargeProteinsWithQuantum-CentricSupercomputing.md",
+      "preview": "# Cleveland Clinic Simulates Large Proteins With Quantum-Centric Supercomputing\n\n> 来源: https://www.nextplatform.com/hpc/2026/05/06/cleveland-clinic-simulates-large-proteins-with-quantum-centric-superc"
+    },
+    "sources/rss/2026-05-07/174728_RSS_GoogleIsAFullStackAIPlayerAndIsPlayingWell.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_GoogleIsAFullStackAIPlayerAndIsPlayingWell.md",
+      "preview": "# Google Is A Full Stack AI Player, And Is Playing Well\n\n> 来源: https://www.nextplatform.com/cloud/2026/05/02/google-is-a-full-stack-ai-player-and-is-playing-well/5219190\n> 媒体: RSS\n> 爬取时间: 2026-05-07T1"
+    },
+    "sources/rss/2026-05-07/174728_RSS_HowHPCAndAIDigitalTwinsAccelerateQuantumErrorCorrection.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_HowHPCAndAIDigitalTwinsAccelerateQuantumErrorCorrection.md",
+      "preview": "# How HPC And AI Digital Twins Accelerate Quantum Error Correction\n\n> 来源: https://www.nextplatform.com/compute/2026/04/17/how-hpc-and-ai-digital-twins-accelerate-quantum-error-correction/5218112\n> 媒体:"
+    },
+    "sources/rss/2026-05-07/174728_RSS_IfYouCanMakeAComputeEngineYouCanSellAComputeEngine.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_IfYouCanMakeAComputeEngineYouCanSellAComputeEngine.md",
+      "preview": "# If You Can Make A Compute Engine, You Can Sell A Compute Engine\n\n> 来源: https://www.nextplatform.com/compute/2026/05/06/if-you-can-make-a-compute-engine-you-can-sell-a-compute-engine/5231317\n> 媒体: RS"
+    },
+    "sources/rss/2026-05-07/174728_RSS_ImagineAnArmyOfAIMinionsHandlingIncidentResponse.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_ImagineAnArmyOfAIMinionsHandlingIncidentResponse.md",
+      "preview": "# Imagine An Army Of AI Minions Handling Incident Response\n\n> 来源: https://www.nextplatform.com/control/2026/04/21/imagine-an-army-of-ai-minions-handling-incident-response/5218435\n> 媒体: RSS\n> 爬取时间: 202"
+    },
+    "sources/rss/2026-05-07/174728_RSS_MicrosoftAndOpenAIRemainFriendsAreLookingToHookUpWithOthers.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_MicrosoftAndOpenAIRemainFriendsAreLookingToHookUpWithOthers.md",
+      "preview": "# Microsoft And OpenAI Remain Friends, Are Looking To Hook Up With Others\n\n> 来源: https://www.nextplatform.com/ai/2026/04/28/microsoft-and-openai-remain-friends-are-looking-to-hook-up-with-others/52189"
+    },
+    "sources/rss/2026-05-07/174728_RSS_MicrosoftCommittedToDoublingAIInfrastructureInTwoYears.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_MicrosoftCommittedToDoublingAIInfrastructureInTwoYears.md",
+      "preview": "# Microsoft Committed To Doubling AI Infrastructure In Two Years\n\n> 来源: https://www.nextplatform.com/cloud/2026/05/04/microsoft-committed-to-doubling-ai-infrastructure-in-two-years/5219208\n> 媒体: RSS\n>"
+    },
+    "sources/rss/2026-05-07/174728_RSS_NewGoogleNetworksTunedUpForGenAIInferenceAndTraining.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_NewGoogleNetworksTunedUpForGenAIInferenceAndTraining.md",
+      "preview": "# New Google Networks Tuned Up For GenAI Inference And Training\n\n> 来源: https://www.nextplatform.com/connect/2026/04/28/new-google-networks-tuned-up-for-genai-inference-and-training/5218978\n> 媒体: RSS\n>"
+    },
+    "sources/rss/2026-05-07/174728_RSS_StopMeasuringAITrainingCostsInGPUHours.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_StopMeasuringAITrainingCostsInGPUHours.md",
+      "preview": "# Stop Measuring AI Training Costs In GPU Hours\n\n> 来源: https://www.nextplatform.com/cloud/2026/04/23/stop-measuring-ai-training-costs-in-gpu-hours/5218713\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:28.347874\n"
+    },
+    "sources/rss/2026-05-07/174728_RSS_TheEmbraceOfAIInDesignTransformsCadenceAndItsCustomers.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_TheEmbraceOfAIInDesignTransformsCadenceAndItsCustomers.md",
+      "preview": "# The Embrace Of AI In Design Transforms Cadence And Its Customers\n\n> 来源: https://www.nextplatform.com/ai/2026/04/16/the-embrace-of-ai-in-design-transforms-cadence-and-its-customers/5217962\n> 媒体: RSS\n"
+    },
+    "sources/rss/2026-05-07/174728_RSS_TheGenAIBattleShiftsFromFrontierModelsToAgenticPlatforms.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_TheGenAIBattleShiftsFromFrontierModelsToAgenticPlatforms.md",
+      "preview": "# The GenAI Battle Shifts From Frontier Models To Agentic Platforms\n\n> 来源: https://www.nextplatform.com/ai/2026/04/27/the-genai-battle-shifts-from-frontier-models-to-agentic-platforms/5218897\n> 媒体: RS"
+    },
+    "sources/rss/2026-05-07/174728_RSS_TheSecondTimeWillBeTheIPOCharmForCerebras.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_TheSecondTimeWillBeTheIPOCharmForCerebras.md",
+      "preview": "# The Second Time Will Be The IPO Charm For Cerebras\n\n> 来源: https://www.nextplatform.com/compute/2026/04/22/the-second-time-will-be-the-ipo-charm-for-cerebras/5218651\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:4"
+    },
+    "sources/rss/2026-05-07/174728_RSS_WithTPU8GoogleMakesGenAISystemsMuchBetterNotJustBigger.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174728_RSS_WithTPU8GoogleMakesGenAISystemsMuchBetterNotJustBigger.md",
+      "preview": "# With TPU 8, Google Makes GenAI Systems Much Better, Not Just Bigger\n\n> 来源: https://www.nextplatform.com/compute/2026/04/24/with-tpu-8-google-makes-genai-systems-much-better-not-just-bigger/5218834\n>"
+    },
+    "sources/rss/2026-05-07/174729_RSS_AsteraLabsScorpio320-LanePCIeSwitchUpdate.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174729_RSS_AsteraLabsScorpio320-LanePCIeSwitchUpdate.md",
+      "preview": "# Astera Labs Scorpio 320-Lane PCIe Switch Update\n\n> 来源: https://www.servethehome.com/astera-labs-scorpio-320-lane-pcie-switch-update/\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:29.984323\n> 发布时间: Tue, 05 May "
+    },
+    "sources/rss/2026-05-07/174729_RSS_HPZGXNanoG1nReviewTheHPTakeontheNVIDIAGB10.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174729_RSS_HPZGXNanoG1nReviewTheHPTakeontheNVIDIAGB10.md",
+      "preview": "# HP ZGX Nano G1n Review The HP Take on the NVIDIA GB10\n\n> 来源: https://www.servethehome.com/hp-zgx-nano-g1n-review-the-hp-take-on-the-nvidia-gb10/\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:29.985141\n> 发布时间: "
+    },
+    "sources/rss/2026-05-07/174729_RSS_Micron6600ION245TBSSDAnnounced.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174729_RSS_Micron6600ION245TBSSDAnnounced.md",
+      "preview": "# Micron 6600 ION 245TB SSD Announced\n\n> 来源: https://www.servethehome.com/micron-6600-ion-245tb-ssd-announced/\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:29.984796\n> 发布时间: Tue, 05 May 2026 13:00:45 +0000\n\n---"
+    },
+    "sources/rss/2026-05-07/174729_RSS_NVIDIASpectrum-XEthernetMRCistheCustomRDMATransportProtocolforGigascaleAI.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174729_RSS_NVIDIASpectrum-XEthernetMRCistheCustomRDMATransportProtocolforGigascaleAI.md",
+      "preview": "# NVIDIA Spectrum-X Ethernet MRC is the Custom RDMA Transport Protocol for Gigascale AI\n\n> 来源: https://www.servethehome.com/nvidia-spectrum-x-ethernet-mrc-is-the-custom-rdma-transport-protocol-for-gig"
+    },
+    "sources/rss/2026-05-07/174729_RSS_PCI-SIGPCIe8.0SpecificationDraft0.5Released.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174729_RSS_PCI-SIGPCIe8.0SpecificationDraft0.5Released.md",
+      "preview": "# PCI-SIG PCIe 8.0 Specification Draft 0.5 Released\n\n> 来源: https://www.servethehome.com/pci-sig-pcie-8-0-specification-draft-0-5-released/\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:29.983166\n> 发布时间: Wed, 06 "
+    },
+    "sources/rss/2026-05-07/174729_RSS_SPECConsortiumReleasesSPECCPU2026BenchmarkSuiteTheNextDecadeofCPUBenchmarking.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174729_RSS_SPECConsortiumReleasesSPECCPU2026BenchmarkSuiteTheNextDecadeofCPUBenchmarking.md",
+      "preview": "# SPEC Consortium Releases SPEC CPU 2026 Benchmark Suite: The Next Decade of CPU Benchmarking\n\n> 来源: https://www.servethehome.com/spec-consortium-releases-spec-cpu-2026-benchmark-suite-the-next-decade"
+    },
+    "sources/rss/2026-05-07/174731_RSS_AMDpostsrecordfirst-quarterresultsdrivenbyskyrocketingdatacenterCPUdemandcompany.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_AMDpostsrecordfirst-quarterresultsdrivenbyskyrocketingdatacenterCPUdemandcompany.md",
+      "preview": "# AMD posts record first-quarter results, driven by skyrocketing data center CPU demand — company expects consumer andgaming revenue to decline in Q2 over rising memory and component costs\n\n> 来源: http"
+    },
+    "sources/rss/2026-05-07/174731_RSS_AMDtobroadenandspecializeEPYCCPUsalreadyworkingonZen7architectureincreasedcustom.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_AMDtobroadenandspecializeEPYCCPUsalreadyworkingonZen7architectureincreasedcustom.md",
+      "preview": "# AMD to broaden and specialize EPYC CPUs, already working on Zen 7 architecture — increased customization to better address evolving AI and cloud needs\n\n> 来源: https://www.tomshardware.com/pc-componen"
+    },
+    "sources/rss/2026-05-07/174731_RSS_Applequietlyaxes128GBMacStudioamidsupplyconstraintsandlocalAIfrenzyhighestmemory.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_Applequietlyaxes128GBMacStudioamidsupplyconstraintsandlocalAIfrenzyhighestmemory.md",
+      "preview": "# Apple quietly axes 128GB Mac Studio amid supply constraints and local AI frenzy — highest memory capacity reduced to 96GB, two months after discontinuation of 512GB model\n\n> 来源: https://www.tomshard"
+    },
+    "sources/rss/2026-05-07/174731_RSS_DellXPS162026ReviewAflagshipreturntoform.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_DellXPS162026ReviewAflagshipreturntoform.md",
+      "preview": "# Dell XPS 16 (2026) Review: A flagship return to form\n\n> 来源: https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-16-2026-review-da16260\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:31.45876"
+    },
+    "sources/rss/2026-05-07/174731_RSS_Denmarkpressespauseonnewdatacentergridconnectionsastotalrequestshit60GWNordicnat.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_Denmarkpressespauseonnewdatacentergridconnectionsastotalrequestshit60GWNordicnat.md",
+      "preview": "# Denmark presses pause on new data center grid connections as total requests hit 60 GW — Nordic nation is the latest to put the brakes on AI buildouts\n\n> 来源: https://www.tomshardware.com/tech-industr"
+    },
+    "sources/rss/2026-05-07/174731_RSS_Globalsemiconductorsaleshitnearly300billioninQ12026chipsareontracktotop1trillion.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_Globalsemiconductorsaleshitnearly300billioninQ12026chipsareontracktotop1trillion.md",
+      "preview": "# Global semiconductor sales hit nearly $300 billion in Q1 2026 — chips are on track to top $1 trillion for this year, says report\n\n> 来源: https://www.tomshardware.com/tech-industry/semiconductors/glob"
+    },
+    "sources/rss/2026-05-07/174731_RSS_GoogleChromesilentlydownloads4GBAImodeltoyourdevicewithoutpermissionreportclaims.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_GoogleChromesilentlydownloads4GBAImodeltoyourdevicewithoutpermissionreportclaims.md",
+      "preview": "# Google Chrome 'silently' downloads 4GB AI model to your device without permission, report claims — researcher says practice may violate EU law, waste thousands of kilowatts of energy\n\n> 来源: https://"
+    },
+    "sources/rss/2026-05-07/174731_RSS_GrabaprebuiltRTX5060Ti16GBgamingPCforjust1063usingstackablediscountsSkytechShado.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_GrabaprebuiltRTX5060Ti16GBgamingPCforjust1063usingstackablediscountsSkytechShado.md",
+      "preview": "# Grab a prebuilt RTX 5060 Ti 16GB gaming PC for just $1,063 using stackable discounts — Skytech Shadow 4 Gaming PC offers superb value without breaking the bank\n\n> 来源: https://www.tomshardware.com/de"
+    },
+    "sources/rss/2026-05-07/174731_RSS_JapanusinggamedevelopmentenginesforurbanplanninganddisastermanagementKimonosales.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_JapanusinggamedevelopmentenginesforurbanplanninganddisastermanagementKimonosales.md",
+      "preview": "# Japan using game development engines for urban planning and disaster management — Kimono sales also stretching Unity and Unreal Engine capabilities beyond the small screen\n\n> 来源: https://www.tomshar"
+    },
+    "sources/rss/2026-05-07/174731_RSS_LatestApexLegendsupdatesmoothsoutstutteronRyzenX3DCPUsphysicsalgosapparentlystru.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_LatestApexLegendsupdatesmoothsoutstutteronRyzenX3DCPUsphysicsalgosapparentlystru.md",
+      "preview": "# Latest Apex Legends update smooths out stutter on Ryzen X3D CPUs — physics algos apparently struggled at high frame rates unlocked by V-Cache\n\n> 来源: https://www.tomshardware.com/video-games/pc-gamin"
+    },
+    "sources/rss/2026-05-07/174731_RSS_MicrosoftsaysTransformationParadoxholdingbackAIadoptionintheworkplace45ofrespond.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_MicrosoftsaysTransformationParadoxholdingbackAIadoptionintheworkplace45ofrespond.md",
+      "preview": "# Microsoft says 'Transformation Paradox' holding back AI adoption in the workplace — 45% of respondents say it's safer to focus on current goals, rather than AI innovation\n\n> 来源: https://www.tomshard"
+    },
+    "sources/rss/2026-05-07/174731_RSS_NewLinuxStarFighterlaptopfamilydebutsstartingat1878StarLabsSystemslaptopsarrivew.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_NewLinuxStarFighterlaptopfamilydebutsstartingat1878StarLabsSystemslaptopsarrivew.md",
+      "preview": "# New Linux StarFighter laptop family debuts starting at $1,878 — Star Labs Systems' laptops arrive with spacious RAM, several options\n\n> 来源: https://www.tomshardware.com/laptops/new-linux-starfighter"
+    },
+    "sources/rss/2026-05-07/174731_RSS_Nvidiainvests300millioninCorningtobuildthreenewUS-basedopticalfiberplantsAIinfra.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_Nvidiainvests300millioninCorningtobuildthreenewUS-basedopticalfiberplantsAIinfra.md",
+      "preview": "# Nvidia invests $300 million in Corning to build three new US-based optical fiber plants — AI infrastructure deal would boost fiber production capacity by over 50%\n\n> 来源: https://www.tomshardware.com"
+    },
+    "sources/rss/2026-05-07/174731_RSS_PCIe8.0spechits1TBsofbandwidthandhasnewconnectortechnologyspechits0.5Vmilestonef.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_PCIe8.0spechits1TBsofbandwidthandhasnewconnectortechnologyspechits0.5Vmilestonef.md",
+      "preview": "# PCIe 8.0 spec hits 1 TB/s of bandwidth and has new connector technology — spec hits 0.5V milestone, final ratification expected in 2028\n\n> 来源: https://www.tomshardware.com/tech-industry/pci-sig-reve"
+    },
+    "sources/rss/2026-05-07/174731_RSS_Scorethis500Hz27-inchSamsungOdysseyOLEDgamingmonitoratitslowesteverpricenowjust6.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_Scorethis500Hz27-inchSamsungOdysseyOLEDgamingmonitoratitslowesteverpricenowjust6.md",
+      "preview": "# Score this 500Hz 27-inch Samsung Odyssey OLED gaming monitor at its lowest ever price, now just $649.99 — huge $349 saving nets you ultra-fast G60SF display with Nvidia G-Sync support\n\n> 来源: https:/"
+    },
+    "sources/rss/2026-05-07/174731_RSS_SpaceXfilesfor55billionsemiconductorfabinruralTexasforMusksTerafabtotalchipmakin.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_SpaceXfilesfor55billionsemiconductorfabinruralTexasforMusksTerafabtotalchipmakin.md",
+      "preview": "# SpaceX files for $55 billion semiconductor fab in rural Texas for Musk's Terafab — total chipmaking fab investment could reach $119 billion\n\n> 来源: https://www.tomshardware.com/tech-industry/spacex-f"
+    },
+    "sources/rss/2026-05-07/174731_RSS_SteamControllerandPuckCADfilesofficiallyreleasedunderaCreativeCommonslicenseValv.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_SteamControllerandPuckCADfilesofficiallyreleasedunderaCreativeCommonslicenseValv.md",
+      "preview": "# Steam Controller and Puck CAD files officially released under a Creative Commons license — Valve encourages users to create accessories for the device\n\n> 来源: https://www.tomshardware.com/peripherals"
+    },
+    "sources/rss/2026-05-07/174731_RSS_SteelSeriesAerox3WirelessGen2ReviewTheBrightandBold.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_SteelSeriesAerox3WirelessGen2ReviewTheBrightandBold.md",
+      "preview": "# SteelSeries Aerox 3 Wireless Gen 2 Review: The Bright and Bold\n\n> 来源: https://www.tomshardware.com/peripherals/gaming-mice/steelseries-aerox-3-wireless-gen-2-review\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:4"
+    },
+    "sources/rss/2026-05-07/174731_RSS_SurveyshowsthatnearlyhalfofAmericansdontwantnewdatacentersbuiltneartheirhomes47o.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_SurveyshowsthatnearlyhalfofAmericansdontwantnewdatacentersbuiltneartheirhomes47o.md",
+      "preview": "# Survey shows that nearly half of Americans don't want new data centers built near their homes — 47% oppose the construction of new AI data centers in their neighborhood\n\n> 来源: https://www.tomshardwa"
+    },
+    "sources/rss/2026-05-07/174731_RSS_XboxCEOAshaSharmakillsCopilotforGamingoverhaulsleadershipwithCoreAIveterans.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174731_RSS_XboxCEOAshaSharmakillsCopilotforGamingoverhaulsleadershipwithCoreAIveterans.md",
+      "preview": "# Xbox CEO Asha Sharma kills Copilot for Gaming — overhauls leadership with CoreAI veterans\n\n> 来源: https://www.tomshardware.com/video-games/xbox/xbox-ceo-asha-sharma-kills-copilot-for-gaming\n> 媒体: RSS"
+    },
+    "sources/rss/2026-05-07/174734_RSS_AIdemanddrivesWDrevenuesskyhighwithmoretocome.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_AIdemanddrivesWDrevenuesskyhighwithmoretocome.md",
+      "preview": "# AI demand drives WD revenue’s sky high with more to come\n\n> 来源: https://www.blocksandfiles.com/disk/2026/05/01/ai-demand-drives-wd-revenues-sky-high-with-more-to-come/5219131\n> 媒体: RSS\n> 爬取时间: 2026-"
+    },
+    "sources/rss/2026-05-07/174734_RSS_AIinferencejustplaysbydifferentrules.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_AIinferencejustplaysbydifferentrules.md",
+      "preview": "# AI inference just plays by different rules\n\n> 来源: https://www.blocksandfiles.com/ai-ml/2026/05/04/ai-inference-just-plays-by-different-rules/5219188\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:34.552374\n> 发布"
+    },
+    "sources/rss/2026-05-07/174734_RSS_BackblazebeatsguidanceasAIdrivesgrowth.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_BackblazebeatsguidanceasAIdrivesgrowth.md",
+      "preview": "# Backblaze beats guidance as AI drives growth\n\n> 来源: https://www.blocksandfiles.com/public-cloud/2026/05/05/backblaze-beats-guidance-as-ai-drives-growth/5219234\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:34."
+    },
+    "sources/rss/2026-05-07/174734_RSS_Commvaultbeatsguidanceasrevenuegrowthslows.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_Commvaultbeatsguidanceasrevenuegrowthslows.md",
+      "preview": "# Commvault beats guidance as revenue growth slows\n\n> 来源: https://www.blocksandfiles.com/data-protection/2026/04/29/commvault-beats-guidance-as-revenue-growth-slows/5219018\n> 媒体: RSS\n> 爬取时间: 2026-05-0"
+    },
+    "sources/rss/2026-05-07/174734_RSS_DruvabringsitsSaaSprotectiontoPowerBI.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_DruvabringsitsSaaSprotectiontoPowerBI.md",
+      "preview": "# Druva brings its SaaS protection to Power BI\n\n> 来源: https://www.blocksandfiles.com/data-protection/2026/04/30/druva-brings-its-saas-protection-to-power-bi/5219082\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:"
+    },
+    "sources/rss/2026-05-07/174734_RSS_EnterpriseAIstacklock-in.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_EnterpriseAIstacklock-in.md",
+      "preview": "# Enterprise AI stack lock-in\n\n> 来源: https://www.blocksandfiles.com/ai-ml/2026/04/28/enterprise-ai-stack-lock-in/5218881\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:34.556551\n> 发布时间: 2026-04-28T15:38:25+02:00\n"
+    },
+    "sources/rss/2026-05-07/174734_RSS_Hammerspacebookingsaccelerate14x.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_Hammerspacebookingsaccelerate14x.md",
+      "preview": "# Hammerspace bookings accelerate 14x\n\n> 来源: https://www.blocksandfiles.com/ai-ml/2026/04/28/hammerspace-bookings-accelerate-14x/5218939\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:34.556230\n> 发布时间: 2026-04-28"
+    },
+    "sources/rss/2026-05-07/174734_RSS_Komprisepatentsdynamicloadbalancingtech.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_Komprisepatentsdynamicloadbalancingtech.md",
+      "preview": "# Komprise patents dynamic load balancing tech\n\n> 来源: https://www.blocksandfiles.com/data-management/2026/05/05/komprise-patents-dynamic-load-balancing-tech/5219172\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:"
+    },
+    "sources/rss/2026-05-07/174734_RSS_MicronsnewSSDreplacesdiskforfastaccessstorage.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_MicronsnewSSDreplacesdiskforfastaccessstorage.md",
+      "preview": "# Micron's new SSD replaces disk for fast access storage\n\n> 来源: https://www.blocksandfiles.com/flash/2026/05/05/microns-new-ssd-replaces-disk-for-fast-access-storage/5219265\n> 媒体: RSS\n> 爬取时间: 2026-05-"
+    },
+    "sources/rss/2026-05-07/174734_RSS_NEOSemiconductorsPOCsays3DDRAMisgoodtogo.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_NEOSemiconductorsPOCsays3DDRAMisgoodtogo.md",
+      "preview": "# NEO Semiconductor’s POC says 3D DRAM is good to go\n\n> 来源: https://www.blocksandfiles.com/flash/2026/04/27/neo-semiconductors-poc-says-3d-dram-is-good-to-go/5218850\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47"
+    },
+    "sources/rss/2026-05-07/174734_RSS_PanzuraNexusgivesCopilotLLMsaccesstoPanzuradata.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_PanzuraNexusgivesCopilotLLMsaccesstoPanzuradata.md",
+      "preview": "# Panzura Nexus gives Copilot LLMs access to Panzura data\n\n> 来源: https://www.blocksandfiles.com/public-cloud/2026/05/04/panzura-nexus-gives-copilot-llms-access-to-panzura-data/5219042\n> 媒体: RSS\n> 爬取时间"
+    },
+    "sources/rss/2026-05-07/174734_RSS_PineconeprovidingcompiledvectorartifactstoaccelerateAIAgents.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_PineconeprovidingcompiledvectorartifactstoaccelerateAIAgents.md",
+      "preview": "# Pinecone providing compiled vector artifacts to accelerate AI Agents\n\n> 来源: https://www.blocksandfiles.com/ai-ml/2026/05/05/pinecone-providing-compiled-vector-artifacts-to-accelerate-ai-agents/52193"
+    },
+    "sources/rss/2026-05-07/174734_RSS_PrelimSamsungMemoryresultsexceededbyevenbiggeractuals.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_PrelimSamsungMemoryresultsexceededbyevenbiggeractuals.md",
+      "preview": "# Prelim Samsung Memory results exceeded by even bigger actuals\n\n> 来源: https://www.blocksandfiles.com/flash/2026/04/30/prelim-samsung-memory-results-exceeded-by-even-bigger-actuals/5219071\n> 媒体: RSS\n>"
+    },
+    "sources/rss/2026-05-07/174734_RSS_QdrantsAIvectorsearchisfasterauditableandmoreavailable.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_QdrantsAIvectorsearchisfasterauditableandmoreavailable.md",
+      "preview": "# Qdrant’s AI vector search is faster, auditable and more available\n\n> 来源: https://www.blocksandfiles.com/ai-ml/2026/04/28/qdrants-ai-vector-search-is-faster-auditable-and-more-available/5218971\n> 媒体:"
+    },
+    "sources/rss/2026-05-07/174734_RSS_SAPbagsDremioandPriorLabsinenterpriseAIdatapush.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_SAPbagsDremioandPriorLabsinenterpriseAIdatapush.md",
+      "preview": "# SAP bags Dremio and Prior Labs in enterprise AI data push\n\n> 来源: https://www.blocksandfiles.com/data-management/2026/05/05/sap-bags-dremio-and-prior-labs-in-enterprise-ai-data-push/5219227\n> 媒体: RSS"
+    },
+    "sources/rss/2026-05-07/174734_RSS_Sandiskopen-sourcesacceleratedSSDpre-conditioningalgorithm.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_Sandiskopen-sourcesacceleratedSSDpre-conditioningalgorithm.md",
+      "preview": "# Sandisk open-sources accelerated SSD pre-conditioning algorithm\n\n> 来源: https://www.blocksandfiles.com/flash/2026/04/28/sandisk-open-sources-accelerated-ssd-pre-conditioning-algorithm/5218946\n> 媒体: R"
+    },
+    "sources/rss/2026-05-07/174734_RSS_Shadessinglesourceoffilesystemtruthforcreatives.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_Shadessinglesourceoffilesystemtruthforcreatives.md",
+      "preview": "# Shade’s single source of file system truth for creatives\n\n> 来源: https://www.blocksandfiles.com/data-management/2026/04/30/shades-single-source-of-file-system-truth-for-creatives/5219062\n> 媒体: RSS\n> "
+    },
+    "sources/rss/2026-05-07/174734_RSS_SpectacularcashgeneratorSandiskgeneratesspectacularpileofdollars.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_SpectacularcashgeneratorSandiskgeneratesspectacularpileofdollars.md",
+      "preview": "# Spectacular cash generator Sandisk generates spectacular pile of dollars\n\n> 来源: https://www.blocksandfiles.com/flash/2026/05/01/spectacular-cash-generator-sandisk-generates-spectacular-pile-of-dolla"
+    },
+    "sources/rss/2026-05-07/174734_RSS_SpinningdisksgeneratingmassiverevenueforSeagate.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_SpinningdisksgeneratingmassiverevenueforSeagate.md",
+      "preview": "# Spinning disks generating massive revenue for Seagate\n\n> 来源: https://www.blocksandfiles.com/disk/2026/04/29/spinning-disks-generating-massive-revenue-for-seagate/5219028\n> 媒体: RSS\n> 爬取时间: 2026-05-07"
+    },
+    "sources/rss/2026-05-07/174734_RSS_WDandmulti-tiereddiskdrivearrays.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/174734_RSS_WDandmulti-tiereddiskdrivearrays.md",
+      "preview": "# WD and multi-tiered disk drive arrays\n\n> 来源: https://www.blocksandfiles.com/disk/2026/04/27/wd-and-multi-tiered-disk-drive-arrays/5218862\n> 媒体: RSS\n> 爬取时间: 2026-05-07T17:47:34.556883\n> 发布时间: 2026-04"
+    },
+    "sources/rss/2026-05-07/180228_RSS_AI-DrivenCPUShortageSavesIntelsFinancialCookies.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_AI-DrivenCPUShortageSavesIntelsFinancialCookies.md",
+      "preview": "# AI-Driven CPU Shortage Saves Intel’s Financial Cookies\n\n> 来源: https://www.nextplatform.com/compute/2026/04/27/ai-driven-cpu-shortage-saves-intels-financial-cookies/5218916\n> 媒体: RSS\n> 爬取时间: 2026-05-"
+    },
+    "sources/rss/2026-05-07/180228_RSS_AIWillSoonDriveAThirdOfTSMCsBusiness.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_AIWillSoonDriveAThirdOfTSMCsBusiness.md",
+      "preview": "# AI Will Soon Drive A Third Of TSMC’s Business\n\n> 来源: https://www.nextplatform.com/compute/2026/04/20/ai-will-soon-drive-a-third-of-tsmcs-business/5218375\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:28.229084"
+    },
+    "sources/rss/2026-05-07/180228_RSS_AWSWillBeAnOEMJustLikeGoogleAndMaybeMicrosoft.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_AWSWillBeAnOEMJustLikeGoogleAndMaybeMicrosoft.md",
+      "preview": "# AWS Will Be An OEM, Just Like Google And Maybe Microsoft\n\n> 来源: https://www.nextplatform.com/cloud/2026/04/30/aws-will-be-an-oem-just-like-google-and-maybe-microsoft/5219100\n> 媒体: RSS\n> 爬取时间: 2026-0"
+    },
+    "sources/rss/2026-05-07/180228_RSS_BechtolsheimFriendsBreatheLifeIntoPluggableOpticsOneLastTime.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_BechtolsheimFriendsBreatheLifeIntoPluggableOpticsOneLastTime.md",
+      "preview": "# Bechtolsheim & Friends Breathe Life Into Pluggable Optics One Last Time\n\n> 来源: https://www.nextplatform.com/connect/2026/04/17/bechtolsheim-friends-breathe-life-into-pluggable-optics-one-last-time/5"
+    },
+    "sources/rss/2026-05-07/180228_RSS_BroadcomHelpsCPUAndXPUMakersGoVerticalWithCompute.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_BroadcomHelpsCPUAndXPUMakersGoVerticalWithCompute.md",
+      "preview": "# Broadcom Helps CPU And XPU Makers Go Vertical With Compute\n\n> 来源: https://www.nextplatform.com/compute/2026/05/05/broadcom-helps-cpu-and-xpu-makers-go-vertical-with-compute/5219419\n> 媒体: RSS\n> 爬取时间:"
+    },
+    "sources/rss/2026-05-07/180228_RSS_BuildingTheFutureOfSoftwareInTheAI-NativeEra.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_BuildingTheFutureOfSoftwareInTheAI-NativeEra.md",
+      "preview": "# Building The Future Of Software In The AI-Native Era\n\n> 来源: https://www.nextplatform.com/code/2025/11/19/building-the-future-of-software-in-the-ai-native-era/1690387\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:"
+    },
+    "sources/rss/2026-05-07/180228_RSS_CiscoScalesOutQuantumSystemsWithAQuantumNetworkSwitch.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_CiscoScalesOutQuantumSystemsWithAQuantumNetworkSwitch.md",
+      "preview": "# Cisco Scales Out Quantum Systems With A Quantum Network Switch\n\n> 来源: https://www.nextplatform.com/connect/2026/04/23/cisco-scales-out-quantum-systems-with-a-quantum-network-switch/5218720\n> 媒体: RSS"
+    },
+    "sources/rss/2026-05-07/180228_RSS_ClevelandClinicSimulatesLargeProteinsWithQuantum-CentricSupercomputing.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_ClevelandClinicSimulatesLargeProteinsWithQuantum-CentricSupercomputing.md",
+      "preview": "# Cleveland Clinic Simulates Large Proteins With Quantum-Centric Supercomputing\n\n> 来源: https://www.nextplatform.com/hpc/2026/05/06/cleveland-clinic-simulates-large-proteins-with-quantum-centric-superc"
+    },
+    "sources/rss/2026-05-07/180228_RSS_GoogleIsAFullStackAIPlayerAndIsPlayingWell.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_GoogleIsAFullStackAIPlayerAndIsPlayingWell.md",
+      "preview": "# Google Is A Full Stack AI Player, And Is Playing Well\n\n> 来源: https://www.nextplatform.com/cloud/2026/05/02/google-is-a-full-stack-ai-player-and-is-playing-well/5219190\n> 媒体: RSS\n> 爬取时间: 2026-05-07T1"
+    },
+    "sources/rss/2026-05-07/180228_RSS_HowHPCAndAIDigitalTwinsAccelerateQuantumErrorCorrection.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_HowHPCAndAIDigitalTwinsAccelerateQuantumErrorCorrection.md",
+      "preview": "# How HPC And AI Digital Twins Accelerate Quantum Error Correction\n\n> 来源: https://www.nextplatform.com/compute/2026/04/17/how-hpc-and-ai-digital-twins-accelerate-quantum-error-correction/5218112\n> 媒体:"
+    },
+    "sources/rss/2026-05-07/180228_RSS_IfYouCanMakeAComputeEngineYouCanSellAComputeEngine.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_IfYouCanMakeAComputeEngineYouCanSellAComputeEngine.md",
+      "preview": "# If You Can Make A Compute Engine, You Can Sell A Compute Engine\n\n> 来源: https://www.nextplatform.com/compute/2026/05/06/if-you-can-make-a-compute-engine-you-can-sell-a-compute-engine/5231317\n> 媒体: RS"
+    },
+    "sources/rss/2026-05-07/180228_RSS_ImagineAnArmyOfAIMinionsHandlingIncidentResponse.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_ImagineAnArmyOfAIMinionsHandlingIncidentResponse.md",
+      "preview": "# Imagine An Army Of AI Minions Handling Incident Response\n\n> 来源: https://www.nextplatform.com/control/2026/04/21/imagine-an-army-of-ai-minions-handling-incident-response/5218435\n> 媒体: RSS\n> 爬取时间: 202"
+    },
+    "sources/rss/2026-05-07/180228_RSS_MicrosoftAndOpenAIRemainFriendsAreLookingToHookUpWithOthers.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_MicrosoftAndOpenAIRemainFriendsAreLookingToHookUpWithOthers.md",
+      "preview": "# Microsoft And OpenAI Remain Friends, Are Looking To Hook Up With Others\n\n> 来源: https://www.nextplatform.com/ai/2026/04/28/microsoft-and-openai-remain-friends-are-looking-to-hook-up-with-others/52189"
+    },
+    "sources/rss/2026-05-07/180228_RSS_MicrosoftCommittedToDoublingAIInfrastructureInTwoYears.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_MicrosoftCommittedToDoublingAIInfrastructureInTwoYears.md",
+      "preview": "# Microsoft Committed To Doubling AI Infrastructure In Two Years\n\n> 来源: https://www.nextplatform.com/cloud/2026/05/04/microsoft-committed-to-doubling-ai-infrastructure-in-two-years/5219208\n> 媒体: RSS\n>"
+    },
+    "sources/rss/2026-05-07/180228_RSS_NewGoogleNetworksTunedUpForGenAIInferenceAndTraining.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_NewGoogleNetworksTunedUpForGenAIInferenceAndTraining.md",
+      "preview": "# New Google Networks Tuned Up For GenAI Inference And Training\n\n> 来源: https://www.nextplatform.com/connect/2026/04/28/new-google-networks-tuned-up-for-genai-inference-and-training/5218978\n> 媒体: RSS\n>"
+    },
+    "sources/rss/2026-05-07/180228_RSS_StopMeasuringAITrainingCostsInGPUHours.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_StopMeasuringAITrainingCostsInGPUHours.md",
+      "preview": "# Stop Measuring AI Training Costs In GPU Hours\n\n> 来源: https://www.nextplatform.com/cloud/2026/04/23/stop-measuring-ai-training-costs-in-gpu-hours/5218713\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:28.228178\n"
+    },
+    "sources/rss/2026-05-07/180228_RSS_TheEmbraceOfAIInDesignTransformsCadenceAndItsCustomers.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_TheEmbraceOfAIInDesignTransformsCadenceAndItsCustomers.md",
+      "preview": "# The Embrace Of AI In Design Transforms Cadence And Its Customers\n\n> 来源: https://www.nextplatform.com/ai/2026/04/16/the-embrace-of-ai-in-design-transforms-cadence-and-its-customers/5217962\n> 媒体: RSS\n"
+    },
+    "sources/rss/2026-05-07/180228_RSS_TheGenAIBattleShiftsFromFrontierModelsToAgenticPlatforms.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_TheGenAIBattleShiftsFromFrontierModelsToAgenticPlatforms.md",
+      "preview": "# The GenAI Battle Shifts From Frontier Models To Agentic Platforms\n\n> 来源: https://www.nextplatform.com/ai/2026/04/27/the-genai-battle-shifts-from-frontier-models-to-agentic-platforms/5218897\n> 媒体: RS"
+    },
+    "sources/rss/2026-05-07/180228_RSS_TheSecondTimeWillBeTheIPOCharmForCerebras.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_TheSecondTimeWillBeTheIPOCharmForCerebras.md",
+      "preview": "# The Second Time Will Be The IPO Charm For Cerebras\n\n> 来源: https://www.nextplatform.com/compute/2026/04/22/the-second-time-will-be-the-ipo-charm-for-cerebras/5218651\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:0"
+    },
+    "sources/rss/2026-05-07/180228_RSS_WithTPU8GoogleMakesGenAISystemsMuchBetterNotJustBigger.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180228_RSS_WithTPU8GoogleMakesGenAISystemsMuchBetterNotJustBigger.md",
+      "preview": "# With TPU 8, Google Makes GenAI Systems Much Better, Not Just Bigger\n\n> 来源: https://www.nextplatform.com/compute/2026/04/24/with-tpu-8-google-makes-genai-systems-much-better-not-just-bigger/5218834\n>"
+    },
+    "sources/rss/2026-05-07/180229_RSS_AsteraLabsScorpio320-LanePCIeSwitchUpdate.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180229_RSS_AsteraLabsScorpio320-LanePCIeSwitchUpdate.md",
+      "preview": "# Astera Labs Scorpio 320-Lane PCIe Switch Update\n\n> 来源: https://www.servethehome.com/astera-labs-scorpio-320-lane-pcie-switch-update/\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:29.824385\n> 发布时间: Tue, 05 May "
+    },
+    "sources/rss/2026-05-07/180229_RSS_HPZGXNanoG1nReviewTheHPTakeontheNVIDIAGB10.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180229_RSS_HPZGXNanoG1nReviewTheHPTakeontheNVIDIAGB10.md",
+      "preview": "# HP ZGX Nano G1n Review The HP Take on the NVIDIA GB10\n\n> 来源: https://www.servethehome.com/hp-zgx-nano-g1n-review-the-hp-take-on-the-nvidia-gb10/\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:29.825078\n> 发布时间: "
+    },
+    "sources/rss/2026-05-07/180229_RSS_Micron6600ION245TBSSDAnnounced.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180229_RSS_Micron6600ION245TBSSDAnnounced.md",
+      "preview": "# Micron 6600 ION 245TB SSD Announced\n\n> 来源: https://www.servethehome.com/micron-6600-ion-245tb-ssd-announced/\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:29.824731\n> 发布时间: Tue, 05 May 2026 13:00:45 +0000\n\n---"
+    },
+    "sources/rss/2026-05-07/180229_RSS_NVIDIASpectrum-XEthernetMRCistheCustomRDMATransportProtocolforGigascaleAI.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180229_RSS_NVIDIASpectrum-XEthernetMRCistheCustomRDMATransportProtocolforGigascaleAI.md",
+      "preview": "# NVIDIA Spectrum-X Ethernet MRC is the Custom RDMA Transport Protocol for Gigascale AI\n\n> 来源: https://www.servethehome.com/nvidia-spectrum-x-ethernet-mrc-is-the-custom-rdma-transport-protocol-for-gig"
+    },
+    "sources/rss/2026-05-07/180229_RSS_PCI-SIGPCIe8.0SpecificationDraft0.5Released.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180229_RSS_PCI-SIGPCIe8.0SpecificationDraft0.5Released.md",
+      "preview": "# PCI-SIG PCIe 8.0 Specification Draft 0.5 Released\n\n> 来源: https://www.servethehome.com/pci-sig-pcie-8-0-specification-draft-0-5-released/\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:29.823071\n> 发布时间: Wed, 06 "
+    },
+    "sources/rss/2026-05-07/180229_RSS_SPECConsortiumReleasesSPECCPU2026BenchmarkSuiteTheNextDecadeofCPUBenchmarking.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180229_RSS_SPECConsortiumReleasesSPECCPU2026BenchmarkSuiteTheNextDecadeofCPUBenchmarking.md",
+      "preview": "# SPEC Consortium Releases SPEC CPU 2026 Benchmark Suite: The Next Decade of CPU Benchmarking\n\n> 来源: https://www.servethehome.com/spec-consortium-releases-spec-cpu-2026-benchmark-suite-the-next-decade"
+    },
+    "sources/rss/2026-05-07/180231_RSS_AMDpostsrecordfirst-quarterresultsdrivenbyskyrocketingdatacenterCPUdemandcompany.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_AMDpostsrecordfirst-quarterresultsdrivenbyskyrocketingdatacenterCPUdemandcompany.md",
+      "preview": "# AMD posts record first-quarter results, driven by skyrocketing data center CPU demand — company expects consumer andgaming revenue to decline in Q2 over rising memory and component costs\n\n> 来源: http"
+    },
+    "sources/rss/2026-05-07/180231_RSS_AMDtobroadenandspecializeEPYCCPUsalreadyworkingonZen7architectureincreasedcustom.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_AMDtobroadenandspecializeEPYCCPUsalreadyworkingonZen7architectureincreasedcustom.md",
+      "preview": "# AMD to broaden and specialize EPYC CPUs, already working on Zen 7 architecture — increased customization to better address evolving AI and cloud needs\n\n> 来源: https://www.tomshardware.com/pc-componen"
+    },
+    "sources/rss/2026-05-07/180231_RSS_Applequietlyaxes128GBMacStudioamidsupplyconstraintsandlocalAIfrenzyhighestmemory.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_Applequietlyaxes128GBMacStudioamidsupplyconstraintsandlocalAIfrenzyhighestmemory.md",
+      "preview": "# Apple quietly axes 128GB Mac Studio amid supply constraints and local AI frenzy — highest memory capacity reduced to 96GB, two months after discontinuation of 512GB model\n\n> 来源: https://www.tomshard"
+    },
+    "sources/rss/2026-05-07/180231_RSS_DellXPS162026ReviewAflagshipreturntoform.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_DellXPS162026ReviewAflagshipreturntoform.md",
+      "preview": "# Dell XPS 16 (2026) Review: A flagship return to form\n\n> 来源: https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-16-2026-review-da16260\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:31.39043"
+    },
+    "sources/rss/2026-05-07/180231_RSS_Denmarkpressespauseonnewdatacentergridconnectionsastotalrequestshit60GWNordicnat.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_Denmarkpressespauseonnewdatacentergridconnectionsastotalrequestshit60GWNordicnat.md",
+      "preview": "# Denmark presses pause on new data center grid connections as total requests hit 60 GW — Nordic nation is the latest to put the brakes on AI buildouts\n\n> 来源: https://www.tomshardware.com/tech-industr"
+    },
+    "sources/rss/2026-05-07/180231_RSS_Globalsemiconductorsaleshitnearly300billioninQ12026chipsareontracktotop1trillion.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_Globalsemiconductorsaleshitnearly300billioninQ12026chipsareontracktotop1trillion.md",
+      "preview": "# Global semiconductor sales hit nearly $300 billion in Q1 2026 — chips are on track to top $1 trillion for this year, says report\n\n> 来源: https://www.tomshardware.com/tech-industry/semiconductors/glob"
+    },
+    "sources/rss/2026-05-07/180231_RSS_GoogleChromesilentlydownloads4GBAImodeltoyourdevicewithoutpermissionreportclaims.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_GoogleChromesilentlydownloads4GBAImodeltoyourdevicewithoutpermissionreportclaims.md",
+      "preview": "# Google Chrome 'silently' downloads 4GB AI model to your device without permission, report claims — researcher says practice may violate EU law, waste thousands of kilowatts of energy\n\n> 来源: https://"
+    },
+    "sources/rss/2026-05-07/180231_RSS_GrabaprebuiltRTX5060Ti16GBgamingPCforjust1063usingstackablediscountsSkytechShado.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_GrabaprebuiltRTX5060Ti16GBgamingPCforjust1063usingstackablediscountsSkytechShado.md",
+      "preview": "# Grab a prebuilt RTX 5060 Ti 16GB gaming PC for just $1,063 using stackable discounts — Skytech Shadow 4 Gaming PC offers superb value without breaking the bank\n\n> 来源: https://www.tomshardware.com/de"
+    },
+    "sources/rss/2026-05-07/180231_RSS_JapanusinggamedevelopmentenginesforurbanplanninganddisastermanagementKimonosales.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_JapanusinggamedevelopmentenginesforurbanplanninganddisastermanagementKimonosales.md",
+      "preview": "# Japan using game development engines for urban planning and disaster management — Kimono sales also stretching Unity and Unreal Engine capabilities beyond the small screen\n\n> 来源: https://www.tomshar"
+    },
+    "sources/rss/2026-05-07/180231_RSS_MicrosoftsaysTransformationParadoxholdingbackAIadoptionintheworkplace45ofrespond.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_MicrosoftsaysTransformationParadoxholdingbackAIadoptionintheworkplace45ofrespond.md",
+      "preview": "# Microsoft says 'Transformation Paradox' holding back AI adoption in the workplace — 45% of respondents say it's safer to focus on current goals, rather than AI innovation\n\n> 来源: https://www.tomshard"
+    },
+    "sources/rss/2026-05-07/180231_RSS_NewLinuxStarFighterlaptopfamilydebutsstartingat1878StarLabsSystemslaptopsarrivew.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_NewLinuxStarFighterlaptopfamilydebutsstartingat1878StarLabsSystemslaptopsarrivew.md",
+      "preview": "# New Linux StarFighter laptop family debuts starting at $1,878 — Star Labs Systems' laptops arrive with spacious RAM, several options\n\n> 来源: https://www.tomshardware.com/laptops/new-linux-starfighter"
+    },
+    "sources/rss/2026-05-07/180231_RSS_Nvidiainvests300millioninCorningtobuildthreenewUS-basedopticalfiberplantsAIinfra.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_Nvidiainvests300millioninCorningtobuildthreenewUS-basedopticalfiberplantsAIinfra.md",
+      "preview": "# Nvidia invests $300 million in Corning to build three new US-based optical fiber plants — AI infrastructure deal would boost fiber production capacity by over 50%\n\n> 来源: https://www.tomshardware.com"
+    },
+    "sources/rss/2026-05-07/180231_RSS_PCIe8.0spechits1TBsofbandwidthandhasnewconnectortechnologyspechits0.5Vmilestonef.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_PCIe8.0spechits1TBsofbandwidthandhasnewconnectortechnologyspechits0.5Vmilestonef.md",
+      "preview": "# PCIe 8.0 spec hits 1 TB/s of bandwidth and has new connector technology — spec hits 0.5V milestone, final ratification expected in 2028\n\n> 来源: https://www.tomshardware.com/tech-industry/pci-sig-reve"
+    },
+    "sources/rss/2026-05-07/180231_RSS_Scorethis500Hz27-inchSamsungOdysseyOLEDgamingmonitoratitslowesteverpricenowjust6.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_Scorethis500Hz27-inchSamsungOdysseyOLEDgamingmonitoratitslowesteverpricenowjust6.md",
+      "preview": "# Score this 500Hz 27-inch Samsung Odyssey OLED gaming monitor at its lowest ever price, now just $649.99 — huge $349 saving nets you ultra-fast G60SF display with Nvidia G-Sync support\n\n> 来源: https:/"
+    },
+    "sources/rss/2026-05-07/180231_RSS_SpaceXfilesfor55billionsemiconductorfabinruralTexasforMusksTerafabtotalchipmakin.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_SpaceXfilesfor55billionsemiconductorfabinruralTexasforMusksTerafabtotalchipmakin.md",
+      "preview": "# SpaceX files for $55 billion semiconductor fab in rural Texas for Musk's Terafab — total chipmaking fab investment could reach $119 billion\n\n> 来源: https://www.tomshardware.com/tech-industry/spacex-f"
+    },
+    "sources/rss/2026-05-07/180231_RSS_Startupsuccessfullytests3D-printedrocketfuelthatcouldenablelightermissilesandfas.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_Startupsuccessfullytests3D-printedrocketfuelthatcouldenablelightermissilesandfas.md",
+      "preview": "# Startup successfully tests 3D-printed rocket fuel that could enable lighter missiles and faster production rates — new additive manufacturing process tested at 1,800 PSI\n\n> 来源: https://www.tomshardw"
+    },
+    "sources/rss/2026-05-07/180231_RSS_SteamControllerandPuckCADfilesofficiallyreleasedunderaCreativeCommonslicenseValv.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_SteamControllerandPuckCADfilesofficiallyreleasedunderaCreativeCommonslicenseValv.md",
+      "preview": "# Steam Controller and Puck CAD files officially released under a Creative Commons license — Valve encourages users to create accessories for the device\n\n> 来源: https://www.tomshardware.com/peripherals"
+    },
+    "sources/rss/2026-05-07/180231_RSS_SteelSeriesAerox3WirelessGen2ReviewTheBrightandBold.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_SteelSeriesAerox3WirelessGen2ReviewTheBrightandBold.md",
+      "preview": "# SteelSeries Aerox 3 Wireless Gen 2 Review: The Bright and Bold\n\n> 来源: https://www.tomshardware.com/peripherals/gaming-mice/steelseries-aerox-3-wireless-gen-2-review\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:0"
+    },
+    "sources/rss/2026-05-07/180231_RSS_SurveyshowsthatnearlyhalfofAmericansdontwantnewdatacentersbuiltneartheirhomes47o.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_SurveyshowsthatnearlyhalfofAmericansdontwantnewdatacentersbuiltneartheirhomes47o.md",
+      "preview": "# Survey shows that nearly half of Americans don't want new data centers built near their homes — 47% oppose the construction of new AI data centers in their neighborhood\n\n> 来源: https://www.tomshardwa"
+    },
+    "sources/rss/2026-05-07/180231_RSS_XboxCEOAshaSharmakillsCopilotforGamingoverhaulsleadershipwithCoreAIveterans.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180231_RSS_XboxCEOAshaSharmakillsCopilotforGamingoverhaulsleadershipwithCoreAIveterans.md",
+      "preview": "# Xbox CEO Asha Sharma kills Copilot for Gaming — overhauls leadership with CoreAI veterans\n\n> 来源: https://www.tomshardware.com/video-games/xbox/xbox-ceo-asha-sharma-kills-copilot-for-gaming\n> 媒体: RSS"
+    },
+    "sources/rss/2026-05-07/180234_RSS_AIdemanddrivesWDrevenuesskyhighwithmoretocome.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_AIdemanddrivesWDrevenuesskyhighwithmoretocome.md",
+      "preview": "# AI demand drives WD revenue’s sky high with more to come\n\n> 来源: https://www.blocksandfiles.com/disk/2026/05/01/ai-demand-drives-wd-revenues-sky-high-with-more-to-come/5219131\n> 媒体: RSS\n> 爬取时间: 2026-"
+    },
+    "sources/rss/2026-05-07/180234_RSS_AIinferencejustplaysbydifferentrules.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_AIinferencejustplaysbydifferentrules.md",
+      "preview": "# AI inference just plays by different rules\n\n> 来源: https://www.blocksandfiles.com/ai-ml/2026/05/04/ai-inference-just-plays-by-different-rules/5219188\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:34.217288\n> 发布"
+    },
+    "sources/rss/2026-05-07/180234_RSS_BackblazebeatsguidanceasAIdrivesgrowth.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_BackblazebeatsguidanceasAIdrivesgrowth.md",
+      "preview": "# Backblaze beats guidance as AI drives growth\n\n> 来源: https://www.blocksandfiles.com/public-cloud/2026/05/05/backblaze-beats-guidance-as-ai-drives-growth/5219234\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:34."
+    },
+    "sources/rss/2026-05-07/180234_RSS_Commvaultbeatsguidanceasrevenuegrowthslows.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_Commvaultbeatsguidanceasrevenuegrowthslows.md",
+      "preview": "# Commvault beats guidance as revenue growth slows\n\n> 来源: https://www.blocksandfiles.com/data-protection/2026/04/29/commvault-beats-guidance-as-revenue-growth-slows/5219018\n> 媒体: RSS\n> 爬取时间: 2026-05-0"
+    },
+    "sources/rss/2026-05-07/180234_RSS_DruvabringsitsSaaSprotectiontoPowerBI.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_DruvabringsitsSaaSprotectiontoPowerBI.md",
+      "preview": "# Druva brings its SaaS protection to Power BI\n\n> 来源: https://www.blocksandfiles.com/data-protection/2026/04/30/druva-brings-its-saas-protection-to-power-bi/5219082\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:"
+    },
+    "sources/rss/2026-05-07/180234_RSS_EnterpriseAIstacklock-in.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_EnterpriseAIstacklock-in.md",
+      "preview": "# Enterprise AI stack lock-in\n\n> 来源: https://www.blocksandfiles.com/ai-ml/2026/04/28/enterprise-ai-stack-lock-in/5218881\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:34.221039\n> 发布时间: 2026-04-28T15:38:25+02:00\n"
+    },
+    "sources/rss/2026-05-07/180234_RSS_Hammerspacebookingsaccelerate14x.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_Hammerspacebookingsaccelerate14x.md",
+      "preview": "# Hammerspace bookings accelerate 14x\n\n> 来源: https://www.blocksandfiles.com/ai-ml/2026/04/28/hammerspace-bookings-accelerate-14x/5218939\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:34.220747\n> 发布时间: 2026-04-28"
+    },
+    "sources/rss/2026-05-07/180234_RSS_Komprisepatentsdynamicloadbalancingtech.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_Komprisepatentsdynamicloadbalancingtech.md",
+      "preview": "# Komprise patents dynamic load balancing tech\n\n> 来源: https://www.blocksandfiles.com/data-management/2026/05/05/komprise-patents-dynamic-load-balancing-tech/5219172\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:"
+    },
+    "sources/rss/2026-05-07/180234_RSS_MicronsnewSSDreplacesdiskforfastaccessstorage.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_MicronsnewSSDreplacesdiskforfastaccessstorage.md",
+      "preview": "# Micron's new SSD replaces disk for fast access storage\n\n> 来源: https://www.blocksandfiles.com/flash/2026/05/05/microns-new-ssd-replaces-disk-for-fast-access-storage/5219265\n> 媒体: RSS\n> 爬取时间: 2026-05-"
+    },
+    "sources/rss/2026-05-07/180234_RSS_NEOSemiconductorsPOCsays3DDRAMisgoodtogo.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_NEOSemiconductorsPOCsays3DDRAMisgoodtogo.md",
+      "preview": "# NEO Semiconductor’s POC says 3D DRAM is good to go\n\n> 来源: https://www.blocksandfiles.com/flash/2026/04/27/neo-semiconductors-poc-says-3d-dram-is-good-to-go/5218850\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02"
+    },
+    "sources/rss/2026-05-07/180234_RSS_PanzuraNexusgivesCopilotLLMsaccesstoPanzuradata.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_PanzuraNexusgivesCopilotLLMsaccesstoPanzuradata.md",
+      "preview": "# Panzura Nexus gives Copilot LLMs access to Panzura data\n\n> 来源: https://www.blocksandfiles.com/public-cloud/2026/05/04/panzura-nexus-gives-copilot-llms-access-to-panzura-data/5219042\n> 媒体: RSS\n> 爬取时间"
+    },
+    "sources/rss/2026-05-07/180234_RSS_PineconeprovidingcompiledvectorartifactstoaccelerateAIAgents.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_PineconeprovidingcompiledvectorartifactstoaccelerateAIAgents.md",
+      "preview": "# Pinecone providing compiled vector artifacts to accelerate AI Agents\n\n> 来源: https://www.blocksandfiles.com/ai-ml/2026/05/05/pinecone-providing-compiled-vector-artifacts-to-accelerate-ai-agents/52193"
+    },
+    "sources/rss/2026-05-07/180234_RSS_PrelimSamsungMemoryresultsexceededbyevenbiggeractuals.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_PrelimSamsungMemoryresultsexceededbyevenbiggeractuals.md",
+      "preview": "# Prelim Samsung Memory results exceeded by even bigger actuals\n\n> 来源: https://www.blocksandfiles.com/flash/2026/04/30/prelim-samsung-memory-results-exceeded-by-even-bigger-actuals/5219071\n> 媒体: RSS\n>"
+    },
+    "sources/rss/2026-05-07/180234_RSS_QdrantsAIvectorsearchisfasterauditableandmoreavailable.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_QdrantsAIvectorsearchisfasterauditableandmoreavailable.md",
+      "preview": "# Qdrant’s AI vector search is faster, auditable and more available\n\n> 来源: https://www.blocksandfiles.com/ai-ml/2026/04/28/qdrants-ai-vector-search-is-faster-auditable-and-more-available/5218971\n> 媒体:"
+    },
+    "sources/rss/2026-05-07/180234_RSS_SAPbagsDremioandPriorLabsinenterpriseAIdatapush.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_SAPbagsDremioandPriorLabsinenterpriseAIdatapush.md",
+      "preview": "# SAP bags Dremio and Prior Labs in enterprise AI data push\n\n> 来源: https://www.blocksandfiles.com/data-management/2026/05/05/sap-bags-dremio-and-prior-labs-in-enterprise-ai-data-push/5219227\n> 媒体: RSS"
+    },
+    "sources/rss/2026-05-07/180234_RSS_Sandiskopen-sourcesacceleratedSSDpre-conditioningalgorithm.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_Sandiskopen-sourcesacceleratedSSDpre-conditioningalgorithm.md",
+      "preview": "# Sandisk open-sources accelerated SSD pre-conditioning algorithm\n\n> 来源: https://www.blocksandfiles.com/flash/2026/04/28/sandisk-open-sources-accelerated-ssd-pre-conditioning-algorithm/5218946\n> 媒体: R"
+    },
+    "sources/rss/2026-05-07/180234_RSS_Shadessinglesourceoffilesystemtruthforcreatives.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_Shadessinglesourceoffilesystemtruthforcreatives.md",
+      "preview": "# Shade’s single source of file system truth for creatives\n\n> 来源: https://www.blocksandfiles.com/data-management/2026/04/30/shades-single-source-of-file-system-truth-for-creatives/5219062\n> 媒体: RSS\n> "
+    },
+    "sources/rss/2026-05-07/180234_RSS_SpectacularcashgeneratorSandiskgeneratesspectacularpileofdollars.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_SpectacularcashgeneratorSandiskgeneratesspectacularpileofdollars.md",
+      "preview": "# Spectacular cash generator Sandisk generates spectacular pile of dollars\n\n> 来源: https://www.blocksandfiles.com/flash/2026/05/01/spectacular-cash-generator-sandisk-generates-spectacular-pile-of-dolla"
+    },
+    "sources/rss/2026-05-07/180234_RSS_SpinningdisksgeneratingmassiverevenueforSeagate.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_SpinningdisksgeneratingmassiverevenueforSeagate.md",
+      "preview": "# Spinning disks generating massive revenue for Seagate\n\n> 来源: https://www.blocksandfiles.com/disk/2026/04/29/spinning-disks-generating-massive-revenue-for-seagate/5219028\n> 媒体: RSS\n> 爬取时间: 2026-05-07"
+    },
+    "sources/rss/2026-05-07/180234_RSS_WDandmulti-tiereddiskdrivearrays.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180234_RSS_WDandmulti-tiereddiskdrivearrays.md",
+      "preview": "# WD and multi-tiered disk drive arrays\n\n> 来源: https://www.blocksandfiles.com/disk/2026/04/27/wd-and-multi-tiered-disk-drive-arrays/5218862\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:34.221359\n> 发布时间: 2026-04"
+    },
+    "sources/rss/2026-05-07/180235_RSS_2026networkoutagereportandinternethealthcheck.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_2026networkoutagereportandinternethealthcheck.md",
+      "preview": "# 2026 network outage report and internet health check\n\n> 来源: https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:"
+    },
+    "sources/rss/2026-05-07/180235_RSS_AMDandIntelpartnertodeliverAIperformanceadvancement.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_AMDandIntelpartnertodeliverAIperformanceadvancement.md",
+      "preview": "# AMD and Intel partner to deliver AI performance advancement\n\n> 来源: https://www.networkworld.com/article/4166785/amd-and-intel-partner-to-deliver-ai-performance-advancement.html\n> 媒体: RSS\n> 爬取时间: 202"
+    },
+    "sources/rss/2026-05-07/180235_RSS_BeyondthepitchAlookatAtléticoMadridsconnectedstadium.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_BeyondthepitchAlookatAtléticoMadridsconnectedstadium.md",
+      "preview": "# Beyond the pitch: A look at Atlético Madrid’s connected stadium\n\n> 来源: https://www.networkworld.com/article/4166643/beyond-the-pitch-a-look-at-atletico-madrids-digital-revolution.html\n> 媒体: RSS\n> 爬取"
+    },
+    "sources/rss/2026-05-07/180235_RSS_BroadcombetsbigonVMwareCloudFoundation9.1.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_BroadcombetsbigonVMwareCloudFoundation9.1.md",
+      "preview": "# Broadcom bets big on VMware Cloud Foundation 9.1\n\n> 来源: https://www.networkworld.com/article/4166905/broadcom-bets-big-on-vmware-cloud-foundation-9-1.html\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:35.61691"
+    },
+    "sources/rss/2026-05-07/180235_RSS_CiscograbsAstrixtosecureAIagents.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_CiscograbsAstrixtosecureAIagents.md",
+      "preview": "# Cisco grabs Astrix to secure AI agents\n\n> 来源: https://www.networkworld.com/article/4166695/cisco-grabs-astrix-to-secure-ai-agents.html\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:35.618251\n> 发布时间: Mon, 04 Ma"
+    },
+    "sources/rss/2026-05-07/180235_RSS_CisconerdsoutMaytheFourthbewithyourAIassistant.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_CisconerdsoutMaytheFourthbewithyourAIassistant.md",
+      "preview": "# Cisco nerds out: May the Fourth be with your AI assistant\n\n> 来源: https://www.networkworld.com/article/4166294/cisco-nerds-out-may-the-fourth-be-with-your-ai-assistant.html\n> 媒体: RSS\n> 爬取时间: 2026-05-"
+    },
+    "sources/rss/2026-05-07/180235_RSS_EnterpriseSpotlightTransformingsoftwaredevelopmentwithAI.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_EnterpriseSpotlightTransformingsoftwaredevelopmentwithAI.md",
+      "preview": "# Enterprise Spotlight: Transforming software development with AI\n\n> 来源: https://www.networkworld.com/article/4164498/enterprise-spotlight-transforming-software-development-with-ai-4.html\n> 媒体: RSS\n> "
+    },
+    "sources/rss/2026-05-07/180235_RSS_ExtremeNetworksMemoryadvantageWi-Fi7andcompetitivefluxdrivemomentum.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_ExtremeNetworksMemoryadvantageWi-Fi7andcompetitivefluxdrivemomentum.md",
+      "preview": "# Extreme Networks: Memory advantage, Wi-Fi 7 and competitive flux drive momentum\n\n> 来源: https://www.networkworld.com/article/4166094/extreme-networks-memory-advantage-wi-fi-7-and-competitive-flux-dri"
+    },
+    "sources/rss/2026-05-07/180235_RSS_ExtrememovestowardautonomousnetworkingwithadvancedAIagentmanagementtools.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_ExtrememovestowardautonomousnetworkingwithadvancedAIagentmanagementtools.md",
+      "preview": "# Extreme moves toward autonomous networking with advanced AI agent, management tools\n\n> 来源: https://www.networkworld.com/article/4167443/extreme-moves-toward-autonomous-networking-with-advanced-ai-ag"
+    },
+    "sources/rss/2026-05-07/180235_RSS_HPEbolstersautonomousnetworkoperationsforMistArubaCentral.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_HPEbolstersautonomousnetworkoperationsforMistArubaCentral.md",
+      "preview": "# HPE bolsters autonomous network operations for Mist, Aruba Central\n\n> 来源: https://www.networkworld.com/article/4168010/hpe-bolsters-autonomous-network-operations-for-mist-aruba-central.html\n> 媒体: RS"
+    },
+    "sources/rss/2026-05-07/180235_RSS_IBMunveilsitsblueprinttohelpenterprisesrunAIatthecoreoftheirbusiness.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_IBMunveilsitsblueprinttohelpenterprisesrunAIatthecoreoftheirbusiness.md",
+      "preview": "# IBM unveils its blueprint to help enterprises run AI at the core of their business\n\n> 来源: https://www.networkworld.com/article/4166920/ibm-unveils-its-blueprint-to-help-enterprises-run-ai-at-the-cor"
+    },
+    "sources/rss/2026-05-07/180235_RSS_IntelbehindinAIchipsbetsonquantumandneuromorphicprocessors.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_IntelbehindinAIchipsbetsonquantumandneuromorphicprocessors.md",
+      "preview": "# Intel, behind in AI chips, bets on quantum and neuromorphic processors\n\n> 来源: https://www.networkworld.com/article/4168000/intel-behind-in-ai-chips-bets-on-quantum-and-neuromorphic-processors.html\n>"
+    },
+    "sources/rss/2026-05-07/180235_RSS_Lumenadvancescloudnetworkingvisionwith475MAlkirabuy.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_Lumenadvancescloudnetworkingvisionwith475MAlkirabuy.md",
+      "preview": "# Lumen advances cloud networking vision with $475M Alkira buy\n\n> 来源: https://www.networkworld.com/article/4168045/lumen-advances-cloud-networking-vision-with-475m-alkira-buy.html\n> 媒体: RSS\n> 爬取时间: 20"
+    },
+    "sources/rss/2026-05-07/180235_RSS_Memoryshortageandcostsurgepushenterprisestowardthecloud.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_Memoryshortageandcostsurgepushenterprisestowardthecloud.md",
+      "preview": "# Memory shortage and cost surge push enterprises toward the cloud\n\n> 来源: https://www.networkworld.com/article/4166484/memory-shortage-and-cost-surge-push-enterprises-toward-cloud.html\n> 媒体: RSS\n> 爬取时"
+    },
+    "sources/rss/2026-05-07/180235_RSS_NetskopelaunchesAIagentsforSOCandNOCautomation.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_NetskopelaunchesAIagentsforSOCandNOCautomation.md",
+      "preview": "# Netskope launches AI agents for SOC and NOC automation\n\n> 来源: https://www.networkworld.com/article/4167967/netskope-launches-ai-agents-for-soc-and-noc-automation.html\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18"
+    },
+    "sources/rss/2026-05-07/180235_RSS_RuckusNetworksonthemoveagainthistimeacquiredbyBeldenfor1.85billion.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_RuckusNetworksonthemoveagainthistimeacquiredbyBeldenfor1.85billion.md",
+      "preview": "# Ruckus Networks on the move again, this time acquired by Belden for $1.85 billion\n\n> 来源: https://www.networkworld.com/article/4166854/ruckus-networks-on-the-move-again-this-time-acquired-by-belden-f"
+    },
+    "sources/rss/2026-05-07/180235_RSS_Scenesfromthegreatdatacenterrevolt.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_Scenesfromthegreatdatacenterrevolt.md",
+      "preview": "# Scenes from the great data center revolt\n\n> 来源: https://www.networkworld.com/article/4166062/scenes-from-the-great-data-center-revolt.html\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:35.620207\n> 发布时间: Fri, 0"
+    },
+    "sources/rss/2026-05-07/180235_RSS_StarlingX12.0isrightontimeformixed-hardwareedgedeployments.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_StarlingX12.0isrightontimeformixed-hardwareedgedeployments.md",
+      "preview": "# StarlingX 12.0 is right on time for mixed-hardware edge deployments\n\n> 来源: https://www.networkworld.com/article/4166545/starlingx-12-0-is-right-on-time-for-mixed-hardware-edge-deployments.html\n> 媒体:"
+    },
+    "sources/rss/2026-05-07/180235_RSS_SupplyconstraintsopticaladvancesdominateAristasQ1.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_SupplyconstraintsopticaladvancesdominateAristasQ1.md",
+      "preview": "# Supply constraints, optical advances dominate Arista’s Q1\n\n> 来源: https://www.networkworld.com/article/4168036/supply-constraints-optical-advances-dominate-aristas-q1.html\n> 媒体: RSS\n> 爬取时间: 2026-05-0"
+    },
+    "sources/rss/2026-05-07/180235_RSS_SwitchstormcomingGartnerforecastspricehikeslongleadtimesforenterprisedatacenters.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180235_RSS_SwitchstormcomingGartnerforecastspricehikeslongleadtimesforenterprisedatacenters.md",
+      "preview": "# Switch storm coming: Gartner forecasts price hikes, long lead times for enterprise data center switches\n\n> 来源: https://www.networkworld.com/article/4167302/switch-storm-coming-gartner-forecasts-pric"
+    },
+    "sources/rss/2026-05-07/180237_RSS_ATypeofComputingNYTimesCrosswordMovesfromAWStoGoogleAppEngine.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180237_RSS_ATypeofComputingNYTimesCrosswordMovesfromAWStoGoogleAppEngine.md",
+      "preview": "# A Type of Computing: NYTimes Crossword Moves from AWS to Google App Engine\n\n> 来源: http://www.datacenterknowledge.com/archives/2017/08/29/a-type-of-computing-nytimes-crossword-moves-from-aws-to-googl"
+    },
+    "sources/rss/2026-05-07/180237_RSS_DellSaysEMCMergerPaysOffasCustomersSeekFewerPartners.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180237_RSS_DellSaysEMCMergerPaysOffasCustomersSeekFewerPartners.md",
+      "preview": "# Dell Says EMC Merger Pays Off as Customers Seek `Fewer Partners’\n\n> 来源: http://www.datacenterknowledge.com/archives/2017/08/30/dell-says-emc-merger-pays-off-as-customers-seek-fewer-partners/\n> 媒体: R"
+    },
+    "sources/rss/2026-05-07/180237_RSS_FiveChallengesCompaniesMustOvercometoMakeUseofAllTheirData.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180237_RSS_FiveChallengesCompaniesMustOvercometoMakeUseofAllTheirData.md",
+      "preview": "# Five Challenges Companies Must Overcome to Make Use of All Their Data\n\n> 来源: http://www.datacenterknowledge.com/archives/2017/08/29/five-challenges-companies-must-overcome-make-use-data/\n> 媒体: RSS\n>"
+    },
+    "sources/rss/2026-05-07/180237_RSS_FourProvidersHoustonDataCentersOnlinebutAccessRoadsFlooded.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180237_RSS_FourProvidersHoustonDataCentersOnlinebutAccessRoadsFlooded.md",
+      "preview": "# Four Providers’ Houston Data Centers Online, but Access Roads Flooded\n\n> 来源: http://www.datacenterknowledge.com/archives/2017/08/28/four-providers-houston-data-centers-online-access-roads-flooded/\n>"
+    },
+    "sources/rss/2026-05-07/180237_RSS_HPEandVMwareTeamUponComposableInfrastructureHybridCloud.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180237_RSS_HPEandVMwareTeamUponComposableInfrastructureHybridCloud.md",
+      "preview": "# HPE and VMware Team Up on Composable Infrastructure, Hybrid Cloud\n\n> 来源: http://www.datacenterknowledge.com/archives/2017/08/30/hpe-and-vmware-team-up-on-composable-infrastructure-hybrid-cloud/\n> 媒体"
+    },
+    "sources/rss/2026-05-07/180237_RSS_HowGooglesCustomSecurityChipSecuresServersatBoot.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180237_RSS_HowGooglesCustomSecurityChipSecuresServersatBoot.md",
+      "preview": "# How Google’s Custom Security Chip Secures Servers at Boot\n\n> 来源: http://www.datacenterknowledge.com/archives/2017/08/29/how-googles-custom-security-chip-secures-servers-at-boot/\n> 媒体: RSS\n> 爬取时间: 20"
+    },
+    "sources/rss/2026-05-07/180237_RSS_HowtoDesignaDataCenterinaNorwegianFjord.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180237_RSS_HowtoDesignaDataCenterinaNorwegianFjord.md",
+      "preview": "# How to Design a Data Center in a Norwegian Fjord\n\n> 来源: http://www.datacenterknowledge.com/archives/2017/08/30/how-to-design-a-data-center-in-a-norwegian-fjord/\n> 媒体: RSS\n> 爬取时间: 2026-05-07T18:02:37"
+    },
+    "sources/rss/2026-05-07/180237_RSS_HurricaneHarveyDeliveringManagedITServicesDuringaCatastrophe.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180237_RSS_HurricaneHarveyDeliveringManagedITServicesDuringaCatastrophe.md",
+      "preview": "# Hurricane Harvey: Delivering Managed IT Services During a Catastrophe\n\n> 来源: http://www.datacenterknowledge.com/archives/2017/08/29/hurricane-harvey-delivering-managed-it-services-during-a-catastrop"
+    },
+    "sources/rss/2026-05-07/180237_RSS_ReportAfterAmazon-WholeFoodsDealTargetPlansMovefromAWSCloud.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180237_RSS_ReportAfterAmazon-WholeFoodsDealTargetPlansMovefromAWSCloud.md",
+      "preview": "# Report: After Amazon-Whole Foods Deal, Target Plans Move from AWS Cloud\n\n> 来源: http://www.datacenterknowledge.com/archives/2017/08/30/report-after-amazon-whole-foods-deal-target-plans-move-from-aws-"
+    },
+    "sources/rss/2026-05-07/180237_RSS_WillEdgeComputingHelptheServerMarketBounceBacktoGrowth.md": {
+      "type": "rss",
+      "date": "2026-05-07",
+      "file": "/root/data/disk/liquid-cooling-ecosystem/sources/rss/2026-05-07/180237_RSS_WillEdgeComputingHelptheServerMarketBounceBacktoGrowth.md",
+      "preview": "# Will Edge Computing Help the Server Market Bounce Back to Growth?\n\n> 来源: http://www.datacenterknowledge.com/archives/2017/08/29/will-edge-computing-help-the-server-market-bounce-back-to-growth/\n> 媒体"
+    }
+  },
+  "topic_map": {
+    "宏观/政策": [
+      "sources/reports/industry_液冷/01_数据中心液冷_核心/",
+      "sources/reports/industry_液冷/05_液冷市场_行业综述/"
+    ],
+    "OTT客户": [
+      "sources/wechat/",
+      "sources/sec/ott/"
+    ],
+    "GPU芯片": [
+      "sources/sec/gpu/",
+      "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/"
+    ],
+    "液冷组件/CDU/冷板": [
+      "sources/reports/industry_液冷/03_液冷产业链_组件_冷板_CDU/"
+    ],
+    "竞争/竞品": [
+      "sources/reports/industry_液冷/04_AI基建_光模块_电源协同/"
+    ],
+    "冷却液/材料": [
+      "sources/reports/industry_液冷/07_冷却液_氟化液_材料/"
+    ],
+    "OEM/服务器": [
+      "sources/sec/oem/",
+      "sources/reports/industry_液冷/02_超节点_GPU_服务器散热/"
+    ]
+  }
+}

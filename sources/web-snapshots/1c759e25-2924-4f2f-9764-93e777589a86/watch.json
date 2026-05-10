@@ -1,0 +1,18 @@
+{
+  "url": "https://www.staubli.com/global/en/news.html",
+  "title": "Staubli-新闻",
+  "tags": "["\u5feb\u63a5\u5934", "\u7ade\u54c1", "\u6db2\u51b7"]",
+  "minutes_between_check": 180,
+  "fetch_backend": "html_requests",
+  "include_filters": [],
+  "trigger_text": [],
+  "uuid": "1c759e25-2924-4f2f-9764-93e777589a86",
+  "history_n": 1,
+  "last_checked": 0,
+  "last_changed": 0,
+  "last_error": false,
+  "last_notification_error": false,
+  "paused": false,
+  "notification_urls": [],
+  "headers": {"User-Agent": "Mozilla/5.0 (compatible; LiquidCoolBot/1.0)"}
+}

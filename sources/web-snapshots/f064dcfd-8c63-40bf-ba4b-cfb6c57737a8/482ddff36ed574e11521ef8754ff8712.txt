@@ -1,0 +1,102 @@
+  Hacker Newsnew | past | comments | ask | show | jobs | submit  login                                                                                                            
+                                                                                                                                                                                  
+
+ 1.                                                                     Valve releases Steam Controller CAD files under Creative Commons license ( digitalfoundry.net )           
+     1526 points by haunter 20 hours ago | hide | 500 comments                                                                                                                    
+                                                                                                                                                                                  
+ 2.                                                                     Indian matchbox labels as a visual archive ( itsnicethat.com )                                            
+     27 points by sahar_builds 2 hours ago | hide | 3 comments                                                                                                                    
+                                                                                                                                                                                  
+ 3.                                                                     Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004) ( ticalc.org )                                 
+     56 points by suoken 4 hours ago | hide | 20 comments                                                                                                                         
+                                                                                                                                                                                  
+ 4.                                                                     Appearing productive in the workplace ( nooneshappy.com )                                                 
+     1304 points by diebillionaires 20 hours ago | hide | 516 comments                                                                                                            
+                                                                                                                                                                                  
+ 5.                                                                     SQLite Is a Library of Congress Recommended Storage Format ( sqlite.org )                                 
+     357 points by whatisabcdefgh 14 hours ago | hide | 95 comments                                                                                                               
+                                                                                                                                                                                  
+ 6.                                                                     Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic) ( cardor.dev )           
+     20 points by enmanuelmag 1 hour ago | hide | 4 comments                                                                                                                      
+                                                                                                                                                                                  
+ 7.                                                                     GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal ( ycombinator.com )          
+     40 minutes ago | hide                                                                                                                                                        
+                                                                                                                                                                                  
+ 8.                                                                     Permacomputing Principles ( permacomputing.net )                                                          
+     179 points by andsoitis 10 hours ago | hide | 85 comments                                                                                                                    
+                                                                                                                                                                                  
+ 9.                                                                     ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math ( firethering.com )        
+     41 points by steveharing1 3 hours ago | hide | 37 comments                                                                                                                   
+                                                                                                                                                                                  
+10.                                                                     Grand Theft Oil Futures: Insider traders keep making a killing at our expense ( paulkrugman.substack.com )
+     38 points by Qem 1 hour ago | hide | 22 comments                                                                                                                             
+                                                                                                                                                                                  
+11.                                                                     Diskless Linux boot using ZFS, iSCSI and PXE ( aniket.foo )                                               
+     119 points by stereo-highway 9 hours ago | hide | 64 comments                                                                                                                
+                                                                                                                                                                                  
+12.                                                                     Photoshop's challenges with focus, pt. 2 ( aresluna.org )                                                 
+     75 points by frizlab 6 hours ago | hide | 22 comments                                                                                                                        
+                                                                                                                                                                                  
+13.                                                                     Chevrolet Performance eCrate package (400v/200hp) ( chevrolet.com )                                       
+     74 points by mindcrime 7 hours ago | hide | 45 comments                                                                                                                      
+                                                                                                                                                                                  
+14.                                                                     LinkedIn profile visitor lists belong to the people, says Noyb ( theregister.com )                        
+     39 points by robin_reala 1 hour ago | hide | 14 comments                                                                                                                     
+                                                                                                                                                                                  
+15.                                                                     Vibe coding and agentic engineering are getting closer than I'd like ( simonwillison.net )                
+     642 points by e12e 21 hours ago | hide | 705 comments                                                                                                                        
+                                                                                                                                                                                  
+16.                                                                     SingleRide: Longest route on NYC Subway without visiting the same station twice ( singleride.nyc )        
+     35 points by TMWNN 5 hours ago | hide | 13 comments                                                                                                                          
+                                                                                                                                                                                  
+17.                                                                     RSS feeds send me more traffic than Google ( shkspr.mobi )                                                
+     150 points by SpyCoder77 12 hours ago | hide | 35 comments                                                                                                                   
+                                                                                                                                                                                  
+18.                                                                     ProgramBench: Can Language Models Rebuild Programs from Scratch? ( arxiv.org )                            
+     81 points by jonbaer 8 hours ago | hide | 43 comments                                                                                                                        
+                                                                                                                                                                                  
+19.                                                                     The brave souls who bought a used, 340k-mile rental camper van ( thedrive.com )                           
+     19 points by PaulHoule 3 hours ago | hide | 6 comments                                                                                                                       
+                                                                                                                                                                                  
+20.                                                                     RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust ( lites.dev )                                 
+     4 points by atilimcetin 1 hour ago | hide | 1 comment                                                                                                                        
+                                                                                                                                                                                  
+21.                                                                     Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs ( github.com/darkrishabh )         
+     36 points by darkrishabh 6 hours ago | hide | 15 comments                                                                                                                    
+                                                                                                                                                                                  
+22.                                                                     Making LLM Training Faster with Unsloth and NVIDIA ( unsloth.ai )                                         
+     72 points by segmenta 5 hours ago | hide | 10 comments                                                                                                                       
+                                                                                                                                                                                  
+23.                                                                     Google Cloud fraud defense, the next evolution of reCAPTCHA ( cloud.google.com )                          
+     333 points by unforgivenpasta 18 hours ago | hide | 346 comments                                                                                                             
+                                                                                                                                                                                  
+24.                                                                     Show HN: Trust – Coding Rust like it's 1989 ( github.com/wojtczyk )                                       
+     53 points by wojtczyk 6 hours ago | hide | 16 comments                                                                                                                       
+                                                                                                                                                                                  
+25.                                                                     From Supabase to Clerk to Better Auth ( val.town )                                                        
+     267 points by stevekrouse 19 hours ago | hide | 194 comments                                                                                                                 
+                                                                                                                                                                                  
+26.                                                                     Pen pal programs endure in a digital age ( apnews.com )                                                   
+     58 points by petethomas 10 hours ago | hide | 13 comments                                                                                                                    
+                                                                                                                                                                                  
+27.                                                                     Show HN: Hallucinopedia ( halupedia.com )                                                                 
+     249 points by bstrama 20 hours ago | hide | 221 comments                                                                                                                     
+                                                                                                                                                                                  
+28.                                                                     Community firmware for the Xteink X4 e-paper reader ( github.com/crosspoint-reader )                      
+     117 points by dmos62 16 hours ago | hide | 38 comments                                                                                                                       
+                                                                                                                                                                                  
+29.                                                                     Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem ( tilde.run )               
+     178 points by ozkatz 20 hours ago | hide | 120 comments                                                                                                                      
+                                                                                                                                                                                  
+30.                                                                     The Old Guard: Confronting America's Gerontocratic Crisis ( harpers.org )                                 
+     63 points by Caiero 12 hours ago | hide | 106 comments                                                                                                                       
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+     More                                                                                                                                                                         
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                                         
+                                                                                                                                                                                  
+Search:                                                                                                                                                                           

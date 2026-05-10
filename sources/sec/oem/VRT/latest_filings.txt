@@ -1,0 +1,2 @@
+10-Q|2026-04-22|https://www.sec.gov/Archives/edgar/data/0001674101/000162828026026556/vrt-20260331.htm
+10-K|2026-02-13|https://www.sec.gov/Archives/edgar/data/0001674101/000167410126000008/vrt-20251231.htm

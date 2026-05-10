@@ -1,0 +1,18 @@
+{
+  "url": "https://www.coolit.com/news",
+  "title": "CoolIT-新闻",
+  "tags": "["\u7ade\u54c1", "\u51b7\u677f"]",
+  "minutes_between_check": 180,
+  "fetch_backend": "html_requests",
+  "include_filters": [],
+  "trigger_text": [],
+  "uuid": "ec582845-02df-40d6-a603-200b1f70acd6",
+  "history_n": 1,
+  "last_checked": 0,
+  "last_changed": 0,
+  "last_error": false,
+  "last_notification_error": false,
+  "paused": false,
+  "notification_urls": [],
+  "headers": {"User-Agent": "Mozilla/5.0 (compatible; LiquidCoolBot/1.0)"}
+}

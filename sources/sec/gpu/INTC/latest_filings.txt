@@ -1,0 +1,2 @@
+10-Q|2026-04-24|https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000079/intc-20260328.htm
+10-K|2026-01-23|https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000011/intc-20251227.htm

@@ -1,0 +1,102 @@
+  Hacker Newsnew | past | comments | ask | show | jobs | submit  login                                                                                                          
+                                                                                                                                                                                
+
+ 1.                                                                   Dirtyfrag: Universal Linux LPE ( openwall.com )                                                           
+     198 points by flipped 2 hours ago | hide | 92 comments                                                                                                                     
+                                                                                                                                                                                
+ 2.                                                                   The Burning Man MOOP Map ( not-ship.com )                                                                 
+     478 points by speckx 7 hours ago | hide | 244 comments                                                                                                                     
+                                                                                                                                                                                
+ 3.                                                                   Agents need control flow, not more prompts ( bsuh.bearblog.dev )                                          
+     219 points by bsuh 4 hours ago | hide | 124 comments                                                                                                                       
+                                                                                                                                                                                
+ 4.                                                                   AlphaEvolve: Gemini-powered coding agent scaling impact across fields ( deepmind.google )                 
+     216 points by berlianta 6 hours ago | hide | 84 comments                                                                                                                   
+                                                                                                                                                                                
+ 5.                                                                   Natural Language Autoencoders: Turning Claude's Thoughts into Text ( anthropic.com )                      
+     118 points by instagraham 3 hours ago | hide | 38 comments                                                                                                                 
+                                                                                                                                                                                
+ 6.                                                                   Utah senator smacks ABC reporters phone out of hand amid Data Center controversy ( abc4.com )             
+     44 points by randycupertino 54 minutes ago | hide | 12 comments                                                                                                            
+                                                                                                                                                                                
+ 7.                                                                   AI slop is killing online communities ( rmoff.net )                                                       
+     236 points by thm 2 hours ago | hide | 226 comments                                                                                                                        
+                                                                                                                                                                                
+ 8.                                                                   DeepSeek 4 Flash local inference engine for Metal ( github.com/antirez )                                  
+     212 points by tamnd 6 hours ago | hide | 66 comments                                                                                                                       
+                                                                                                                                                                                
+ 9.                                                                   Colored Shadow Penumbra ( chosker.github.io )                                                             
+     24 points by ibobev 2 hours ago | hide | 9 comments                                                                                                                        
+                                                                                                                                                                                
+10.                                                                   I want to live like Costco people ( tastecooking.com )                                                    
+     146 points by speckx 6 hours ago | hide | 365 comments                                                                                                                     
+                                                                                                                                                                                
+11.                                                                   Chrome removes claim of On-device Al not sending data to Google Servers ( reddit.com )                    
+     362 points by newsoftheday 5 hours ago | hide | 139 comments                                                                                                               
+                                                                                                                                                                                
+12.                                                                   Principles for agent-native CLIs ( twitter.com/trevin )                                                   
+     36 points by blumpy22 4 hours ago | hide | 19 comments                                                                                                                     
+                                                                                                                                                                                
+13.                                                                   PySimpleGUI 6 ( github.com/pysimplegui )                                                                  
+     79 points by geophph 6 hours ago | hide | 33 comments                                                                                                                      
+                                                                                                                                                                                
+14.                                                                   Show HN: Full Python GUI apps in the browser – no JavaScript, no server ( github.com/pthom )              
+     18 points by pstomi 1 hour ago | hide | 4 comments                                                                                                                         
+                                                                                                                                                                                
+15.                                                                   Child marriages plunged when girls stayed in school in Nigeria ( nature.com )                             
+     307 points by surprisetalk 8 hours ago | hide | 225 comments                                                                                                               
+                                                                                                                                                                                
+16.                                                                   Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code ( github.com/kubetail-org )
+     10 points by andres 1 hour ago | hide | discuss                                                                                                                            
+                                                                                                                                                                                
+17.                                                                   RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust ( lites.dev )                                 
+     146 points by atilimcetin 10 hours ago | hide | 83 comments                                                                                                                
+                                                                                                                                                                                
+18.                                                                   The Self-Cancelling Subscription ( predr.ag )                                                             
+     126 points by surprisetalk 7 hours ago | hide | 57 comments                                                                                                                
+                                                                                                                                                                                
+19.                                                                   OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus) ( online.fr )                         
+     54 points by zdw 6 hours ago | hide | 6 comments                                                                                                                           
+                                                                                                                                                                                
+20.                                                                   Creating for a niche ( davesnider.com )                                                                   
+     5 points by snide 2 hours ago | hide | discuss                                                                                                                             
+                                                                                                                                                                                
+21.                                                                   Building for the Future ( cloudflare.com )                                                                
+     107 points by PriorityLeft 1 hour ago | hide | 68 comments                                                                                                                 
+                                                                                                                                                                                
+22.                                                                   I switched from Mac to a Lenovo Chromebook ( johnozbay.com )                                              
+     88 points by speckx 5 hours ago | hide | 122 comments                                                                                                                      
+                                                                                                                                                                                
+23.                                                                   Motherboard sales 'collapse' amid unprecedented shortages fueled by AI ( tomshardware.com )               
+     208 points by speckx 6 hours ago | hide | 252 comments                                                                                                                     
+                                                                                                                                                                                
+24.                                                                   OurCar: What I learned making an app for my family ( mendelgreenberg.com )                                
+     87 points by chabad360 14 hours ago | hide | 65 comments                                                                                                                   
+                                                                                                                                                                                
+25.                                                                   GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal ( ycombinator.com )          
+     9 hours ago | hide                                                                                                                                                         
+                                                                                                                                                                                
+26.                                                                   Show HN: TRUST – Coding Rust like it's 1989 ( github.com/wojtczyk )                                       
+     98 points by wojtczyk 15 hours ago | hide | 64 comments                                                                                                                    
+                                                                                                                                                                                
+27.                                                                   Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004) ( ticalc.org )                                 
+     173 points by suoken 13 hours ago | hide | 75 comments                                                                                                                     
+                                                                                                                                                                                
+28.                                                                   MPEG-2 Transport Stream Packaging for Media over QUIC Transport ( ietf.org )                              
+     52 points by mondainx 7 hours ago | hide | 15 comments                                                                                                                     
+                                                                                                                                                                                
+29.                                                                   Automating Hermitage to see how transactions differ in MySQL and MariaDB ( theconsensus.dev )             
+     4 points by eatonphil 1 hour ago | hide | discuss                                                                                                                          
+                                                                                                                                                                                
+30.                                                                   The Deletion Test – The Phoenix Architecture ( leaflet.pub )                                              
+     6 points by fagnerbrack 2 hours ago | hide | 1 comment                                                                                                                     
+                                                                                                                                                                                
+                                                                                                                                                                                
+     More                                                                                                                                                                       
+                                                                                                                                                                                
+                                                                                                                                                                                
+                                                                                                                                                                                
+                                                                                                                                                                                
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                                       
+                                                                                                                                                                                
+Search:                                                                                                                                                                         

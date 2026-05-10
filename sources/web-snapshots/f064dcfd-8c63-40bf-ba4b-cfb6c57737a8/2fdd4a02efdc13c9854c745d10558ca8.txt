@@ -1,0 +1,102 @@
+  Hacker Newsnew | past | comments | ask | show | jobs | submit  login                                                                                             
+                                                                                                                                                                   
+
+ 1.                                                                Canvas (Instructure) LMS Down in Ongoing Ransomware Attack ( theverge.com )                     
+     126 points by stefanpie 2 hours ago | hide | 14 comments                                                                                                      
+                                                                                                                                                                   
+ 2.                                                                Dirtyfrag: Universal Linux LPE ( openwall.com )                                                 
+     371 points by flipped 5 hours ago | hide | 173 comments                                                                                                       
+                                                                                                                                                                   
+ 3.                                                                Maybe you shouldn't install new software for a bit ( xeiaso.net )                               
+     62 points by psxuaw 1 hour ago | hide | 17 comments                                                                                                           
+                                                                                                                                                                   
+ 4.                                                                The Burning Man MOOP Map ( not-ship.com )                                                       
+     521 points by speckx 10 hours ago | hide | 276 comments                                                                                                       
+                                                                                                                                                                   
+ 5.                                                                Agents need control flow, not more prompts ( bsuh.bearblog.dev )                                
+     305 points by bsuh 7 hours ago | hide | 166 comments                                                                                                          
+                                                                                                                                                                   
+ 6.                                                                Building for the Future ( cloudflare.com )                                                      
+     216 points by PriorityLeft 4 hours ago | hide | 133 comments                                                                                                  
+                                                                                                                                                                   
+ 7.                                                                Natural Language Autoencoders: Turning Claude's Thoughts into Text ( anthropic.com )            
+     176 points by instagraham 6 hours ago | hide | 59 comments                                                                                                    
+                                                                                                                                                                   
+ 8.                                                                AlphaEvolve: Gemini-powered coding agent scaling impact across fields ( deepmind.google )       
+     238 points by berlianta 9 hours ago | hide | 91 comments                                                                                                      
+                                                                                                                                                                   
+ 9.                                                                Researchers discover advanced language processing in the unconscious human brain ( bcm.edu )    
+     18 points by hhs 1 hour ago | hide | discuss                                                                                                                  
+                                                                                                                                                                   
+10.                                                                DeepSeek 4 Flash local inference engine for Metal ( github.com/antirez )                        
+     271 points by tamnd 9 hours ago | hide | 84 comments                                                                                                          
+                                                                                                                                                                   
+11.                                                                AI slop is killing online communities ( rmoff.net )                                             
+     412 points by thm 5 hours ago | hide | 400 comments                                                                                                           
+                                                                                                                                                                   
+12.                                                                Nonprofit hospitals spend billions on consultants with no clear effect ( uchicagomedicine.org ) 
+     16 points by hhs 1 hour ago | hide | 6 comments                                                                                                               
+                                                                                                                                                                   
+13.                                                                Two Home Affairs officials suspended after AI 'hallucinations' found ( citizen.co.za )          
+     47 points by jruohonen 5 hours ago | hide | 12 comments                                                                                                       
+                                                                                                                                                                   
+14.                                                                I want to live like Costco people ( tastecooking.com )                                          
+     212 points by speckx 9 hours ago | hide | 454 comments                                                                                                        
+                                                                                                                                                                   
+15.                                                                Rolling the Root Key ( apnic.net )                                                              
+     13 points by jandeboevrie 2 hours ago | hide | 2 comments                                                                                                     
+                                                                                                                                                                   
+16.                                                                Chrome removes claim of On-device Al not sending data to Google Servers ( reddit.com )          
+     447 points by newsoftheday 8 hours ago | hide | 168 comments                                                                                                  
+                                                                                                                                                                   
+17.                                                                Hackers deface school login pages after claiming another Instructure hack ( techcrunch.com )    
+     12 points by Veiled 2 hours ago | hide | 1 comment                                                                                                            
+                                                                                                                                                                   
+18.                                                                Tools in the Grass: Raising the next generation of crafts person ( popularwoodworking.com )     
+     23 points by NaOH 3 hours ago | hide | 2 comments                                                                                                             
+                                                                                                                                                                   
+19.                                                                Principles for agent-native CLIs ( twitter.com/trevin )                                         
+     53 points by blumpy22 7 hours ago | hide | 29 comments                                                                                                        
+                                                                                                                                                                   
+20.                                                                Colored Shadow Penumbra ( chosker.github.io )                                                   
+     30 points by ibobev 5 hours ago | hide | 12 comments                                                                                                          
+                                                                                                                                                                   
+21.                                                                PySimpleGUI 6 ( github.com/pysimplegui )                                                        
+     85 points by geophph 9 hours ago | hide | 42 comments                                                                                                         
+                                                                                                                                                                   
+22.                                                                RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust ( lites.dev )                       
+     157 points by atilimcetin 13 hours ago | hide | 87 comments                                                                                                   
+                                                                                                                                                                   
+23.                                                                The Self-Cancelling Subscription ( predr.ag )                                                   
+     141 points by surprisetalk 10 hours ago | hide | 60 comments                                                                                                  
+                                                                                                                                                                   
+24.                                                                Show HN: TRUST – Coding Rust like it's 1989 ( github.com/wojtczyk )                             
+     116 points by wojtczyk 18 hours ago | hide | 72 comments                                                                                                      
+                                                                                                                                                                   
+25.                                                                Creating for a niche ( davesnider.com )                                                         
+     24 points by snide 5 hours ago | hide | 3 comments                                                                                                            
+                                                                                                                                                                   
+26.                                                                OurCar: What I learned making an app for my family ( mendelgreenberg.com )                      
+     98 points by chabad360 17 hours ago | hide | 71 comments                                                                                                      
+                                                                                                                                                                   
+27.                                                                Easy Random Trees ( wilsonb.com )                                                               
+     18 points by aebtebeten 4 hours ago | hide | 3 comments                                                                                                       
+                                                                                                                                                                   
+28.                                                                GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal ( ycombinator.com )
+     12 hours ago | hide                                                                                                                                           
+                                                                                                                                                                   
+29.                                                                Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004) ( ticalc.org )                       
+     186 points by suoken 16 hours ago | hide | 83 comments                                                                                                        
+                                                                                                                                                                   
+30.                                                                OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus) ( online.fr )               
+     63 points by zdw 9 hours ago | hide | 7 comments                                                                                                              
+                                                                                                                                                                   
+                                                                                                                                                                   
+     More                                                                                                                                                          
+                                                                                                                                                                   
+                                                                                                                                                                   
+                                                                                                                                                                   
+                                                                                                                                                                   
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                          
+                                                                                                                                                                   
+Search:                                                                                                                                                            

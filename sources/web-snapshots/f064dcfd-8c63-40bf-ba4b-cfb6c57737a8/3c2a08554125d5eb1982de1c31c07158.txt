@@ -1,0 +1,102 @@
+  Hacker Newsnew | past | comments | ask | show | jobs | submit  login                                                                                             
+                                                                                                                                                                   
+
+ 1.                                                                 Canvas is down as ShinyHunters threatens to leak schools’ data ( theverge.com )                
+     348 points by stefanpie 5 hours ago | hide | 245 comments                                                                                                     
+                                                                                                                                                                   
+ 2.                                                                 Maybe you shouldn't install new software for a bit ( xeiaso.net )                              
+     222 points by psxuaw 4 hours ago | hide | 101 comments                                                                                                        
+                                                                                                                                                                   
+ 3.                                                                 Dirtyfrag: Universal Linux LPE ( openwall.com )                                                
+     468 points by flipped 8 hours ago | hide | 206 comments                                                                                                       
+                                                                                                                                                                   
+ 4.                                                                 Pinocchio is weirder than you remembered ( storica.club )                                      
+     27 points by cemsakarya 2 hours ago | hide | 2 comments                                                                                                       
+                                                                                                                                                                   
+ 5.                                                                 Cloudflare to cut about 20% workforce ( reuters.com )                                          
+     304 points by PriorityLeft 7 hours ago | hide | 199 comments                                                                                                  
+                                                                                                                                                                   
+ 6.                                                                 The map that keeps Burning Man honest ( not-ship.com )                                         
+     563 points by speckx 13 hours ago | hide | 292 comments                                                                                                       
+                                                                                                                                                                   
+ 7.                                                                 Agents need control flow, not more prompts ( bsuh.bearblog.dev )                               
+     361 points by bsuh 10 hours ago | hide | 195 comments                                                                                                         
+                                                                                                                                                                   
+ 8.                                                                 Plasticity and language in the anaesthetized human hippocampus ( bcm.edu )                     
+     64 points by hhs 4 hours ago | hide | 24 comments                                                                                                             
+                                                                                                                                                                   
+ 9.                                                                 Natural Language Autoencoders: Turning Claude's Thoughts into Text ( anthropic.com )           
+     216 points by instagraham 9 hours ago | hide | 71 comments                                                                                                    
+                                                                                                                                                                   
+10.                                                                 GNU IFUNC is the real culprit behind CVE-2024-3094 ( github.com/robertdfrench )                
+     31 points by foltik 3 hours ago | hide | 10 comments                                                                                                          
+                                                                                                                                                                   
+11.                                                                 AlphaEvolve: Gemini-powered coding agent scaling impact across fields ( deepmind.google )      
+     255 points by berlianta 12 hours ago | hide | 108 comments                                                                                                    
+                                                                                                                                                                   
+12.                                                                 DeepSeek 4 Flash local inference engine for Metal ( github.com/antirez )                       
+     319 points by tamnd 12 hours ago | hide | 92 comments                                                                                                         
+                                                                                                                                                                   
+13.                                                                 Nonprofit hospitals spend billions on consultants with no clear effect ( uchicagomedicine.org )
+     93 points by hhs 4 hours ago | hide | 28 comments                                                                                                             
+                                                                                                                                                                   
+14.                                                                 Gambling ads on social media reach more than twice as many men as women: study ( cam.ac.uk )   
+     22 points by hhs 4 hours ago | hide | 7 comments                                                                                                              
+                                                                                                                                                                   
+15.                                                                 The Disappearance of the Public Bench ( placesjournal.org )                                    
+     60 points by cainxinth 3 hours ago | hide | 45 comments                                                                                                       
+                                                                                                                                                                   
+16.                                                                 AI slop is killing online communities ( rmoff.net )                                            
+     497 points by thm 8 hours ago | hide | 468 comments                                                                                                           
+                                                                                                                                                                   
+17.                                                                 Komai: a fine Matrix chat app you can get to love ( etke.cc )                                  
+     28 points by anotherevan 3 hours ago | hide | 10 comments                                                                                                     
+                                                                                                                                                                   
+18.                                                                 Brazil's Pix payment system faces pressure from Visa and Mastercard ( elciudadano.com )        
+     111 points by wslh 9 hours ago | hide | 75 comments                                                                                                           
+                                                                                                                                                                   
+19.                                                                 Singapore introduces caning for boys who bully others at school ( theguardian.com )            
+     84 points by rustoo 1 day ago | hide | 98 comments                                                                                                            
+                                                                                                                                                                   
+20.                                                                 I want to live like Costco people ( tastecooking.com )                                         
+     256 points by speckx 12 hours ago | hide | 535 comments                                                                                                       
+                                                                                                                                                                   
+21.                                                                 Two Home Affairs officials suspended after AI 'hallucinations' found ( citizen.co.za )         
+     62 points by jruohonen 8 hours ago | hide | 17 comments                                                                                                       
+                                                                                                                                                                   
+22.                                                                 The Traveling Salesdog Problem ( wespiser.com )                                                
+     20 points by wespiser_2018 2 hours ago | hide | 4 comments                                                                                                    
+                                                                                                                                                                   
+23.                                                                 Chrome removes claim of On-device Al not sending data to Google Servers ( reddit.com )         
+     495 points by newsoftheday 11 hours ago | hide | 189 comments                                                                                                 
+                                                                                                                                                                   
+24.                                                                 Creating for a niche ( davesnider.com )                                                        
+     36 points by snide 7 hours ago | hide | 6 comments                                                                                                            
+                                                                                                                                                                   
+25.                                                                 Principles for agent-native CLIs ( twitter.com/trevin )                                        
+     69 points by blumpy22 10 hours ago | hide | 42 comments                                                                                                       
+                                                                                                                                                                   
+26.                                                                 Programming Still Sucks ( stvn.sh )                                                            
+     498 points by jeromechoo 1 day ago | hide | 276 comments                                                                                                      
+                                                                                                                                                                   
+27.                                                                 Tools in the Grass: Raising the next generation of crafts person ( popularwoodworking.com )    
+     35 points by NaOH 6 hours ago | hide | 3 comments                                                                                                             
+                                                                                                                                                                   
+28.                                                                 Rolling the Root Key ( apnic.net )                                                             
+     27 points by jandeboevrie 5 hours ago | hide | 2 comments                                                                                                     
+                                                                                                                                                                   
+29.                                                                 RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust ( lites.dev )                      
+     164 points by atilimcetin 16 hours ago | hide | 89 comments                                                                                                   
+                                                                                                                                                                   
+30.                                                                 Show HN: TRUST – Coding Rust like it's 1989 ( github.com/wojtczyk )                            
+     130 points by wojtczyk 21 hours ago | hide | 75 comments                                                                                                      
+                                                                                                                                                                   
+                                                                                                                                                                   
+     More                                                                                                                                                          
+                                                                                                                                                                   
+                                                                                                                                                                   
+                                                                                                                                                                   
+                                                                                                                                                                   
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                          
+                                                                                                                                                                   
+Search:                                                                                                                                                            

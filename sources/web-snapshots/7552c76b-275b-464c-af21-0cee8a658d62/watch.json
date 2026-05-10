@@ -1,0 +1,18 @@
+{
+  "url": "https://news.idcquan.com/",
+  "title": "IDC圈-新闻频道",
+  "tags": "["\u6db2\u51b7", "IDC", "\u65b0\u95fb"]",
+  "minutes_between_check": 120,
+  "fetch_backend": "html_requests",
+  "include_filters": [],
+  "trigger_text": [],
+  "uuid": "7552c76b-275b-464c-af21-0cee8a658d62",
+  "history_n": 1,
+  "last_checked": 0,
+  "last_changed": 0,
+  "last_error": false,
+  "last_notification_error": false,
+  "paused": false,
+  "notification_urls": [],
+  "headers": {"User-Agent": "Mozilla/5.0 (compatible; LiquidCoolBot/1.0)"}
+}

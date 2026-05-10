@@ -1,0 +1,18 @@
+{
+  "url": "https://dc.idcquan.com/",
+  "title": "IDC圈-数据中心频道",
+  "tags": "["\u6db2\u51b7", "IDC", "\u6570\u636e\u4e2d\u5fc3"]",
+  "minutes_between_check": 120,
+  "fetch_backend": "html_requests",
+  "include_filters": [],
+  "trigger_text": [],
+  "uuid": "1e1cc862-01a8-4a5e-86c7-e4f11357a39e",
+  "history_n": 1,
+  "last_checked": 0,
+  "last_changed": 0,
+  "last_error": false,
+  "last_notification_error": false,
+  "paused": false,
+  "notification_urls": [],
+  "headers": {"User-Agent": "Mozilla/5.0 (compatible; LiquidCoolBot/1.0)"}
+}

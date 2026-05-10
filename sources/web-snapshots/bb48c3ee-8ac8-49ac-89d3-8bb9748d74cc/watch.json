@@ -1,0 +1,18 @@
+{
+  "url": "https://www.nvent.com/en/news",
+  "title": "nVent-新闻",
+  "tags": "["\u7ade\u54c1", "CDU"]",
+  "minutes_between_check": 180,
+  "fetch_backend": "html_requests",
+  "include_filters": [],
+  "trigger_text": [],
+  "uuid": "bb48c3ee-8ac8-49ac-89d3-8bb9748d74cc",
+  "history_n": 1,
+  "last_checked": 0,
+  "last_changed": 0,
+  "last_error": false,
+  "last_notification_error": false,
+  "paused": false,
+  "notification_urls": [],
+  "headers": {"User-Agent": "Mozilla/5.0 (compatible; LiquidCoolBot/1.0)"}
+}

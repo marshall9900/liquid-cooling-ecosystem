@@ -1,0 +1,8 @@
+﻿OEM厂商,定位,关键客户,GPU平台,海悟切入点,目标产品,2026目标(¥M),开放性,优先级,送样状态,备注
+H3C(新华三),白牌OEM,阿里+字节核心伙伴,NVIDIA+昇腾,Manifold→冷板,Manifold/电源冷板,25,较高,P0,待送样,阿里/字节间接通道
+浪潮信息,AI服务器国内第一,阿里/腾讯/字节/运营商,NVIDIA+昇腾,Manifold→冷板,Manifold,15,中,P0,待送样,AI服务器出货量最大
+宁畅信息,独立品牌,OTT/IDC,NVIDIA,Manifold,Manifold,10,高,P1,待送样,灵活开放的OEM
+华勤技术,ODM,OTT,NVIDIA,ODM渠道,Manifold,5,中,P1,待接触,ODM模式需评估
+超聚变,华为生态,华为系/运营商,昇腾,需华为认证,冷板,0,低,P1,未启动,华为生态，认证门槛高
+Dell,全球第一,Meta/MSFT/AWS,NVIDIA+AMD,远期,Manifold,0,低(双认证),P2,未启动,需Intel+NVIDIA双认证
+Supermicro,液冷领先,中小OTT,NVIDIA,远期,Manifold,0,中,P2,未启动,已通过NVL72 Manifold供应验证

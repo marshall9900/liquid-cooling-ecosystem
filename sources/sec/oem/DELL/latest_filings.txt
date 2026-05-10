@@ -1,0 +1,2 @@
+10-K|2026-03-16|https://www.sec.gov/Archives/edgar/data/0001571996/000157199626000008/dell-20260130.htm
+10-Q|2025-12-09|https://www.sec.gov/Archives/edgar/data/0001571996/000157199625000127/dell-20251031.htm

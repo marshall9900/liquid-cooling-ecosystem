@@ -1,0 +1,102 @@
+  Hacker Newsnew | past | comments | ask | show | jobs | submit  login                                                                                                
+                                                                                                                                                                      
+
+ 1.                                                                  Google Cloud Fraud Defence is just WEI repackaged ( privatecaptcha.com )                         
+     388 points by ribtoks 4 hours ago | hide | 185 comments                                                                                                          
+                                                                                                                                                                      
+ 2.                                                                  Cartoon Network Flash Games ( webdesignmuseum.org )                                              
+     113 points by willmeyers 2 hours ago | hide | 43 comments                                                                                                        
+                                                                                                                                                                      
+ 3.                                                                  Serving a Website on a Raspberry Pi Zero Running in RAM ( btxx.org )                             
+     120 points by xngbuilds 3 hours ago | hide | 46 comments                                                                                                         
+                                                                                                                                                                      
+ 4.                                                                  An Introduction to Meshtastic ( meshtastic.org )                                                 
+     273 points by ColinWright 7 hours ago | hide | 110 comments                                                                                                      
+                                                                                                                                                                      
+ 5.                                                                  A web page that shows you everything the browser told it without asking ( sinceyouarrived.world )
+     304 points by mwheelz 6 hours ago | hide | 161 comments                                                                                                          
+                                                                                                                                                                      
+ 6.                                                                  PC Engine CPU ( jsgroth.dev )                                                                    
+     82 points by ibobev 4 hours ago | hide | 26 comments                                                                                                             
+                                                                                                                                                                      
+ 7.                                                                  Apple, Intel have reached preliminary chip-making deal ( reuters.com )                           
+     74 points by scrlk 1 hour ago | hide | 26 comments                                                                                                               
+                                                                                                                                                                      
+ 8.                                                                  Bjarne Stroustrup: How do I deal with memory leaks? (2022) ( stroustrup.com )                    
+     25 points by theanonymousone 1 hour ago | hide | 7 comments                                                                                                      
+                                                                                                                                                                      
+ 9.                                                                  Poland is now among the 20 largest economies ( apnews.com )                                      
+     729 points by surprisetalk 6 hours ago | hide | 625 comments                                                                                                     
+                                                                                                                                                                      
+10.                                                                  Rumors of my death are slightly exaggerated                                                      
+     1107 points by CliffStoll 12 hours ago | hide | 147 comments                                                                                                     
+                                                                                                                                                                      
+11.                                                                  Show HN: Git for AI Agents ( github.com/regent-vcs )                                             
+     61 points by doshay 4 hours ago | hide | 34 comments                                                                                                             
+                                                                                                                                                                      
+12.                                                                  Cloudflare to cut about 20% of its workforce ( reuters.com )                                     
+     1184 points by PriorityLeft 22 hours ago | hide | 824 comments                                                                                                   
+                                                                                                                                                                      
+13.                                                                  Mojo 1.0 Beta ( mojolang.org )                                                                   
+     158 points by sbt567 11 hours ago | hide | 122 comments                                                                                                          
+                                                                                                                                                                      
+14.                                                                  Canvas online again as ShinyHunters threatens to leak schools’ data ( theverge.com )             
+     872 points by stefanpie 20 hours ago | hide | 579 comments                                                                                                       
+                                                                                                                                                                      
+15.                                                                  US Government releases first batch of UAP documents and videos ( war.gov )                       
+     133 points by david-gpu 6 hours ago | hide | 227 comments                                                                                                        
+                                                                                                                                                                      
+16.                                                                  Podman rootless containers and the Copy Fail exploit ( garrido.io )                              
+     81 points by ggpsv 5 hours ago | hide | 14 comments                                                                                                              
+                                                                                                                                                                      
+17.                                                                  David Attenborough's 100th Birthday ( bbc.com )                                                  
+     95 points by defrost 6 hours ago | hide | 7 comments                                                                                                             
+                                                                                                                                                                      
+18.                                                                  Maybe you shouldn't install new software for a bit ( xeiaso.net )                                
+     768 points by psxuaw 19 hours ago | hide | 404 comments                                                                                                          
+                                                                                                                                                                      
+19.                                                                  GeoJSON ( geojson.org )                                                                          
+     122 points by tosh 8 hours ago | hide | 60 comments                                                                                                              
+                                                                                                                                                                      
+20.                                                                  AI Is Breaking Two Vulnerability Cultures ( jefftk.com )                                         
+     4 points by speckx 45 minutes ago | hide | discuss                                                                                                               
+                                                                                                                                                                      
+21.                                                                  Defeating Works by Design's Unpickable Lock [video] ( youtube.com )                              
+     7 points by zdw 1 hour ago | hide | discuss                                                                                                                      
+                                                                                                                                                                      
+22.                                                                  Dirtyfrag: Universal Linux LPE ( openwall.com )                                                  
+     756 points by flipped 23 hours ago | hide | 305 comments                                                                                                         
+                                                                                                                                                                      
+23.                                                                  The surprisingly complex journey to text-selectable client-side generated PDFs ( sdocs.dev )     
+     59 points by FailMore 9 hours ago | hide | 51 comments                                                                                                           
+                                                                                                                                                                      
+24.                                                                  Ask HN: We just had an actual UUID v4 collision...                                               
+     161 points by mittermayr 9 hours ago | hide | 160 comments                                                                                                       
+                                                                                                                                                                      
+25.                                                                  ClojureScript Gets Async/Await ( clojurescript.org )                                             
+     245 points by Borkdude 11 hours ago | hide | 59 comments                                                                                                         
+                                                                                                                                                                      
+26.                                                                  The map that keeps Burning Man honest ( not-ship.com )                                           
+     740 points by speckx 1 day ago | hide | 339 comments                                                                                                             
+                                                                                                                                                                      
+27.                                                                  The Disappearance of the Public Bench ( placesjournal.org )                                      
+     102 points by cainxinth 17 hours ago | hide | 115 comments                                                                                                       
+                                                                                                                                                                      
+28.                                                                  Pinocchio is weirder than you remembered ( storica.club )                                        
+     269 points by cemsakarya 17 hours ago | hide | 111 comments                                                                                                      
+                                                                                                                                                                      
+29.                                                                  Inventing Cyrillic (2024) ( historytoday.com )                                                   
+     37 points by lermontov 11 hours ago | hide | 77 comments                                                                                                         
+                                                                                                                                                                      
+30.                                                                  QBE – Compiler Back End ( c9x.me )                                                               
+     73 points by smartmic 11 hours ago | hide | 21 comments                                                                                                          
+                                                                                                                                                                      
+                                                                                                                                                                      
+     More                                                                                                                                                             
+                                                                                                                                                                      
+                                                                                                                                                                      
+                                                                                                                                                                      
+                                                                                                                                                                      
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                             
+                                                                                                                                                                      
+Search:                                                                                                                                                               

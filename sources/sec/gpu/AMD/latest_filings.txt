@@ -1,0 +1,2 @@
+10-Q|2026-05-06|https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000076/amd-20260328.htm
+10-K|2026-02-04|https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000018/amd-20251227.htm

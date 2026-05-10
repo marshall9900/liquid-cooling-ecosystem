@@ -1,0 +1,18 @@
+{
+  "url": "https://www.sugon.com/news",
+  "title": "曙光数创-新闻",
+  "tags": "["\u7ade\u54c1", "CDU", "\u6db2\u51b7"]",
+  "minutes_between_check": 180,
+  "fetch_backend": "html_requests",
+  "include_filters": [],
+  "trigger_text": [],
+  "uuid": "4040a38d-5a7b-4346-8a5a-410eebb26ca7",
+  "history_n": 1,
+  "last_checked": 0,
+  "last_changed": 0,
+  "last_error": false,
+  "last_notification_error": false,
+  "paused": false,
+  "notification_urls": [],
+  "headers": {"User-Agent": "Mozilla/5.0 (compatible; LiquidCoolBot/1.0)"}
+}

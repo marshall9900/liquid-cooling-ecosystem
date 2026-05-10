@@ -1,0 +1,2 @@
+10-Q|2026-02-06|https://www.sec.gov/Archives/edgar/data/0001375365/000137536526000007/smci-20251231.htm
+10-K|2025-08-28|https://www.sec.gov/Archives/edgar/data/0001375365/000137536525000027/smci-20250630.htm

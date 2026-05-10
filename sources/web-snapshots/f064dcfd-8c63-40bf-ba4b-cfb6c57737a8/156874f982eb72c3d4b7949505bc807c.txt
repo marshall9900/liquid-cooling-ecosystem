@@ -1,0 +1,102 @@
+  Hacker Newsnew | past | comments | ask | show | jobs | submit  login                                                                                             
+                                                                                                                                                                   
+
+ 1.                                                                  Google broke reCAPTCHA for de-googled Android users ( reclaimthenet.org )                     
+     530 points by anonymousiam 5 hours ago | hide | 175 comments                                                                                                  
+                                                                                                                                                                   
+ 2.                                                                  AI is breaking two vulnerability cultures ( jefftk.com )                                      
+     215 points by speckx 6 hours ago | hide | 94 comments                                                                                                         
+                                                                                                                                                                   
+ 3.                                                                  You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE) ( ze3tar.github.io )         
+     120 points by MrBruh 5 hours ago | hide | 77 comments                                                                                                         
+                                                                                                                                                                   
+ 4.                                                                  OpenAI's WebRTC problem ( moq.dev )                                                           
+     29 points by atgctg 1 hour ago | hide | 2 comments                                                                                                            
+                                                                                                                                                                   
+ 5.                                                                  Cartoon Network Flash Games ( webdesignmuseum.org )                                           
+     267 points by willmeyers 8 hours ago | hide | 94 comments                                                                                                     
+                                                                                                                                                                   
+ 6.                                                                  Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn) ( wiisfi.com )              
+     49 points by homebrewer 3 hours ago | hide | 24 comments                                                                                                      
+                                                                                                                                                                   
+ 7.                                                                  AWS North Virginia data center outage – recovery to take hours ( cnbc.com )                   
+     102 points by christhecaribou 5 hours ago | hide | 62 comments                                                                                                
+                                                                                                                                                                   
+ 8.                                                                  David Attenborough's 100th Birthday ( bbc.com )                                               
+     418 points by defrost 12 hours ago | hide | 81 comments                                                                                                       
+                                                                                                                                                                   
+ 9.                                                                  Can LLMs model real-world systems in TLA+? ( sigops.org )                                     
+     10 points by mad 1 hour ago | hide | discuss                                                                                                                  
+                                                                                                                                                                   
+10.                                                                  When is your birthday? The math behind hash collisions ( 0xkrt26.github.io )                  
+     7 points by denismenace 1 hour ago | hide | discuss                                                                                                           
+                                                                                                                                                                   
+11.                                                                  Looking at the data behind prediction markets ( asteriskmag.com )                             
+     48 points by kqr 4 hours ago | hide | 22 comments                                                                                                             
+                                                                                                                                                                   
+12.                                                                  Serving a website on a Raspberry Pi Zero running in RAM ( btxx.org )                          
+     187 points by xngbuilds 9 hours ago | hide | 76 comments                                                                                                      
+                                                                                                                                                                   
+13.                                                                  Mux (YC W16) Is Hiring ( mux.com )                                                            
+     3 hours ago | hide                                                                                                                                            
+                                                                                                                                                                   
+14.                                                                  An Introduction to Meshtastic ( meshtastic.org )                                              
+     366 points by ColinWright 13 hours ago | hide | 138 comments                                                                                                  
+                                                                                                                                                                   
+15.                                                                  Meta Shuts Down End-to-End Encryption for Instagram Messaging ( pcmag.com )                   
+     109 points by tcp_handshaker 2 hours ago | hide | 80 comments                                                                                                 
+                                                                                                                                                                   
+16.                                                                  Teaching Claude Why ( anthropic.com )                                                         
+     73 points by pretext 6 hours ago | hide | 16 comments                                                                                                         
+                                                                                                                                                                   
+17.                                                                  Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests ( nhtsa.gov )      
+     23 points by amanaplanacanal 1 hour ago | hide | 18 comments                                                                                                  
+                                                                                                                                                                   
+18.                                                                  The React2Shell Story ( lachlan.nz )                                                          
+     5 points by mufeedvh 1 hour ago | hide | discuss                                                                                                              
+                                                                                                                                                                   
+19.                                                                  Light without electricity? Glowing algae could make it possible ( colorado.edu )              
+     6 points by geox 1 hour ago | hide | discuss                                                                                                                  
+                                                                                                                                                                   
+20.                                                                  Rumors of my death are slightly exaggerated                                                   
+     1494 points by CliffStoll 18 hours ago | hide | 231 comments                                                                                                  
+                                                                                                                                                                   
+21.                                                                  Compound drivers of Antarctic sea ice loss and Southern Ocean destratification ( science.org )
+     16 points by littlexsparkee 2 hours ago | hide | discuss                                                                                                      
+                                                                                                                                                                   
+22.                                                                  Non-determinism is an issue with patching CVEs ( flox.dev )                                   
+     32 points by mathewpregasen 3 hours ago | hide | 11 comments                                                                                                  
+                                                                                                                                                                   
+23.                                                                  All means are fair except solving the problem ( yosefk.com )                                  
+     29 points by akkartik 4 hours ago | hide | 36 comments                                                                                                        
+                                                                                                                                                                   
+24.                                                                  Mojo 1.0 Beta ( mojolang.org )                                                                
+     275 points by sbt567 17 hours ago | hide | 177 comments                                                                                                       
+                                                                                                                                                                   
+25.                                                                  US Government releases first batch of UAP documents and videos ( war.gov )                    
+     225 points by david-gpu 12 hours ago | hide | 333 comments                                                                                                    
+                                                                                                                                                                   
+26.                                                                  How do I deal with memory leaks? (2022) ( stroustrup.com )                                    
+     75 points by theanonymousone 7 hours ago | hide | 63 comments                                                                                                 
+                                                                                                                                                                   
+27.                                                                  Hosting a Site on a Raspberry Pi ( m4rt.nl )                                                  
+     8 points by swiftdust 2 hours ago | hide | discuss                                                                                                            
+                                                                                                                                                                   
+28.                                                                  Poland is now among the 20 largest economies ( apnews.com )                                   
+     886 points by surprisetalk 12 hours ago | hide | 729 comments                                                                                                 
+                                                                                                                                                                   
+29.                                                                  PC Engine CPU ( jsgroth.dev )                                                                 
+     116 points by ibobev 10 hours ago | hide | 52 comments                                                                                                        
+                                                                                                                                                                   
+30.                                                                  Human typing habits and token counts ( pankajpipada.com )                                     
+     5 points by ppipada 1 hour ago | hide | discuss                                                                                                               
+                                                                                                                                                                   
+                                                                                                                                                                   
+     More                                                                                                                                                          
+                                                                                                                                                                   
+                                                                                                                                                                   
+                                                                                                                                                                   
+                                                                                                                                                                   
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                          
+                                                                                                                                                                   
+Search:                                                                                                                                                            

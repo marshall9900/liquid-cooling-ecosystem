@@ -1,0 +1,102 @@
+  Hacker Newsnew | past | comments | ask | show | jobs | submit  login                                                                                                            
+                                                                                                                                                                                  
+
+ 1.                                                                     The map that keeps Burning Man honest ( not-ship.com )                                                    
+     174 points by speckx 1 hour ago | hide | 48 comments                                                                                                                         
+                                                                                                                                                                                  
+ 2.                                                                     AlphaEvolve: Gemini-powered coding agent scaling impact across fields ( deepmind.google )                 
+     45 points by berlianta 38 minutes ago | hide | 2 comments                                                                                                                    
+                                                                                                                                                                                  
+ 3.                                                                     Child marriages plunged when girls stayed in school in Nigeria ( nature.com )                             
+     90 points by surprisetalk 2 hours ago | hide | 46 comments                                                                                                                   
+                                                                                                                                                                                  
+ 4.                                                                     I Want to Live Like Costco People ( tastecooking.com )                                                    
+     18 points by speckx 21 minutes ago | hide | 6 comments                                                                                                                       
+                                                                                                                                                                                  
+ 5.                                                                     The Self-Cancelling Subscription ( predr.ag )                                                             
+     26 points by surprisetalk 1 hour ago | hide | 10 comments                                                                                                                    
+                                                                                                                                                                                  
+ 6.                                                                     RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust ( lites.dev )                                 
+     82 points by atilimcetin 4 hours ago | hide | 41 comments                                                                                                                    
+                                                                                                                                                                                  
+ 7.                                                                     Indian matchbox labels as a visual archive ( itsnicethat.com )                                            
+     90 points by sahar_builds 5 hours ago | hide | 26 comments                                                                                                                   
+                                                                                                                                                                                  
+ 8.                                                                     Valve releases Steam Controller CAD files under Creative Commons license ( digitalfoundry.net )           
+     1626 points by haunter 23 hours ago | hide | 538 comments                                                                                                                    
+                                                                                                                                                                                  
+ 9.                                                                     Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004) ( ticalc.org )                                 
+     120 points by suoken 7 hours ago | hide | 52 comments                                                                                                                        
+                                                                                                                                                                                  
+10.                                                                     Grand Theft Oil Futures: Insider traders keep making a killing at our expense ( paulkrugman.substack.com )
+     307 points by Qem 4 hours ago | hide | 207 comments                                                                                                                          
+                                                                                                                                                                                  
+11.                                                                     SQLite Is a Library of Congress Recommended Storage Format ( sqlite.org )                                 
+     465 points by whatisabcdefgh 17 hours ago | hide | 146 comments                                                                                                              
+                                                                                                                                                                                  
+12.                                                                     Appearing productive in the workplace ( nooneshappy.com )                                                 
+     1426 points by diebillionaires 23 hours ago | hide | 570 comments                                                                                                            
+                                                                                                                                                                                  
+13.                                                                     GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal ( ycombinator.com )          
+     3 hours ago | hide                                                                                                                                                           
+                                                                                                                                                                                  
+14.                                                                     37x Speedup in Lattice Boltzmann Cylinder Flow ( github.com/alikamp )                                     
+     18 points by kauai1 2 hours ago | hide | 2 comments                                                                                                                          
+                                                                                                                                                                                  
+15.                                                                     Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic) ( cardor.dev )           
+     53 points by enmanuelmag 4 hours ago | hide | 14 comments                                                                                                                    
+                                                                                                                                                                                  
+16.                                                                     The brave souls who bought a used, 340k-mile rental camper van ( thedrive.com )                           
+     49 points by PaulHoule 6 hours ago | hide | 39 comments                                                                                                                      
+                                                                                                                                                                                  
+17.                                                                     Diskless Linux boot using ZFS, iSCSI and PXE ( aniket.foo )                                               
+     147 points by stereo-highway 12 hours ago | hide | 83 comments                                                                                                               
+                                                                                                                                                                                  
+18.                                                                     The mechanical latching memory of an adhesive tape ( iop.org )                                            
+     12 points by gnabgib 3 hours ago | hide | 5 comments                                                                                                                         
+                                                                                                                                                                                  
+19.                                                                     Why should a Trace-ID be 128 bits? (A Surprisingly Long Answer) ( signoz.io )                             
+     3 points by elza_1111 1 hour ago | hide | discuss                                                                                                                            
+                                                                                                                                                                                  
+20.                                                                     SingleRide: Longest route on NYC Subway without visiting the same station twice ( singleride.nyc )        
+     67 points by TMWNN 8 hours ago | hide | 30 comments                                                                                                                          
+                                                                                                                                                                                  
+21.                                                                     LinkedIn profile visitor lists belong to the people, says Noyb ( theregister.com )                        
+     152 points by robin_reala 4 hours ago | hide | 76 comments                                                                                                                   
+                                                                                                                                                                                  
+22.                                                                     Chevrolet Performance eCrate package (400v/200hp) ( chevrolet.com )                                       
+     109 points by mindcrime 10 hours ago | hide | 84 comments                                                                                                                    
+                                                                                                                                                                                  
+23.                                                                     Vibe coding and agentic engineering are getting closer than I'd like ( simonwillison.net )                
+     693 points by e12e 1 day ago | hide | 777 comments                                                                                                                           
+                                                                                                                                                                                  
+24.                                                                     Permacomputing Principles ( permacomputing.net )                                                          
+     212 points by andsoitis 13 hours ago | hide | 135 comments                                                                                                                   
+                                                                                                                                                                                  
+25.                                                                     RSS feeds send me more traffic than Google ( shkspr.mobi )                                                
+     200 points by SpyCoder77 15 hours ago | hide | 44 comments                                                                                                                   
+                                                                                                                                                                                  
+26.                                                                     ProgramBench: Can Language Models Rebuild Programs from Scratch? ( arxiv.org )                            
+     103 points by jonbaer 11 hours ago | hide | 59 comments                                                                                                                      
+                                                                                                                                                                                  
+27.                                                                     Motherboard sales are now collapsing amid unprecedented shortages fueled by AI ( tomshardware.com )       
+     9 points by speckx 17 minutes ago | hide | 1 comment                                                                                                                         
+                                                                                                                                                                                  
+28.                                                                     Google Cloud fraud defense, the next evolution of reCAPTCHA ( cloud.google.com )                          
+     365 points by unforgivenpasta 21 hours ago | hide | 374 comments                                                                                                             
+                                                                                                                                                                                  
+29.                                                                     Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs ( github.com/darkrishabh )         
+     46 points by darkrishabh 9 hours ago | hide | 20 comments                                                                                                                    
+                                                                                                                                                                                  
+30.                                                                     Making LLM Training Faster with Unsloth and NVIDIA ( unsloth.ai )                                         
+     96 points by segmenta 8 hours ago | hide | 15 comments                                                                                                                       
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+     More                                                                                                                                                                         
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+                                                                                                                                                                                  
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                                         
+                                                                                                                                                                                  
+Search:                                                                                                                                                                           

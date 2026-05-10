@@ -1,0 +1,102 @@
+  Hacker Newsnew | past | comments | ask | show | jobs | submit  login                                                                                               
+                                                                                                                                                                     
+
+ 1.                                                                 Man Finds $1M Worth of Yu-Gi-Oh Cards in a Dumpster ( 404media.co )                              
+     66 points by danso 2 hours ago | hide | 10 comments                                                                                                             
+                                                                                                                                                                     
+ 2.                                                                 AI is breaking two vulnerability cultures ( jefftk.com )                                         
+     130 points by speckx 3 hours ago | hide | 58 comments                                                                                                           
+                                                                                                                                                                     
+ 3.                                                                 You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE) ( ze3tar.github.io )            
+     53 points by MrBruh 2 hours ago | hide | 29 comments                                                                                                            
+                                                                                                                                                                     
+ 4.                                                                 Cartoon Network Flash Games ( webdesignmuseum.org )                                              
+     219 points by willmeyers 5 hours ago | hide | 68 comments                                                                                                       
+                                                                                                                                                                     
+ 5.                                                                 Serving a website on a Raspberry Pi Zero running in RAM ( btxx.org )                             
+     171 points by xngbuilds 6 hours ago | hide | 70 comments                                                                                                        
+                                                                                                                                                                     
+ 6.                                                                 My first in-prod corrupted hard drive problem ( pavementlink.ch )                                
+     28 points by r1chk1t 2 hours ago | hide | 19 comments                                                                                                           
+                                                                                                                                                                     
+ 7.                                                                 Mux (YC W16) Is Hiring ( mux.com )                                                               
+     39 minutes ago | hide                                                                                                                                           
+                                                                                                                                                                     
+ 8.                                                                 An Introduction to Meshtastic ( meshtastic.org )                                                 
+     339 points by ColinWright 10 hours ago | hide | 132 comments                                                                                                    
+                                                                                                                                                                     
+ 9.                                                                 David Attenborough's 100th Birthday ( bbc.com )                                                  
+     289 points by defrost 9 hours ago | hide | 49 comments                                                                                                          
+                                                                                                                                                                     
+10.                                                                 Non-determinism is an issue with patching CVEs ( flox.dev )                                      
+     8 points by mathewpregasen 18 minutes ago | hide | 3 comments                                                                                                   
+                                                                                                                                                                     
+11.                                                                 Looking at the data behind prediction markets ( asteriskmag.com )                                
+     10 points by kqr 1 hour ago | hide | 1 comment                                                                                                                  
+                                                                                                                                                                     
+12.                                                                 Google Broke reCAPTCHA for De-Googled Android Users ( reclaimthenet.org )                        
+     145 points by anonymousiam 2 hours ago | hide | 39 comments                                                                                                     
+                                                                                                                                                                     
+13.                                                                 A web page that shows you everything the browser told it without asking ( sinceyouarrived.world )
+     498 points by mwheelz 9 hours ago | hide | 244 comments                                                                                                         
+                                                                                                                                                                     
+14.                                                                 Roadside Attraction ( theoffingmag.com )                                                         
+     10 points by aways 1 hour ago | hide | 3 comments                                                                                                               
+                                                                                                                                                                     
+15.                                                                 AWS says data center overheating in North Virginia disrupts services ( reuters.com )             
+     18 points by christhecaribou 2 hours ago | hide | 1 comment                                                                                                     
+                                                                                                                                                                     
+16.                                                                 PC Engine CPU ( jsgroth.dev )                                                                    
+     107 points by ibobev 7 hours ago | hide | 46 comments                                                                                                           
+                                                                                                                                                                     
+17.                                                                 Rumors of my death are slightly exaggerated                                                      
+     1350 points by CliffStoll 15 hours ago | hide | 213 comments                                                                                                    
+                                                                                                                                                                     
+18.                                                                 Cloudflare to cut about 20% of its workforce ( reuters.com )                                     
+     1260 points by PriorityLeft 1 day ago | hide | 896 comments                                                                                                     
+                                                                                                                                                                     
+19.                                                                 Mojo 1.0 Beta ( mojolang.org )                                                                   
+     234 points by sbt567 14 hours ago | hide | 158 comments                                                                                                         
+                                                                                                                                                                     
+20.                                                                 Show HN: GETadb.com – every GET request creates a DB ( getadb.com )                              
+     19 points by nezaj 3 hours ago | hide | 17 comments                                                                                                             
+                                                                                                                                                                     
+21.                                                                 US Government releases first batch of UAP documents and videos ( war.gov )                       
+     189 points by david-gpu 9 hours ago | hide | 293 comments                                                                                                       
+                                                                                                                                                                     
+22.                                                                 All means are fair except solving the problem ( yosefk.com )                                     
+     4 points by akkartik 1 hour ago | hide | 3 comments                                                                                                             
+                                                                                                                                                                     
+23.                                                                 Canvas online again as ShinyHunters threatens to leak schools’ data ( theverge.com )             
+     890 points by stefanpie 23 hours ago | hide | 593 comments                                                                                                      
+                                                                                                                                                                     
+24.                                                                 Poland is now among the 20 largest economies ( apnews.com )                                      
+     827 points by surprisetalk 9 hours ago | hide | 696 comments                                                                                                    
+                                                                                                                                                                     
+25.                                                                 Apple, Intel have reached preliminary chip-making deal ( reuters.com )                           
+     163 points by scrlk 4 hours ago | hide | 105 comments                                                                                                           
+                                                                                                                                                                     
+26.                                                                 Maybe you shouldn't install new software for a bit ( xeiaso.net )                                
+     799 points by psxuaw 22 hours ago | hide | 423 comments                                                                                                         
+                                                                                                                                                                     
+27.                                                                 Show HN: Git for AI Agents ( github.com/regent-vcs )                                             
+     84 points by doshay 7 hours ago | hide | 44 comments                                                                                                            
+                                                                                                                                                                     
+28.                                                                 Podman rootless containers and the Copy Fail exploit ( garrido.io )                              
+     107 points by ggpsv 8 hours ago | hide | 20 comments                                                                                                            
+                                                                                                                                                                     
+29.                                                                 Teaching Claude Why ( anthropic.com )                                                            
+     13 points by pretext 3 hours ago | hide | discuss                                                                                                               
+                                                                                                                                                                     
+30.                                                                 Ask HN: We just had an actual UUID v4 collision...                                               
+     243 points by mittermayr 12 hours ago | hide | 220 comments                                                                                                     
+                                                                                                                                                                     
+                                                                                                                                                                     
+     More                                                                                                                                                            
+                                                                                                                                                                     
+                                                                                                                                                                     
+                                                                                                                                                                     
+                                                                                                                                                                     
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                            
+                                                                                                                                                                     
+Search:                                                                                                                                                              

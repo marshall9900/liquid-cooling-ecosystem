@@ -1,0 +1,102 @@
+  Hacker Newsnew | past | comments | ask | show | jobs | submit  login                                                                                                       
+                                                                                                                                                                             
+
+ 1.                                                                    Canvas is down as ShinyHunters threatens to leak schools’ data ( theverge.com )                       
+     743 points by stefanpie 14 hours ago | hide | 458 comments                                                                                                              
+                                                                                                                                                                             
+ 2.                                                                    Nintendo announces price increases for Nintendo Switch 2 ( nintendo.co.jp )                           
+     104 points by razorbeamz 5 hours ago | hide | 82 comments                                                                                                               
+                                                                                                                                                                             
+ 3.                                                                    Cloudflare to cut about 20% workforce ( reuters.com )                                                 
+     890 points by PriorityLeft 16 hours ago | hide | 601 comments                                                                                                           
+                                                                                                                                                                             
+ 4.                                                                    Maybe you shouldn't install new software for a bit ( xeiaso.net )                                     
+     608 points by psxuaw 13 hours ago | hide | 331 comments                                                                                                                 
+                                                                                                                                                                             
+ 5.                                                                    ClojureScript Gets Async/Await ( clojurescript.org )                                                  
+     119 points by Borkdude 5 hours ago | hide | 33 comments                                                                                                                 
+                                                                                                                                                                             
+ 6.                                                                    GeoJSON ( geojson.org )                                                                               
+     28 points by tosh 2 hours ago | hide | 9 comments                                                                                                                       
+                                                                                                                                                                             
+ 7.                                                                    Dirtyfrag: Universal Linux LPE ( openwall.com )                                                       
+     683 points by flipped 17 hours ago | hide | 277 comments                                                                                                                
+                                                                                                                                                                             
+ 8.                                                                    The map that keeps Burning Man honest ( not-ship.com )                                                
+     675 points by speckx 22 hours ago | hide | 323 comments                                                                                                                 
+                                                                                                                                                                             
+ 9.                                                                    Dithering with CSS ( ikesau.co )                                                                      
+     45 points by speckx 5 hours ago | hide | 16 comments                                                                                                                    
+                                                                                                                                                                             
+10.                                                                    Pinocchio is weirder than you remembered ( storica.club )                                             
+     199 points by cemsakarya 11 hours ago | hide | 84 comments                                                                                                              
+                                                                                                                                                                             
+11.                                                                    An Introduction to Meshtastic ( meshtastic.org )                                                      
+     8 points by ColinWright 1 hour ago | hide | 3 comments                                                                                                                  
+                                                                                                                                                                             
+12.                                                                    The surprisingly complex journey to text-selectable client-side generated PDFs ( sdocs.dev )          
+     38 points by FailMore 4 hours ago | hide | 31 comments                                                                                                                  
+                                                                                                                                                                             
+13.                                                                    Hackers breach JDownloader website to serve malware-laced downloads ( neowin.net )                    
+     10 points by bundie 21 minutes ago | hide | 1 comment                                                                                                                   
+                                                                                                                                                                             
+14.                                                                    Agents need control flow, not more prompts ( bsuh.bearblog.dev )                                      
+     499 points by bsuh 19 hours ago | hide | 245 comments                                                                                                                   
+                                                                                                                                                                             
+15.                                                                    A polynomial autoencoder beats PCA on transformer embeddings ( ivanpleshkov.dev )                     
+     57 points by timvisee 8 hours ago | hide | 15 comments                                                                                                                  
+                                                                                                                                                                             
+16.                                                                    Floats Don't Agree with Themselves ( merca.earth )                                                    
+     34 points by cremer 5 hours ago | hide | 26 comments                                                                                                                    
+                                                                                                                                                                             
+17.                                                                    DeepSeek 4 Flash local inference engine for Metal ( github.com/antirez )                              
+     422 points by tamnd 21 hours ago | hide | 119 comments                                                                                                                  
+                                                                                                                                                                             
+18.                                                                    Natural Language Autoencoders: Turning Claude's Thoughts into Text ( anthropic.com )                  
+     305 points by instagraham 18 hours ago | hide | 100 comments                                                                                                            
+                                                                                                                                                                             
+19.                                                                    Brazil's Pix payment system faces pressure from Visa and Mastercard ( elciudadano.com )               
+     247 points by wslh 18 hours ago | hide | 213 comments                                                                                                                   
+                                                                                                                                                                             
+20.                                                                    Singapore introduces caning for boys who bully others at school ( theguardian.com )                   
+     229 points by rustoo 1 day ago | hide | 330 comments                                                                                                                    
+                                                                                                                                                                             
+21.                                                                    Rumors of my death are slightly exaggerated                                                           
+     386 points by CliffStoll 6 hours ago | hide | 59 comments                                                                                                               
+                                                                                                                                                                             
+22.                                                                    Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE ( github.com/graemeg )
+     59 points by peter_d_sherman 7 hours ago | hide | 19 comments                                                                                                           
+                                                                                                                                                                             
+23.                                                                    AlphaEvolve: Gemini-powered coding agent scaling impact across fields ( deepmind.google )             
+     304 points by berlianta 21 hours ago | hide | 129 comments                                                                                                              
+                                                                                                                                                                             
+24.                                                                    Plasticity and language in the anaesthetized human hippocampus ( bcm.edu )                            
+     122 points by hhs 13 hours ago | hide | 44 comments                                                                                                                     
+                                                                                                                                                                             
+25.                                                                    Hardening Firefox with Claude Mythos Preview ( hacks.mozilla.org )                                    
+     235 points by HieronymusBosch 20 hours ago | hide | 108 comments                                                                                                        
+                                                                                                                                                                             
+26.                                                                    GPT-5.5 Price Increase: What It Costs ( openrouter.ai )                                               
+     85 points by gmays 11 hours ago | hide | 19 comments                                                                                                                    
+                                                                                                                                                                             
+27.                                                                    GNU IFUNC is the real culprit behind CVE-2024-3094 ( github.com/robertdfrench )                       
+     98 points by foltik 12 hours ago | hide | 45 comments                                                                                                                   
+                                                                                                                                                                             
+28.                                                                    AI slop is killing online communities ( rmoff.net )                                                   
+     710 points by thm 17 hours ago | hide | 611 comments                                                                                                                    
+                                                                                                                                                                             
+29.                                                                    Two Home Affairs officials suspended after AI 'hallucinations' found ( citizen.co.za )                
+     114 points by jruohonen 17 hours ago | hide | 25 comments                                                                                                               
+                                                                                                                                                                             
+30.                                                                    How to make SSE token streams resumable, cancellable, and multi-device ( zknill.io )                  
+     43 points by zknill 9 hours ago | hide | 9 comments                                                                                                                     
+                                                                                                                                                                             
+                                                                                                                                                                             
+     More                                                                                                                                                                    
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+                                                                                                                                                                             
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact                                                                                                    
+                                                                                                                                                                             
+Search:                                                                                                                                                                      

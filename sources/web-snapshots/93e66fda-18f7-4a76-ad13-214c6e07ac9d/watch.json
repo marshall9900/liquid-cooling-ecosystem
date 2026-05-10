@@ -1,0 +1,18 @@
+{
+  "url": "https://www.asetek.com/press-releases/",
+  "title": "Asetek-新闻发布",
+  "tags": "["\u7ade\u54c1", "\u6db2\u51b7"]",
+  "minutes_between_check": 180,
+  "fetch_backend": "html_requests",
+  "include_filters": [],
+  "trigger_text": [],
+  "uuid": "93e66fda-18f7-4a76-ad13-214c6e07ac9d",
+  "history_n": 1,
+  "last_checked": 0,
+  "last_changed": 0,
+  "last_error": false,
+  "last_notification_error": false,
+  "paused": false,
+  "notification_urls": [],
+  "headers": {"User-Agent": "Mozilla/5.0 (compatible; LiquidCoolBot/1.0)"}
+}

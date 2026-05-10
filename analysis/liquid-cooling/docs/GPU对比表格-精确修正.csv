@@ -1,0 +1,21 @@
+﻿厂商,型号,制程,TDP(W),FP16(TFLOPS),FP8(TFLOPS),HBM,NVLink/互联,Die Size(mm²),出货时间,2026E出货(万),冷却方式,超节点形态,液冷等级,国产/进口,数据来源,验证状态
+NVIDIA,H100 SXM,TSMC 4N,700,990,1980,80GB HBM3,900GB/s,814,2023-24→EOL,50,冷板推荐,HGX 8-GPU,推荐级,进口,NVIDIA官网+sources/sec/gpu/NVDA/,✅已验证
+NVIDIA,H200 SXM,TSMC 4N,700-800,990,1980,141GB HBM3e,900GB/s,814,2024Q3-25,50,冷板推荐,HGX 8-GPU,推荐级,进口,NVIDIA官网,✅已验证
+NVIDIA,B100,TSMC 4NP,700,~1250,~2500,192GB HBM3e/8TB/s,NVLink5 1.8TB/s,~800×2,2024Q4,50,冷板,HGX 8-GPU,推荐级,进口,NVIDIA+sources/sec/gpu/NVDA/10-K 2026-02-25,✅已验证
+NVIDIA,B200,TSMC 4NP,1000,~2250,~4500,192GB HBM3e/8TB/s,NVLink5 1.8TB/s,~800×2,2025Q1,200+,MUST冷板,HGX 8-GPU,必须级,进口,NVIDIA+sources/sec/gpu/NVDA/,✅已验证
+NVIDIA,GB200,TSMC 4NP,1200(GPU)+300(Grace),~2500,~5000,192GB HBM3e/8TB/s,NVLink5 1.8TB/s,~800×2+Grace,2025H1,100+,MUST冷板(整柜),NVL72,必须级(整柜),进口,NVIDIA NVL72 Whitepaper,✅已验证
+NVIDIA,GB300,TSMC 4NP,1200-1400+300,~2800,~5600,288GB HBM3e,NVLink5 1.8TB/s,~800×2+Grace,2025H2,50+,MUST冷板(整柜),NVL72,必须级(整柜),进口,sources/wechat/2026-05-07-gb300-liquid-cooling-domestic-breakthrough.md,✅已验证
+NVIDIA,B300,TSMC 4NP,~1200,~2500,~5000,288GB HBM3e,NVLink5 1.8TB/s,~800×2,2025Q3,50+,MUST冷板,HGX 8-GPU,必须级,进口,NVIDIA路线图,⚠️待确认
+NVIDIA,Rubin(R100),TSMC 3nm,1500+,~3500,~7000,推测384GB+,NVLink6?,推测,2026H2,0(规划),MUST冷板+浸没可选,NVL144?,极限级,进口,Semianalysis+TSMC 3nm roadmap,⚠️推测
+华为,昇腾910B,SMIC N+2,310,320,640,64GB HBM2e,HCCS 392GB/s,~600,2023-25,60,风冷为主,Atlas 800,无需,国产,华为官网+sources/wechat/2026-05-06-super-node-insight.md,✅已验证
+华为,昇腾950PR,SMIC N+2?,~400,~500,~1000,推测96GB,HCCS升级,推测,2026Q1,80,风冷+冷板可选,Atlas 900,推荐级,国产,华为+sources/wechat/2026-05-06-super-node-insight.md,⚠️推测
+华为,昇腾950DT,SMIC N+2?,~500,~600,~1200,推测128GB,HCCS升级,推测,2026Q2,40,冷板推荐,Atlas 900,推荐级,国产,华为+行业推测,⚠️推测
+寒武纪,思元590,SMIC 7nm,350,512,1024,64GB HBM2e,MLU-Link,~500,2024-25,30,风冷+冷板,MLU590集群,可选级,国产,寒武纪官网+sources/reports/company/gpu/寒武纪/,✅已验证
+寒武纪,思元690,SMIC 5nm?,~500,~800,~1600,推测128GB HBM3,MLU-Link2,推测,2025H2,20,冷板推荐,MLU690集群,推荐级,国产,寒武纪路线图+券商研报,⚠️推测
+海光,DCU深算2号,SMIC N+1?,300,~200,~400,32GB HBM2,xGMI,~400,2024-25,20,风冷,海光集群,无需,国产,sources/wechat/2026-05-07-haiguang-dcu-deep-compute-series.md,✅已验证
+海光,DCU深算3号,SMIC N+2?,~500,~400,~800,推测64GB HBM3,xGMI升级,推测,2026,30,冷板推荐,海光集群,推荐级,国产,海光路线图+sources/reports/company/gpu/海光信息/,⚠️推测
+AMD,MI300X,TSMC 5nm,750,~1300,~2600,192GB HBM3,Infinity Fabric,~1200,2024Q4-25,40,冷板推荐,MI300X集群,推荐级,进口,AMD官网+sources/sec/gpu/AMD/10-Q 2026-05-06,✅已验证
+AMD,MI400,TSMC 3nm,~900,~2000,~4000,推测256GB+,Infinity Fabric 4,推测,2026H2,20,MUST冷板,MI400集群,必须级,进口,AMD路线图+sources/sec/gpu/AMD/,⚠️推测
+Intel,Gaudi3,Intel 7?,900,~1800,~3600,128GB HBM2e,RoCE,~800,2024Q4-25,20,MUST冷板,Gaudi集群,必须级,进口,Intel官网+sources/sec/gpu/INTC/10-Q 2026-04-24,✅已验证
+平头哥,真武810E,SMIC 7nm?,400,~800,~600,96GB HBM2e,片间700GB/s,~600,2025Q4-26,60,冷板推荐,万卡集群,推荐级,国产,sources/wechat/2026-05-06-ali-ppu-chip-overview.md,✅已验证
+昆仑芯,R300,SMIC 7nm?,~350,~400,~800,推测64GB,昆仑芯互联,推测,2025-26,20,风冷+冷板,百度集群,可选级,国产,百度AI开放平台,⚠️推测
