@@ -2,15 +2,15 @@ const { badge, topBar, footer, title, source } = require('./_h');
 function createSlide(p) {
   const s = p.addSlide(); s.background = { color: 'FFFFFF' };
   topBar(s); footer(s);
-  title(s, "附录：关键源文件清单");
+  title(s, "附录：关键源文件清单 (v6 2026-05-10更新)");
   const items = [
-    { label: "SEC EDGAR (12家)", text: "GPU: NVDA/AMD/INTC | OTT: GOOG/MSFT/AMZN/META/BIDU | OEM: VRT(10-K/Q)/NVENT(10-K)/SMCI(10-K)/DELL(10-K) → sources/sec/oem/VRT/submissions_2026-05-09.json" },
-    { label: "微信纪要 (10篇)", text: "ali-ppu-chip | super-node | ott-capex-830b | haiguang-dcu | byte-ali-idc | google-liquid-cooling | gb300-domestic | liq-mkt-173b | data-compare | supernode-2 → sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md" },
-    { label: "核心研报 (72篇)", text: "国信/开源/天风/民生/东吴/国金/华鑫/中邮/国海/头豹/山西/信达/中原等 → sources/reports/industry_液冷/01_数据中心液冷_核心/[2024-11-20] 开源证券 - 通信行业点评报告：维谛预测AI单机柜功耗有望超1MW，液冷或将成为必选项.pdf" },
-    { label: "RSS情报 (48篇)", text: "供应链风险(Arista/Gartner) | 芯片短缺(Intel CPU) | 内存涨价 | OTT资本开支 | 数据中心趋势 | GPU/CPU竞争 → sources/rss/2026-05-07/180228_RSS_AIWillSoonDriveAThirdOfTSMCsBusiness_meta.json" },
-    { label: "竞品关键文件", text: "Vertiv 10-K 2026-02-13 → FY2025营收$20.1B液冷+60% | nVent 10-K → Thermal Mgmt营收$3.2B | SMCI 10-K → GPU服务器$23.5B | DELL 10-K → ISG营收$11.3B" },
-    { label: "数据文件 (2份)", text: "GPU对比表格-精确修正.csv(20 GPU spec) | 液冷客户表.ods(IDC/OEM客户清单) → sources/" },
-    { label: "政策与标准", text: "信通院/工信部/发改委数据中心政策 | OCP液冷标准 | NVIDIA/Intel认证规范 | 各公司官网/年报" },
+    { label: "🔥新增研报 (3篇 2026-05-10)", text: "华源证券→国产超节点液冷新增量(2026-04-12) | 东吴证券→曙光海光超节点HSL(2026-04-14) | 国信证券→服务器液冷专题535亿美元(2026-04-14) → sources/reports/supernode/" },
+    { label: "SEC EDGAR (12家)", text: "GPU: NVDA/AMD/INTC | OTT: GOOG/MSFT/AMZN/META/BIDU | OEM: VRT(10-K/Q)/NVENT(10-K)/SMCI(10-K)/DELL(10-K)" },
+    { label: "核心研报 (593+篇)", text: "国信/开源/天风/民生/东吴/国金/华鑫/中邮/国海/头豹等 → sources/reports/industry_液冷/ + sources/reports/company/" },
+    { label: "RSS情报 (48篇)", text: "供应链风险 | 芯片短缺 | 内存涨价 | OTT资本开支 | 数据中心趋势 → sources/rss/" },
+    { label: "竞品关键文件", text: "Vertiv 10-K FY2025营收$20.1B | nVent 10-K Thermal $3.2B | SMCI 10-K GPU服务器$23.5B | DELL 10-K ISG $11.3B" },
+    { label: "数据文件", text: "GPU对比表格-精确修正.csv | 液冷客户表_GPU/OEM/OTT.csv | INDEX.md(源文件→洞察映射)" },
+    { label: "政策与标准", text: "信通院/工信部/发改委 | OCP液冷标准 | NVIDIA/Intel认证 | 铁律⑫联动刷新" },
   ];
   items.forEach((it, i) => {
     const y = 0.5 + i * 0.7;

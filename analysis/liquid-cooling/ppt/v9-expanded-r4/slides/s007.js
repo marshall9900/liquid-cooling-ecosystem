@@ -12,8 +12,8 @@ function createSlide(pr) {
     { title: '中国AIDC加速', text: '液冷机柜占比15%→70%+(2024-2030)。TAM ¥39B→¥250B。', color: t.primary },
     { title: '结论', text: '液冷不是趋势问题 是执行速度问题。窗口期1-2年。率先通过OEM认证+头部客户PoC者胜出。', color: t.highlight }
   ], 0.7);
-  insight(s, '全球AI液冷TAM $10B(2026E)→$50B(2030E) CAGR 50%+');
-  source(s, 's004-s006全部源文件汇总; sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md, sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md → 全球九大CSP $8,300亿(2026E) 同比+79%; sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md, sources/wechat/2026-05-06-global-liquid-cooling-market-173b-usd.md → 全球芯片级液冷$33.3B→$173.1B CAGR 26.5%; sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md, sources/wechat/2026-05-06-super-node-insight.md → 国产超节点2028E ¥3,414亿; 信通院/仲量联行/TrendForce 汇总推算:全球AI液冷TAM $10B(2026E)→$50B(2030E) CAGR 50%+');
+  insight(s, '全球服务器液冷 TAM $12.6B(2026E)→$53.5B(2030E) CAGR 43.6% (国信证券2026-04-14)');
+  source(s, 's004-s006全部源文件汇总; sources/reports/supernode/H3_AP202604141821191501_1.pdf 国信证券→2026E $12.6B/2030E $53.5B CAGR 43.6%; sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md → 全球九大CSP $8,300亿(2026E) 同比+79%');
   badge(s, '07');
 }
 module.exports = { createSlide };

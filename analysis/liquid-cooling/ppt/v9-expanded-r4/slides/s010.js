@@ -4,15 +4,16 @@ const { badge, topBar, footer, title, dataTable, source, insight } = require('./
 
 function createSlide(p) {
   const s = p.addSlide(); s.background = { color: 'FFFFFF' }; topBar(s); footer(s);
-  title(s, '阿里巴巴-液冷策略与供应链决策');
+  title(s, '阿里巴巴-磐久128 AL128超节点与液冷策略');
   dataTable(s, ['维度', '详情'], [
-    ['液冷方案', '浸没(方升架构)+冷板(磐久)双路并行'],
-    ['液冷采购', 'CDU/Manifold→招标 冷板→OEM推荐→需认证'],
-    ['液冷供应商', '思泉(浸没主供)+CoolIT(冷板)+英维克(CDU)'],
-    ['海悟机会', 'CDU/Manifold招标→通过H3C间接进入']
+    ['超节点', '磐久128 AL128 (2025云栖)/ 128-144 GPU / 350kW供电+500kW散热'],
+    ['液冷方案', '冷板式(覆盖GPU/CPU/NPO) / 6U CDU / 快插接头+浮动盲插+Manifold'],
+    ['液冷采购', 'CDU/Manifold→招标 冷板→OEM推荐→需阿里自有认证'],
+    ['液冷供应商', 'CoolIT(冷板)+英维克(CDU)+思泉(浸没)'],
+    ['海悟机会', 'CDU/Manifold招标→通过H3C间接→阿里自有测试认证']
   ], { colW: [2, 7], y: 0.7 });
-  insight(s, '磐久3.0全液冷→CDU/Manifold招标→海悟通过H3C+思泉渠道进入');
-  source(s, 'sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md, sources/wechat/2026-05-06-ali-ppu-chip-overview.md → 平头哥真武810E参数 7nm EUV 300W; sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md, sources/wechat/2026-05-07-bytedance-alibaba-idc-procurement-2026.md → 阿里2026 IDC需求~2GW 液冷≥21kW强制; sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md, sources/wechat/2026-05-06-super-node-insight.md → 超节点2028E ¥3,414亿; 推算:液冷采购≈¥16-20亿/年(~2,000柜×¥80-100万BOM) BOM:GPU冷板40%+CDU25%+Manifold10%+快接头8%+管路17%');
+  insight(s, '磐久128 单GPU 2kW液冷→350kW供电→Manifold+CDU招标→海悟通过H3C+认证进入');
+  source(s, 'sources/reports/supernode/H3_AP202604121821141903_1.pdf 华源证券→磐久128; sources/reports/supernode/H3_AP202604141821191501_1.pdf 国信证券→535亿美元; 推算:液冷采购≈¥16-20亿/年(~2,000柜×¥80-100万BOM)');
   badge(s, '10');
 }
 module.exports = { createSlide: createSlide };
