@@ -2,9 +2,9 @@ const { badge, topBar, footer, title, dataTable, source } = require('./_h');
 function createSlide(p) { const s = p.addSlide(); s.background = { color: 'FFFFFF' }; topBar(s);
   title(s, "Manifold：低壁垒出量 P0主战场");
   dataTable(s, ["指标","数据"], [
-    ["TAM","¥3B→¥25B，CAGR 70%+"],
+    ["TAM","2026 ¥1.5B→2030 ¥12-20B"],
     ["ASP","¥4K-12K/套(8-16套/柜)"],
-    ["出货","10K-15K→80K-100K套"],
+    ["出货","10K-15K→300K-600K套(锚定5→52万柜)"],
     ["竞争","英维克/高澜/同飞/申菱→≤15%"],
     ["壁垒","制造(焊接/洁净/氦检)→无认证！"],
     ["海悟","送样H3C/浪潮/宁畅→2026 ¥50M"],
