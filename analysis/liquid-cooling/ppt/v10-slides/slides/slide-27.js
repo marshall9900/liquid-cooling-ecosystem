@@ -28,7 +28,8 @@ function createSlide(pres) {
   
   s.addText('海悟优先级: Manifold(低壁垒出量)→电源冷板(蓝海×技术同源)→CPU冷板(认证主力)→快接头(国产替代协同)→CDU(远期系统级)', { x: 0.5, y: 4.4, w: 9, h: 0.4, fontSize: 10, fontFace: 'Microsoft YaHei', color: theme.primary });
   
-  s.addText('关键: 2026年是"交易落地"元年 — 液冷从可选→标配，下半年规模化出货 (华源证券+国信证券共识)', { x: 0.5, y: 4.9, w: 9, h: 0.3, fontSize: 9, fontFace: 'Microsoft YaHei', color: 'e76f51', bold: true });
+  s.addText('关键: 2026年是"交易落地"元年 — 液冷从可选→标配，下半年规模化出货 (华源证券+国信证券共识)', { x: 0.5, y: 4.9, w: 6.5, h: 0.3, fontSize: 9, fontFace: 'Microsoft YaHei', color: 'e76f51', bold: true });
+  try { s.addImage({ path: __dirname + '/../../imgs/gx_-17.png', x: 6.0, y: 4.4, w: 3.2, h: 1.5 }); } catch(e) {}
   addPageBadge(s, '27', theme); addFooter(s, theme);
   return s;
 }

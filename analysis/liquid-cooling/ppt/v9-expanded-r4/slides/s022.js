@@ -12,6 +12,7 @@ function createSlide(p) {
     { colW: [0.8,0.9,1.1,0.7,0.7,1.3,0.9,0.7,1.5] });
   source(s, 'sources/reports/supernode/H3_AP202604131821150647_1.pdf 华金证券→昇腾路线图(引自华为全联接大会/徐直军); HiBL/HiZQ=华为自研HBM双轨 | 灵衢(UnifiedBus)=华为超节点互联协议');
   insight(s, '昇腾确立一年一代算力翻倍节奏 | 自研HBM双轨(HiBL低成本/HiZQ高性能) | 灵衢协议8192卡全互联');
+  try { s.addImage({ path: __dirname + '/../../imgs/hj_-03.png', x: 0.3, y: 3.6, w: 4.5, h: 2.2 }); } catch(e) {}
   badge(s, '22');
 }
 module.exports = { createSlide };

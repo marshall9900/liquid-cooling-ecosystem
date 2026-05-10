@@ -24,7 +24,8 @@ function createSlide(pres) {
     s.addText(haiwu, { x: 6.5, y: y+0.1, w: 2.8, h: 0.9, fontSize: 9, fontFace: 'Microsoft YaHei', color: 'FFFFFF', valign: 'middle' });
   });
   
-  s.addText('核心洞察: 冷板标准由GPU公司决定，OEM只做适配。海悟必须先过GPU厂家标准这关。', { x: 0.5, y: 4.9, w: 9, h: 0.3, fontSize: 9, fontFace: 'Microsoft YaHei', color: theme.accent, bold: true });
+  s.addText('核心洞察: 冷板标准由GPU公司决定，OEM只做适配。海悟必须先过GPU厂家标准这关。', { x: 0.5, y: 4.9, w: 6.5, h: 0.3, fontSize: 9, fontFace: 'Microsoft YaHei', color: theme.accent, bold: true });
+  try { s.addImage({ path: __dirname + '/../../imgs/hj_-06.png', x: 6.5, y: 4.5, w: 2.8, h: 1.6 }); } catch(e) {}
   addPageBadge(s, '17', theme); addFooter(s, theme);
   return s;
 }
