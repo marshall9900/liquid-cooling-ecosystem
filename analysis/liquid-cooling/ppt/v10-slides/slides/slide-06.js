@@ -30,7 +30,8 @@ function createSlide(pres) {
   s.addShape('rect', { x: 0.5, y: 2.8, w: 9, h: 0.02, fill: { color: 'e76f51' } });
   s.addText('← 风冷极限(600W) →', { x: 3, y: 2.55, w: 4, h: 0.25, fontSize: 9, fontFace: 'Microsoft YaHei', color: 'e76f51', align: 'center' });
   
-  s.addText('源: NVIDIA官网 + GPU洞察 v5 + SEC 10-K NVDA 2026-02-25', { x: 0.5, y: 4.8, w: 9, h: 0.3, fontSize: 7, fontFace: 'Microsoft YaHei', color: theme.secondary });
+  s.addText('源: NVIDIA官网 + GPU洞察v5 + SEC 10-K NVDA', { x: 0.5, y: 4.5, w: 5.5, h: 0.3, fontSize: 7, fontFace: 'Microsoft YaHei', color: theme.secondary });
+  s.addText('🔥 IDC 2025: 国产AI芯片165万张(41%) 英伟达95%→55% 华为81万颗领跑 (中银国际)', { x: 0.5, y: 4.8, w: 9, h: 0.25, fontSize: 7, fontFace: 'Microsoft YaHei', color: 'e76f51', bold: true });
   addPageBadge(s, '06', theme); addFooter(s, theme);
   return s;
 }

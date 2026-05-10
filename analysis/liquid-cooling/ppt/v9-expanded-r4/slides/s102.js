@@ -4,7 +4,7 @@ function createSlide(p) {
   topBar(s); footer(s);
   title(s, "附录：关键源文件清单 (v6 2026-05-10更新)");
   const items = [
-    { label: "🔥新增研报 (3篇 2026-05-10)", text: "华源证券→国产超节点液冷新增量(2026-04-12) | 东吴证券→曙光海光超节点HSL(2026-04-14) | 国信证券→服务器液冷专题535亿美元(2026-04-14) → sources/reports/supernode/" },
+    { label: "🔥新增研报 (5篇 2026-05-10)", text: "华源→国产超节点液冷 | 东吴→曙光海光HSL | 国信→$535B全球液冷 | 华金→昇腾路线图(→2028)+灵衢 | 中银国际→国产AI芯片41%份额 IDC排名 → sources/reports/supernode/" },
     { label: "SEC EDGAR (12家)", text: "GPU: NVDA/AMD/INTC | OTT: GOOG/MSFT/AMZN/META/BIDU | OEM: VRT(10-K/Q)/NVENT(10-K)/SMCI(10-K)/DELL(10-K)" },
     { label: "核心研报 (593+篇)", text: "国信/开源/天风/民生/东吴/国金/华鑫/中邮/国海/头豹等 → sources/reports/industry_液冷/ + sources/reports/company/" },
     { label: "RSS情报 (48篇)", text: "供应链风险 | 芯片短缺 | 内存涨价 | OTT资本开支 | 数据中心趋势 → sources/rss/" },
