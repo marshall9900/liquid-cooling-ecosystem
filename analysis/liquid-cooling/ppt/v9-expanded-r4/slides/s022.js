@@ -2,14 +2,16 @@ const pptxgen = require('pptxgenjs');
 const { badge, topBar, footer, title, dataTable, source, insight } = require('./_h');
 function createSlide(p) {
   const s = p.addSlide(); s.background = { color: 'FFFFFF' }; topBar(s); footer(s);
-  title(s, '华为昇腾-芯片规格矩阵');
-  dataTable(s, ['芯片','TDP','HBM','制程','出货(2026E)','OEM伙伴'],
-    [['910B','310W','64GB HBM2e','7nm','~60万','超聚变/浪潮/宁畅'],
-     ['950PR','~400W','96GB(估)','5nm(估)','~80万','超聚变/浪潮/宁畅'],
-     ['950DT','~500W','128GB(估)','5nm(估)','~40万','超聚变/浪潮']],
-    { colW: [1.2,0.9,1.1,0.8,1.2,2] });
-  source(s, 'sources/GPU对比表格-精确修正.csv → 昇腾910B/950PR/950DT(12verified); 华为官网 → Atlas系列; sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md, sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md → 昇腾950PR全年产能75万颗已订满, 字节25万颗+阿里15万颗+腾讯/百度>5万颗; 出货量=华为公开指引×产能利用率×良率; TDP=制程/晶体管数/频率外推(950PR/950DT标记估算)');
-  insight(s, '昇腾2026E 180万卡出货 占国产GPU 55%+ 绝对主导');
+  title(s, '华为昇腾-芯片路线图(→2028) 一年一代翻倍');
+  dataTable(s, ['芯片','时间','定位','FP8','FP4','HBM','互联','制程','伙伴'],
+    [['910B','2024','训练','—','—','64GB H2e','HCCS','7nm','超聚变/浪潮'],
+     ['950PR','2026Q1✅','Prefill+推荐','1P','2P','HiBL1.0(自研)','2TB/s','5nm(估)','7家整机伙伴'],
+     ['950DT','2026Q4','Decode+训练','1P','2P','HiZQ2.0 144GB','2TB/s','5nm(估)','超聚变/浪潮/昆仑'],
+     ['960','2027Q4','训练推理','2P','4P','翻倍','↑','—','—'],
+     ['970','2028Q4','旗舰','4P','8P','1.5×+','4TB/s','—','—']],
+    { colW: [0.8,0.9,1.1,0.7,0.7,1.3,0.9,0.7,1.5] });
+  source(s, 'sources/reports/supernode/H3_AP202604131821150647_1.pdf 华金证券→昇腾路线图(引自华为全联接大会/徐直军); HiBL/HiZQ=华为自研HBM双轨 | 灵衢(UnifiedBus)=华为超节点互联协议');
+  insight(s, '昇腾确立一年一代算力翻倍节奏 | 自研HBM双轨(HiBL低成本/HiZQ高性能) | 灵衢协议8192卡全互联');
   badge(s, '22');
 }
 module.exports = { createSlide };
