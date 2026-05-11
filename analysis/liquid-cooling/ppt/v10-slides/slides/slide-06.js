@@ -6,12 +6,13 @@ function createSlide(pres) {
   
   // GPU power evolution data
   const gpus = [
-    ['H100', '2023', '700W', '推荐冷板', theme.secondary],
+    ['H100', '2023', '700W', '冷板可选', theme.secondary],
     ['H200', '2024', '750W', '推荐冷板', theme.secondary],
     ['B200', '2025', '1000W', '必须冷板', theme.accent],
     ['GB200', '2025', '1200W', '整柜冷板', theme.accent],
     ['GB300', '2025H2', '1400W', '整柜冷板', theme.accent],
     ['Rubin', '2026H2', '1500W+', '冷板+浸没', 'e76f51'],
+    ['MI350P', '2026', '~500W', 'PCIe冷板', '4472C4'],
   ];
   
   // Simplified bar chart using rectangles
@@ -30,7 +31,7 @@ function createSlide(pres) {
   s.addShape('rect', { x: 0.5, y: 2.8, w: 9, h: 0.02, fill: { color: 'e76f51' } });
   s.addText('← 风冷极限(600W) →', { x: 3, y: 2.55, w: 4, h: 0.25, fontSize: 9, fontFace: 'Microsoft YaHei', color: 'e76f51', align: 'center' });
   
-  s.addText('源: NVIDIA官网 + GPU洞察v5 + SEC 10-K NVDA', { x: 0.5, y: 4.5, w: 5.5, h: 0.3, fontSize: 7, fontFace: 'Microsoft YaHei', color: theme.secondary });
+  s.addText('源: NVIDIA官网 + GPU洞察v6 + AMD MI350P (ServeTheHome/2026-05-07)', { x: 0.5, y: 4.5, w: 5.5, h: 0.3, fontSize: 7, fontFace: 'Microsoft YaHei', color: theme.secondary });
   s.addText('🔥 IDC 2025: 国产AI芯片165万张(41%) 英伟达95%→55% 华为81万颗领跑 (中银国际)', { x: 0.5, y: 4.8, w: 9, h: 0.25, fontSize: 7, fontFace: 'Microsoft YaHei', color: 'e76f51', bold: true });
   addPageBadge(s, '06', theme); addFooter(s, theme);
   return s;

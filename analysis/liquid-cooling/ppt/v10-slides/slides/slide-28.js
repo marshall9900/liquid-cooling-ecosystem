@@ -31,7 +31,8 @@ function createSlide(pres) {
   });
   
   s.addText('海悟机会: ⚠️CPU冷板需要Intel UQD认证(2028H1前), GPU冷板需NVIDIA认证(1-2年)。2026-27策略: Manifold破冰+电源冷板蓝海差异化先行。', { x: 0.5, y: 3.7, w: 9, h: 0.7, fontSize: 10, fontFace: 'Microsoft YaHei', color: theme.accent, bold: true });
-  s.addText('国际冷板市场由NVIDIA认证体系锁定，新进入者P0任务: Intel UQD认证(2026Q2启动)+NVIDIA样品测试(2027)', { x: 0.5, y: 4.5, w: 6, h: 0.5, fontSize: 9, fontFace: 'Microsoft YaHei', color: theme.secondary });
+  s.addText('国际冷板市场由NVIDIA认证体系锁定，新进入者P0任务: Intel UQD认证(2026Q2启动)+NVIDIA样品测试(2027)', { x: 0.5, y: 4.5, w: 4.5, h: 0.5, fontSize: 8, fontFace: 'Microsoft YaHei', color: theme.secondary });
+  s.addText('🔥 Arista XPO光模块冷板: 单体400W, 12.8T/模块, 204.8T/OCP RU. 光模块冷板蓝海确认→海悟新增量入口', { x: 0.5, y: 4.9, w: 5.5, h: 0.3, fontSize: 8, fontFace: 'Microsoft YaHei', color: 'e76f51', bold: true });
   try { s.addImage({ path: __dirname + '/../../imgs/gj_-16.png', x: 6.2, y: 3.8, w: 3.2, h: 1.8 }); } catch(e) {}
   addPageBadge(s, '28', theme); addFooter(s, theme);
   return s;

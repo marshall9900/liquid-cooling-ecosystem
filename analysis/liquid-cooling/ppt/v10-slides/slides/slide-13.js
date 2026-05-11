@@ -20,7 +20,8 @@ function createSlide(pres) {
     s.addText('差异化: ' + diff, { x: 4, y: y+0.35, w: 5.3, h: 0.25, fontSize: 9, fontFace: 'Microsoft YaHei', color: theme.secondary });
   });
   
-  s.addText('源: cooling/2026-05-09-cooling-competition-insight.md + 各公司年报/SEC', { x: 0.5, y: 5.1, w: 9, h: 0.2, fontSize: 7, fontFace: 'Microsoft YaHei', color: theme.secondary });
+  s.addText('源: cooling/2026-05-09-cooling-competition-insight.md v7 + 各公司年报/SEC', { x: 0.5, y: 5.1, w: 9, h: 0.2, fontSize: 7, fontFace: 'Microsoft YaHei', color: theme.secondary });
+  s.addText('🔥 新: Arista XPO集成冷板400W/模块(12.8T/模块) — 光模块冷板蓝海确认 | 气冷vs液冷长期共存 | 供应链全链短缺1-2年', { x: 0.5, y: 5.3, w: 9, h: 0.2, fontSize: 7, fontFace: 'Microsoft YaHei', color: 'e76f51', bold: true });
   addPageBadge(s, '13', theme); addFooter(s, theme);
   return s;
 }
