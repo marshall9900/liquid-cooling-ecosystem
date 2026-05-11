@@ -1,7 +1,7 @@
-# GPU芯片全景洞察(v5) — SKU级×液冷需求源头
+# GPU芯片全景洞察(v6) — SKU级×液冷需求源头
 
-> 更新：2026-05-09 | 频率：双周 | v5 15维度版
-> 定位：回答"每款芯片功耗多少、需要什么冷却、对应哪个超节点"
+> 更新：2026-05-11 | 频率：双周 | v6版
+> v6新增: AMD MI350P PCIe发布 + NVIDIA Spectrum-X MRC协议 + Arista AI营收$3.5B + Cerebras重启IPO + Intel量子/神经形态路线
 
 ---
 
@@ -261,3 +261,36 @@
 ### 龙芯中科 (688047.SH)
 
 > 📊 东海证券 2026-05-07：下游需求显著回暖，持续拓展开放市场。龙芯与液冷相关性弱，主要关注信创CPU竞争。
+
+---
+
+## v6 新增情报 (2026-05-11)
+
+### AMD Instinct MI350P PCIe Accelerator
+> 来源: ServeTheHome (05-07) | 关联: GPU/OEM
+- CDNA4架构首次进入PCIe形态(传统服务器兼容)
+- 半块MI350X规格，瞄准"需要把现代AI加速器装进传统PCIe服务器"的客户
+- 🎯 含义: PCIe形态降低液冷门槛→更多存量服务器可接入AI→液冷从HPC向通用渗透
+
+### NVIDIA Spectrum-X Ethernet MRC
+> 来源: ServeTheHome (05-09) | 关联: GPU/超节点
+- Spectrum-X定制RDMA传输协议专为Gigascale AI设计
+- MRC(Multi-Rail Convergence)多轨融合→更大规模AI集群互联
+- 🎯 含义: 超节点互联需要更高带宽→芯片散热密度继续攀升
+
+### Arista Q1 AI营收目标$3.5B (翻倍)
+> 来源: NetworkWorld (05-07) | 关联: GPU/OTT
+- Q1营收$2.71B(+35.1% YoY)，AI营收指引翻倍至$3.5B
+- 供应链全面紧张：晶圆/芯片/CPU/光模块/内存全线短缺，预计持续1-2年
+- **AI推理从GPU转向高性能CPU趋势明确**: "You don't always need the GPU" - CEO Jayshree Ullal
+- 🎯 含义: 推理侧冷却需求可能低于训练侧→混合散热方案更经济
+
+### Cerebras Systems 二次IPO
+> 来源: Next Platform (04-23) | 关联: GPU
+- 晶圆级芯片(WSE)方案重新冲击IPO
+- 🎯 含义: 晶圆级芯片热密度极端→对液冷方案提出更高要求(单芯片功耗可能>20kW)
+
+### Intel转向量子计算+神经形态
+> 来源: NetworkWorld | 关联: GPU
+- 承认AI芯片落后，押注量子+神经形态处理器
+- 🎯 含义: Intel GPU短期内不对NVIDIA/AMD构成液冷需求增长贡献

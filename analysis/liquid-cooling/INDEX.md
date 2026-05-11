@@ -1,7 +1,8 @@
 # 洞察联动刷新铁律 & 源文件→洞察索引
 
-> 生效日期: 2026-05-10 | 版本: v1.0
+> 生效日期: 2026-05-11 | 版本: v1.1
 > 原则: **源动则析动，析动则联动**
+> 🔥 2026-05-11刷新: RSS 186篇 + 研报3篇 → 5个维度洞察刷新(cooling v7/gpu v6/ott v6/idc v6/oem v6)
 
 ---
 
@@ -125,6 +126,25 @@
 |--------|------|----------|------|
 | H3_AP202604141821191501_1.pdf (535亿美元) | 2026-04-14 | `docs/`待刷新全局市场空间 | ⏳ |
 
+## 2026-05-11 RSS+研报刷新 ← 新增
+
+| 源文件 | 日期 | 已刷新洞察 | 状态 |
+|--------|------|----------|------|
+| RSS: AWS US-East-1 thermal event | 2026-05-08 | `cooling/` v7 + `ott/` v6 + `idc/` v6 | ✅ |
+| RSS: Arista XPO cold plate 400W/module | 2026-05-07 | `cooling/` v7 + `gpu/` v6 + `oem/` v6 | ✅ |
+| RSS: AI DC water/infrasound/power grid | 2026-05-10 | `cooling/` v7 + `idc/` v6 | ✅ |
+| RSS: "Air Is The Only Way" cooling | 2026-05-08 | `cooling/` v7 | ✅ |
+| RSS: AMD MI350P PCIe | 2026-05-07 | `gpu/` v6 + `oem/` v6 | ✅ |
+| RSS: NVIDIA Spectrum-X MRC | 2026-05-09 | `gpu/` v6 | ✅ |
+| RSS: Anthropic SpaceX Colossus 1 | 2026-05-09 | `ott/` v6 | ✅ |
+| RSS: Google TPU8 full-stack AI | 2026-04-24~05-02 | `ott/` v6 | ✅ |
+| RSS: MS doubling AI infra in 2 years | 2026-05-11(抓取) | `ott/` v6 | ✅ |
+| RSS: Arista supply chain 1-2yr shortage | 2026-05-07 | `oem/` v6 + `gpu/` v6 | ✅ |
+| RSS: Gartner switch storm (+15-40%) | 2026-05-06 | `oem/` v6 + `idc/` v6 | ✅ |
+| RSS: 186篇全量Tier1-3 RSS | 2026-05-11 | 以上所有 | ✅ |
+| 研报: 国产AI算力势如破竹 (开源) | 2026-05-07 | `cooling/` v7 | ✅ |
+| 研报: 康宁NV光入柜内 (开源) | 2026-05-10 | `cooling/` v7 + `oem/` v6 | ✅ |
+
 ---
 
 ## 📁 洞察文档全量清单
@@ -134,15 +154,15 @@
 | 超节点 | `supernode/2026-05-09-supernode-insight.md` | v6 | 2026-05-10 |
 | 华源超节点 | `supernode/2026-05-10-huayuan-supernode-liquid-cooling-insight.md` | v1 | 2026-05-10 |
 | 东吴曙光×海光 | `supernode/2026-05-10-dongwu-sugon-haiguang-supernode-insight.md` | v1 | 2026-05-10 |
-| 竞争格局 | `cooling/2026-05-09-cooling-competition-insight.md` | v6 | 2026-05-10 |
+| 竞争格局 | `cooling/2026-05-09-cooling-competition-insight.md` | **v7** 🔥 | **2026-05-11** |
 | 市场空间 | `cooling/2026-05-10-guosen-liquid-cooling-market-space.md` | v1 | 2026-05-10 |
-| GPU | `gpu/2026-05-09-gpu-chip-insight.md` | ? | 2026-05-09 |
+| GPU | `gpu/2026-05-09-gpu-chip-insight.md` | **v6** 🔥 | **2026-05-11** |
 | GPU(国内) | `gpu/2026-04-27-domestic-gpu-landscape-analysis.md` | ? | 2026-04-27 |
 | GPU(份额) | `gpu/2026-04-27-domestic-gpu-share-validation.md` | ? | 2026-04-27 |
-| OEM | `oem/2026-05-09-oem-server-insight.md` | ? | 2026-05-09 |
-| OTT | `ott/2026-05-09-ott-cloud-insight.md` | ? | 2026-05-09 |
+| OEM | `oem/2026-05-09-oem-server-insight.md` | **v6** 🔥 | **2026-05-11** |
+| OTT | `ott/2026-05-09-ott-cloud-insight.md` | **v6** 🔥 | **2026-05-11** |
 | OTT(IDC租赁) | `ott/2026-05-04-OTT-IDC-leasing-analysis.md` | ? | 2026-05-04 |
-| IDC | `idc/2026-05-09-idc-datacenter-insight.md` | ? | 2026-05-09 |
+| IDC | `idc/2026-05-09-idc-datacenter-insight.md` | **v6** 🔥 | **2026-05-11** |
 | 决策链 | `decision/2026-05-09-decision-chain.md` | ? | 2026-05-09 |
 | 标准测试 | `standards/2026-05-09-standards-testing.md` | ? | 2026-05-09 |
 | 运维市场 | `operations/2026-05-09-operations-market.md` | ? | 2026-05-09 |

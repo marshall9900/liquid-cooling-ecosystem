@@ -1,6 +1,7 @@
-# OTT云商洞察(v5) — 阶段×预算×供应商
+# OTT云商洞察(v6) — 阶段×预算×供应商
 
-> 更新：2026-05-09 | 频率：双周
+> 更新：2026-05-11 | 频率：双周
+> v6新增: AWS US-East-1热事件宕机 + Anthropic签约SpaceX Colossus 1 + Google TPU8全栈AI + MS承诺2年AI基础设施翻倍 + OpenAI联盟解决AI处理瓶颈
 
 ## 一、全球OTT (含海外超节点)
 
@@ -111,3 +112,36 @@
 |---------|---------|---------|------|
 | **海光信息** | 2026Q1营收40.34亿(+68%), 全年E 225.72亿 | 国内OTT需求强劲驱动 | 诚通 2026-05-07 |
 | **海光信息** | 国内云厂商2025 CAPEX超千亿 | 验证字节/阿里/腾讯采购规模 | 诚通 2026-05-07 |
+
+---
+
+## v6 新增情报 (2026-05-11)
+
+### AWS US-East-1 散热故障宕机 (2026-05-07)
+> 来源: NetworkWorld / AWS Health Dashboard | 关联: OTT/IDC/Cooling
+- 弗吉尼亚北部单数据中心热事件→电力中断→EC2+EBS崩溃
+- 冷却系统恢复耗时5h+（"progress is slower than originally anticipated"）
+- IoT Core/ELB/NAT Gateway/Redshift 多服务受损
+- 🎯 OTT含义: 冷却系统=单点故障，冗余冷却投资回报来自业务连续性
+- 🎯 海悟机会: CDU冗余设计(主备切换<10s)→差异化卖点
+
+### Anthropic签约SpaceX Colossus 1数据中心
+> 来源: ServeTheHome (05-09) | 关联: OTT/超节点
+- Anthropic本周签约SpaceX Colossus 1数据中心算力
+- 🎯 含义: AI创业公司绕过AWS直接采购DC→新买家群体→更多液冷需求入口
+
+### Google TPU8 GenAI系统
+> 来源: Next Platform (04-24/05-02) | 关联: OTT/GPU
+- TPU8让GenAI系统"更好，不只是更大"
+- Google已是全栈AI玩家(芯片+基础设施+模型+应用)
+- 🎯 含义: 自研芯片OTT(Google/Meta/Amazon)液冷需求由内部规格决定→封闭生态机会
+
+### Microsoft承诺2年AI基础设施翻倍
+> 来源: Next Platform (RSS, 05-11抓取) | 关联: OTT/IDC
+- 明确承诺2年内AI基础设施容量翻倍
+- 🎯 含义: 全球IDC建设+液冷需求确定增量
+
+### OpenAI联盟解决AI处理瓶颈
+> 来源: NetworkWorld | 关联: OTT
+- OpenAI主导联盟解决AI处理瓶颈
+- 🎯 含义: 推理侧基础设施需求→更多液冷部署场景
