@@ -1,0 +1,7 @@
+{
+  "source": "jinse",
+  "title": "KelpDAO遭攻击后多个协议弃用LayerZero，已有40亿美元资产迁移至Chainlink CCIP",
+  "link": "https://jinse.com.cn/lives/512955.html",
+  "description": "【KelpDAO遭攻击后多个协议弃用LayerZero，已有40亿美元资产迁移至Chainlink CCIP】金色财经报道，5月16日，KelpDAO 遭攻击造成 2.92 亿美元损失后，行业对跨链基础设施的安全性审视持续升温，已有约 40 亿美元资产完成或正在从 LayerZero 迁移至 Chainlink 的跨链互操作协议（CCIP）。DeFi 协议 Lombard 是最新加入这一迁移潮的项目。该协议宣布弃用 LayerZero，将逾 10 亿美元的比特币背书资产迁移至 Chainlink CCIP，并表示此举源于 4 月攻击事件发生后对内部安全进行的全面审查。 \nLombard 发行两种比特币背书代币——LBTC 和 BTC.b，将优先完成 Solana、Etherlink、Berachain、Corn 和 TAC 等链上的资产迁移，同时终止在 Morph 和 Swell 上对 LayerZero 的使用。Lombard 表示，选择 CCIP 的原因在于其具备独立节点运营商、内置限速机制以及经过审计的基础设施。此外，该协议还将采用 Chainlink 的跨链代币标准，通过销毁并",
+  "fetched_at": "2026-05-16T01:00:57.586307"
+}

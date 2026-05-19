@@ -1,0 +1,173 @@
+{
+  "downloaded": {
+    "2605.15199v1": {
+      "title": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
+      "date": "2026-05-14",
+      "md5": "0d922efeb3b79f3d56f46e476f8fb423",
+      "size": 2282484,
+      "category": "cs.CV"
+    },
+    "2605.15195v1": {
+      "title": "VGGT-$\u03a9$",
+      "date": "2026-05-14",
+      "md5": "b05136492bfc374580ea4bf84082d43a",
+      "size": 30763791,
+      "category": "cs.CV"
+    },
+    "2605.15194v1": {
+      "title": "Non-Invertible Symmetries on Tensor-Product Hilbert Spaces and Quantum Cellular Automata",
+      "date": "2026-05-14",
+      "md5": "c3e49402986b548a2e01f88aad773a86",
+      "size": 586720,
+      "category": "cond-mat.str-el"
+    },
+    "2605.15193v1": {
+      "title": "Aligning Latent Geometry for Spherical Flow Matching in Image Generation",
+      "date": "2026-05-14",
+      "md5": "c2dc52a10c50eb8fdcaad9f8219d3571",
+      "size": 38222572,
+      "category": "cs.CV"
+    },
+    "2605.15192v1": {
+      "title": "Isocurvature-Free QCD Axion Dark Matter from Inflaton-Driven Early QCD: the Necessity of Inflationary Plateaus",
+      "date": "2026-05-14",
+      "md5": "50475aad52bfdcf72e2e51563c977885",
+      "size": 538897,
+      "category": "astro-ph.CO"
+    },
+    "2605.15161v1": {
+      "title": "On the Nonexistence of Continuous Immersions for Discrete-time Systems",
+      "date": "2026-05-14",
+      "md5": "08c0a7d3062ed5817baccb51b766ecd2",
+      "size": 327269,
+      "category": "eess.SY"
+    },
+    "2605.15121v1": {
+      "title": "Rovibrational structure and electric dipole moments of the AcOCH$_3$+ ion",
+      "date": "2026-05-14",
+      "md5": "6d2a22130b6ff0a454af151bea90ec84",
+      "size": 1069904,
+      "category": "physics.atom-ph"
+    },
+    "2605.15051v1": {
+      "title": "An Interpretable Latency Model for Speculative Decoding in LLM Serving",
+      "date": "2026-05-14",
+      "md5": "011f789b61406f3d319cd23dcf31f5ac",
+      "size": 10175502,
+      "category": "cs.LG"
+    },
+    "2605.15038v1": {
+      "title": "Liouville theorem for immersed minimal surfaces in any codimension",
+      "date": "2026-05-14",
+      "md5": "e840b73ff38aa71cb952402d4a8b81d7",
+      "size": 448047,
+      "category": "math.DG"
+    },
+    "2605.15031v1": {
+      "title": "Minimal submanifolds confined in space",
+      "date": "2026-05-14",
+      "md5": "0645e3af85cc82f9087f284285cad1c3",
+      "size": 422667,
+      "category": "math.DG"
+    },
+    "2605.15187v1": {
+      "title": "Articraft: An Agentic System for Scalable Articulated 3D Asset Generation",
+      "date": "2026-05-14",
+      "md5": "d94ebc9ba50301f8b3492c225a04dc3e",
+      "size": 24182719,
+      "category": "cs.CV"
+    },
+    "2605.15165v1": {
+      "title": "Due Process on Hold: A Queueing Framework for Improving Access in SNAP",
+      "date": "2026-05-14",
+      "md5": "1136979ff0b78d1755f0e1915ef0cd00",
+      "size": 1360916,
+      "category": "cs.CY"
+    },
+    "2605.15113v1": {
+      "title": "Learning from Language Feedback via Variational Policy Distillation",
+      "date": "2026-05-14",
+      "md5": "d43ee6cfca2411b3509acb27e6d85736",
+      "size": 2791501,
+      "category": "cs.LG"
+    },
+    "2605.15110v1": {
+      "title": "Proposal and study of statistical features for string similarity computation and classification",
+      "date": "2026-05-14",
+      "md5": "a4463d5af292d298c853ecac4c3ff612",
+      "size": 964890,
+      "category": "cs.LG"
+    },
+    "2605.15057v1": {
+      "title": "Numerical simulations of waves and turbulence in coronal loops: observables and spectra",
+      "date": "2026-05-14",
+      "md5": "9305fa1f48b7eb540566d3b9b5f97f6f",
+      "size": 2603844,
+      "category": "physics.plasm-ph"
+    },
+    "2605.14947v1": {
+      "title": "From Particles to Policy: Technical Building Blocks for Multi-State SAI Coordination",
+      "date": "2026-05-14",
+      "md5": "25ae2bfb394c0e15e757409f8231251b",
+      "size": 549229,
+      "category": "physics.ao-ph"
+    },
+    "2605.14934v1": {
+      "title": "Resonant optical cooling of nuclear spins in case of strong Knight field of photoexcited electrons",
+      "date": "2026-05-14",
+      "md5": "c459d4e856f9a130ab7351b628af2bca",
+      "size": 462339,
+      "category": "cond-mat.mes-hall"
+    },
+    "2605.14887v1": {
+      "title": "Self-Interacting Dark Matter in Brown Dwarfs",
+      "date": "2026-05-14",
+      "md5": "01eb144b2c23b58378efad8d5d54a00e",
+      "size": 7019355,
+      "category": "astro-ph.SR"
+    },
+    "2605.14806v1": {
+      "title": "Atomically resolved intrinsic superconducting gap in (La,Pr)3Ni2O7 films",
+      "date": "2026-05-14",
+      "md5": "6c5c78c1df78cd4f95b1b541ba1fe8f5",
+      "size": 757183,
+      "category": "cond-mat.supr-con"
+    },
+    "2605.15175v1": {
+      "title": "Detecting the Axion-Photon Conversion Background",
+      "date": "2026-05-14",
+      "md5": "621c492008555882887d2276304f172d",
+      "size": 4754002,
+      "category": "astro-ph.HE"
+    },
+    "2605.15168v1": {
+      "title": "Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieval-Augmented Multimodal Alignment",
+      "date": "2026-05-14",
+      "md5": "e01be80b3c77f9f2e4a6299a4614c663",
+      "size": 2528373,
+      "category": "cs.CL"
+    },
+    "2605.15158v1": {
+      "title": "Duality Between Chemical Potential Dynamics and Reaction-Diffusion Systems",
+      "date": "2026-05-14",
+      "md5": "002ffa3132fbfed3f3785e22da565a4d",
+      "size": 4633120,
+      "category": "cond-mat.soft"
+    },
+    "2605.15146v1": {
+      "title": "Effective Matter Flavor Conversion Mediated by Pseudo-Sterile States as the Possible Origin of Neutrino Oscillation Anomalies",
+      "date": "2026-05-14",
+      "md5": "e9039477b19faa97093c174e01d657e1",
+      "size": 5706510,
+      "category": "hep-ph"
+    },
+    "2605.15140v1": {
+      "title": "Limitations of Debye-Waller lattice temperature extraction under electronic excitation",
+      "date": "2026-05-14",
+      "md5": "06f4de6845a412db3e3b1d5c020a40e1",
+      "size": 719668,
+      "category": "cond-mat.mtrl-sci"
+    }
+  },
+  "last_scan": "2026-05-16T03:00:18.784724"
+}
