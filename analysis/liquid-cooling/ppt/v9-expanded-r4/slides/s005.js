@@ -54,7 +54,7 @@ function createSlide(pr) {
   const metrics = [
     { label: '智算中心负载', value: '25 GW', unit: '2030E' },
     { label: '液冷渗透率', value: '81%', unit: '2030E (AIDC内)' },
-    { label: '单柜功率峰值', value: '400 kW', unit: '2030E' },
+    { label: '单柜功率峰值', value: '600 kW', unit: '2030E (NVL576)' },
     { label: '新建DC PUE', value: '≤1.15', unit: '2030E要求' },
     { label: 'AIDC机柜', value: '310万', unit: '2030E 推算' },
     { label: '液冷机柜', value: '250万', unit: '2030E' }
@@ -67,8 +67,8 @@ function createSlide(pr) {
     s.addText(m.value, { x: 6.7, y: y + 0.16, w: 2.6, h: 0.22, fontSize: 10, fontFace: 'Arial', color: t.primary, bold: true });
   });
 
-  insight(s, '📐口径：液冷机柜2026E=~53万架，基于IDC洞察六大集群自下而上加总(京津冀16-20+长三角10-12+珠三角8-10+西南8-10+西北5-8+东北3-5)。取代原公式推算(20万)。可靠性：信通院+IDC圈+券商交叉验证。');
-  source(s, 'idc/2026-05-09-idc-datacenter-insight.md 六大集群汇总 → 液冷机柜53万（2026E）; s039 CSP运营商AIDC机柜~10万架（占AIDC~11%）锚定下限; 推算:AIDC机柜=智算负载÷单柜功率(50kW→80kW) 液冷机柜=AIDC×渗透率 | 📐口径三重锁定：全量(~1400万) ⊃ AIDC(~90万) ⊃ 液冷(~53万) | 铁律⑩索引+⑪推算公式');
+  insight(s, '📐口径：液冷机柜2026E=~53万架，基于IDC洞察六大集群自下而上加总(京津冀16-20+长三角10-12+珠三角8-10+西南8-10+西北5-8+东北3-5)。取代原公式推算(20万)。单柜峰值600kW(NVL576) 可靠性：信通院+IDC圈+券商交叉验证。刷新2026-05-30');
+  source(s, 'idc/2026-05-09-idc-datacenter-insight.md 六大集群汇总 → 液冷机柜53万（2026E）; NVL576 600kW/柜纯液冷; s039 CSP运营商AIDC机柜~10万架（占AIDC~11%）锚定下限; 推算:AIDC机柜=智算负载÷单柜功率(50kW→80kW) 液冷机柜=AIDC×渗透率 | 📐口径三重锁定：全量(~1400万) ⊃ AIDC(~90万) ⊃ 液冷(~53万) | 铁律⑩索引+⑪推算公式 | 刷新2026-05-30');
   badge(s, '05');
 }
 module.exports = { createSlide };

@@ -18,7 +18,7 @@ function createSlide(p) {
   );
 
   source(s, '华为全联接大会2025(已核实) | 华金证券 昇腾950研报(2026-04-12) | 证券时报2025-09-18 | HiBL/HiZQ=自研HBM双轨 | 灵衢(UnifiedBus)=超节点互联协议');
-  insight(s, '昇腾一年一代算力翻倍 | 自研HBM打破三星/SK垄断 | 灵衢2.0开放生态8192卡全互联 | DeepSeek V4适配950PR→大厂抢购潮');
+  insight(s, '昇腾一年一代算力翻倍 | 自研HBM打破三星/SK垄断 | 灵衢2.0开放生态8192卡全互联 | DeepSeek V4适配950PR→大厂抢购潮 | 参考:Google TPU V8 1300W全浸没强制+CDU标配 刷新2026-05-30');
   badge(s, '22');
 }
 module.exports = { createSlide };

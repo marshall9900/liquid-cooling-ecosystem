@@ -14,7 +14,7 @@ function createSlide(p) {
     ],
     { colW: [2, 1.5, 1.5, 1.5, 0.8, 1.7] }
   );
-  insight(s, 'TAM CAGR 59% 市场急速膨胀 SAM/TAM~50% SOM ¥50M→¥1B 5年20倍', 3.65);
+  insight(s, 'TAM CAGR 59% 市场急速膨胀 SAM/TAM~50% SOM ¥50M→¥1B 5年20倍 | 中国液冷服务器 ¥23.7亿(2024)→¥162亿(2029E) 刷新2026-05-30', 3.65);
   source(s,
     'P9-P41全部源文件汇总 → TAM=Σ(机柜数×单柜BOM) SAM=TAM×可服务占比50% SOM=SAM×竞争力; ' +
     'sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md, sources/wechat/2026-05-07-google-liquid-cooling-supply-chain.md → ' +
@@ -22,7 +22,8 @@ function createSlide(p) {
     '东吴证券千亿液冷元年 → 2028年液冷市场突破千亿/国产供应链加速入局; ' +
     '东莞证券液冷深度 → 液冷需求加速释放/上游高价值环节(冷板+CDU+快接头); ' +
     '国信证券液冷专题 → 服务器算力提升催化液冷/国产替代新机遇; ' +
-    'source_index.json → 研报667篇/SEC 13家/RSS 446篇/微信9篇/364源文件验证'
+    '中国信通院 智算中心液冷市场 2024¥184亿→2029E~¥1300亿 | ' +
+    'source_index.json → 研报667篇/SEC 13家/RSS 446篇/微信9篇/364源文件验证 | 刷新2026-05-30'
   );
 }
 

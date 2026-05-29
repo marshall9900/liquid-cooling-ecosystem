@@ -15,7 +15,7 @@ function createSlide(p) {
     ],
     { colW: [1.1, 1.3, 1.5, 1, 0.8, 1.2] }
   );
-  insight(s, 'Manifold(国产70%)+电源冷板(空白)=海悟P0双轮 冷板暂避NV认证壁垒 2027+国产GPU窗口', 3.3);
+  insight(s, 'Manifold(国产70%)+电源冷板(空白)=海悟P0双轮 冷板暂避NV认证壁垒 2027+国产GPU窗口 | 全产业链能力从加分项→准入门槛(ASIC+800V HVDC协同) 刷新2026-05-30', 3.3);
   source(s, 'sources/wechat/2026-05-07-ott-csp-gpu-capex-830b-usd.md, sources/wechat/2026-05-07-gb300-liquid-cooling-domestic-breakthrough.md → 国产降价25-32%+UQD 2.0打破专利 | SEC:VRT/AVC(3017.TW) | 东吴证券2025-01-26→冷板式液冷空间测算 | 国信证券2025-09-29→液冷市场规模');
 }
 

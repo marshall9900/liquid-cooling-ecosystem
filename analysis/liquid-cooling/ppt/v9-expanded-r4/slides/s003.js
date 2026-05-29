@@ -15,7 +15,7 @@ function createSlide(p) {
     ['铁律⑧-⑪', 'Kimi+MiniMax复核 · 布局审查 · 来源索引 · 推算公式']
   ], { colW: [1.5, 7.5], rowH: 0.35 });
   insight(s, '11条铁律贯穿全PPT 确保数据可信、推算透明、决策有据');
-  source(s, '华为五看三定方法论(华为大学); 铁律体系完整清单; Kimi ✅ MiniMax ✅; 源索引: source_index.json (364源文件 自动生成于2026-05-09)');
+  source(s, '华为五看三定方法论(华为大学); 铁律体系完整清单; Kimi ✅ MiniMax ✅; 源索引: source_index.json (364源文件 自动生成于2026-05-09) | 数据刷新2026-05-30');
   badge(s, '03');
 }
 module.exports = { createSlide };

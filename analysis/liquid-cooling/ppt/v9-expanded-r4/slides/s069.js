@@ -9,6 +9,6 @@ function createSlide(p) { const s = p.addSlide(); s.background = { color: 'FFFFF
     { title: "④ 风险评估", text: "正面竞争(CoolIT/英维克)=P2远期 → 空白市场(电源冷板)=P0立即 → 搭售市场(快接头)=P1中期", color: t.primary },
     { title: "⑤ 总排序", text: "Manifold(6月) > 电源冷板(12月) > 内存冷板(18月) > 快接头(18月) > CPU冷板(24月) > GPU冷板(18月+)", color: t.primary }
   ]);
-  source(s, "P50-P68全部源文件汇总 | 双P0(Manifold+电源冷板)=唯一覆盖空白+低壁垒+高增速组合 | 📐铁律⑩索引");
+  source(s, "P50-P68全部源文件汇总 | 双P0(Manifold+电源冷板)=唯一覆盖空白+低壁垒+高增速组合 | 全产业链能力→准入门槛 2026-2027黄金窗口 刷新2026-05-30 | 📐铁律⑩索引");
   footer(s); badge(s, "69"); }
 module.exports = { createSlide };

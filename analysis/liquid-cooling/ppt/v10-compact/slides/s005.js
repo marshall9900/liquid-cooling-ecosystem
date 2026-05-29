@@ -53,7 +53,7 @@ function createSlide(p) {
   const metrics = [
     { label: '智算中心负载', value: '25 GW', unit: '2030E' },
     { label: '液冷渗透率', value: '81%', unit: '2030E (AIDC内)' },
-    { label: '单柜功率峰值', value: '400 kW', unit: '2030E' },
+    { label: '单柜功率峰值', value: '600 kW', unit: '2030E (NVL576)' },
     { label: '新建DC PUE', value: '≤1.15', unit: '2030E要求' },
     { label: 'AIDC机柜', value: '310万', unit: '2030E 推算' },
     { label: '液冷机柜', value: '250万', unit: '2030E' }
@@ -66,9 +66,9 @@ function createSlide(p) {
     s.addText(m.value, { x: 6.7, y: y + 0.16, w: 2.6, h: 0.22, fontSize: 10, fontFace: 'Arial', color: t.primary, bold: true });
   });
 
-  insight(s, '📐 口径三重锁定：全量(~1400万) ⊃ AIDC(~90万) ⊃ 液冷(~53万·2026E) | 信通院+IDC圈+券商交叉验证');
+  insight(s, '📐 口径三重锁定：全量(~1400万) ⊃ AIDC(~90万) ⊃ 液冷(~53万·2026E) | 单柜峰值600kW(NVL576) | 信通院+IDC圈+券商交叉验证 刷新2026-05-30');
 
-  source(s, 'idc/2026-05-09-idc-datacenter-insight.md | 📐口径三重锁定 | 铁律⑩+⑪');
+  source(s, 'idc/2026-05-09-idc-datacenter-insight.md | NVL576 600kW/柜 | 📐口径三重锁定 | 铁律⑩+⑪ 刷新2026-05-30');
   badge(s, '5');
 }
 module.exports = { createSlide };
