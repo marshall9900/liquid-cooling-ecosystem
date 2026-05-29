@@ -167,7 +167,301 @@
       "md5": "06f4de6845a412db3e3b1d5c020a40e1",
       "size": 719668,
       "category": "cond-mat.mtrl-sci"
+    },
+    "2605.22823v1": {
+      "title": "Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs",
+      "date": "2026-05-21",
+      "md5": "a30a32bea971da9c5c28c388e0abf783",
+      "size": 4869662,
+      "category": "cs.CV"
+    },
+    "2605.22816v1": {
+      "title": "AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation",
+      "date": "2026-05-21",
+      "md5": "3ae131d642d6457e67dcf13fb179c4ee",
+      "size": 5509656,
+      "category": "cs.RO"
+    },
+    "2605.22815v1": {
+      "title": "New constraints on physics within and beyond the standard model from the latest CONUS datasets",
+      "date": "2026-05-21",
+      "md5": "d843ec7e63e2c94fa2c0552b554ba5c3",
+      "size": 1287318,
+      "category": "hep-ex"
+    },
+    "2605.22813v1": {
+      "title": "Optimal Testing of Reed-Muller Codes with an Online Adversary",
+      "date": "2026-05-21",
+      "md5": "2c86c1ea9bd91d77d62c3ea174859585",
+      "size": 622852,
+      "category": "cs.DS"
+    },
+    "2605.22812v1": {
+      "title": "GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations",
+      "date": "2026-05-21",
+      "md5": "dcfd6bd2929af5e8824644a7546bf49d",
+      "size": 2615881,
+      "category": "cs.RO"
+    },
+    "2605.22806v1": {
+      "title": "From protogalaxy through thick and thin: Why did the Milky Way evolve in three kinematic phases?",
+      "date": "2026-05-21",
+      "md5": "419d45172918dbdf0541f76d2e1443bb",
+      "size": 33898685,
+      "category": "astro-ph.GA"
+    },
+    "2605.22768v1": {
+      "title": "Generation of Quantum Turbulence by Neutrino Cooling in Neutron Stars",
+      "date": "2026-05-21",
+      "md5": "ab768932b0e48a2953c8752a882fe995",
+      "size": 801125,
+      "category": "astro-ph.HE"
+    },
+    "2605.22733v1": {
+      "title": "HarnessAPI: A Skill-First Framework for Unified Streaming APIs and MCP Tools",
+      "date": "2026-05-21",
+      "md5": "41b65cc90dc02ea323ba06919537d33a",
+      "size": 375633,
+      "category": "cs.AI"
+    },
+    "2605.22638v1": {
+      "title": "An intensive vRAN deployment with OpenAirInterface",
+      "date": "2026-05-21",
+      "md5": "82778226b93a0e463fec75dc73a1a2ad",
+      "size": 310038,
+      "category": "cs.NI"
+    },
+    "2605.22631v1": {
+      "title": "AtomicMotion: Learning Human Motion From Different Human Parts",
+      "date": "2026-05-21",
+      "md5": "9b8bcb159e47f3350e391cc7d2261863",
+      "size": 11098359,
+      "category": "cs.CV"
+    },
+    "2605.22822v1": {
+      "title": "Bottom-up open EFT for non-Abelian gauge theory with dynamical color environment",
+      "date": "2026-05-21",
+      "md5": "f63cf311ca265b6b6109029abb2a5279",
+      "size": 1323539,
+      "category": "hep-th"
+    },
+    "2605.22780v1": {
+      "title": "Extreme Optical Field Confinement and Enhancement in a Plasmonic Picopatch within a Nanoparticle-on-Mirror Resonator",
+      "date": "2026-05-21",
+      "md5": "83a1dfdacbe2eab1d456cacce95e94e3",
+      "size": 3480529,
+      "category": "physics.optics"
+    },
+    "2605.22754v1": {
+      "title": "Mass Segregation in the CMZoom Survey",
+      "date": "2026-05-21",
+      "md5": "a8b993cf2801c9c7c27cb51504a71345",
+      "size": 1425063,
+      "category": "astro-ph.GA"
+    },
+    "2605.22739v1": {
+      "title": "A Three-Dimensional Tomographic Reconstruction of the Galactic Cosmic-Ray Proton Density",
+      "date": "2026-05-21",
+      "md5": "622dccda395de4eec2f705639ef24631",
+      "size": 17305555,
+      "category": "astro-ph.HE"
+    },
+    "2605.22497v1": {
+      "title": "MICONIC: The multiphase circumnuclear region of Centaurus A as seen with JWST/MIRI MRS observations. I. Spectral inventory and properties of the warm molecular disk",
+      "date": "2026-05-21",
+      "md5": "c6ab1a9a4af8a12f8cec615332b36a31",
+      "size": 3088117,
+      "category": "astro-ph.GA"
+    },
+    "2605.22470v1": {
+      "title": "Hyperdoped silicon photodetectors enable room-temperature computational SWIR imaging at 1550 nm",
+      "date": "2026-05-21",
+      "md5": "370bba2481b2b7edf6e7bc86e2565a5f",
+      "size": 1156819,
+      "category": "physics.optics"
+    },
+    "2605.22463v1": {
+      "title": "Reinforcement learning for ion shuttling on trapped-ion quantum computers",
+      "date": "2026-05-21",
+      "md5": "1a3ea3cf12a6fcbfad07f86ed1442742",
+      "size": 767001,
+      "category": "quant-ph"
+    },
+    "2605.22810v1": {
+      "title": "Signatures of the Quantum Geometric Dipole of Interlayer Excitons in Counterflow Conductivity",
+      "date": "2026-05-21",
+      "md5": "db541d1f7277b2e8cce280c671c9cad2",
+      "size": 2881028,
+      "category": "cond-mat.mes-hall"
+    },
+    "2605.22783v1": {
+      "title": "Atomic scale demonstration of ferromagnetism in a single layer FeCl2 on Au(111)",
+      "date": "2026-05-21",
+      "md5": "2cf1ad3e2478b5e04f7f369e26fa79ca",
+      "size": 17757253,
+      "category": "cond-mat.mtrl-sci"
+    },
+    "2605.30354v1": {
+      "title": "Quiver Approach to Symmetry Theories",
+      "date": "2026-05-28",
+      "md5": "955ee712a1da91f8770e90c426494283",
+      "size": 711266,
+      "category": "hep-th"
+    },
+    "2605.30348v1": {
+      "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+      "date": "2026-05-28",
+      "md5": "495aaaa03093354ba1c48775e7bdf5f5",
+      "size": 2968713,
+      "category": "cs.CL"
+    },
+    "2605.30347v1": {
+      "title": "NeuROK: Generative 4D Neural Object Kinematics",
+      "date": "2026-05-28",
+      "md5": "056f49c8ab2f999aef26a6027ecba5ab",
+      "size": 19196517,
+      "category": "cs.CV"
+    },
+    "2605.30346v1": {
+      "title": "YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
+      "date": "2026-05-28",
+      "md5": "bb837c0408f547d72b0397a9d8f56b0f",
+      "size": 19859877,
+      "category": "cs.CV"
+    },
+    "2605.30344v1": {
+      "title": "Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection",
+      "date": "2026-05-28",
+      "md5": "21716b16e3ea12a0702a6523ad6a7804",
+      "size": 3362621,
+      "category": "cs.AI"
+    },
+    "2605.30338v1": {
+      "title": "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
+      "date": "2026-05-28",
+      "md5": "d9799949836aff93dd6cc9c1054c719e",
+      "size": 32376805,
+      "category": "cs.CV"
+    },
+    "2605.30336v1": {
+      "title": "Fairness-Aware Federated Learning with Trajectory Shapley Value",
+      "date": "2026-05-28",
+      "md5": "f532b73023f8a9b33ea338987bd9255f",
+      "size": 1210206,
+      "category": "cs.LG"
+    },
+    "2605.30311v1": {
+      "title": "Archon: A Unified Multimodal Model for Holistic Digital Human Generation",
+      "date": "2026-05-28",
+      "md5": "d64c7403d4721e5c2d1b6288feab5466",
+      "size": 9483592,
+      "category": "cs.CV"
+    },
+    "2605.30296v1": {
+      "title": "Enhanced Loading of a Molecular Magneto-Optical Trap",
+      "date": "2026-05-28",
+      "md5": "71da0d2d9e2f9f8afcb189d8b1850af9",
+      "size": 5684700,
+      "category": "physics.atom-ph"
+    },
+    "2605.30283v1": {
+      "title": "mcp-proto-okn: Natural-language access to open scientific knowledge graphs through the Model Context Protocol",
+      "date": "2026-05-28",
+      "md5": "e431efc6642aa8f520cb05c1477cd4b4",
+      "size": 431079,
+      "category": "cs.AI"
+    },
+    "2605.30328v1": {
+      "title": "Supercharging Thermal Gaussian Splatting with Depth Estimation",
+      "date": "2026-05-28",
+      "md5": "7b74ddc6298c9ca1b0a7a0c7351ccb90",
+      "size": 1764014,
+      "category": "cs.CV"
+    },
+    "2605.30294v1": {
+      "title": "RAFI -- A Ray/Work Forwarding Infrastructure for Data Parallel Multi-Node/Multi-GPU Computing",
+      "date": "2026-05-28",
+      "md5": "25e88cfc4f7ae5ddbbea00e15e09eb03",
+      "size": 10957947,
+      "category": "cs.DC"
+    },
+    "2605.30277v1": {
+      "title": "Neural Operator-Based Surrogate Model for CFD:Helical Coil Steam Generator in Small Modular Reactor",
+      "date": "2026-05-28",
+      "md5": "ee59e3b0c9175b1bddf711d41a60c2c7",
+      "size": 38465943,
+      "category": "cs.LG"
+    },
+    "2605.30275v1": {
+      "title": "Digitally enriching a screening population for pancreatic cancer using routine blood-based measures and clinical histories",
+      "date": "2026-05-28",
+      "md5": "6e4dd71e2881c6b50e99338922eddb51",
+      "size": 2198311,
+      "category": "cs.LG"
+    },
+    "2605.30219v1": {
+      "title": "When Should Models Change Their Minds? Contextual Belief Management in Large Language Models",
+      "date": "2026-05-28",
+      "md5": "a5458cbe9dcdb6bd1508594dd5f599ee",
+      "size": 12958784,
+      "category": "cs.AI"
+    },
+    "2605.30210v1": {
+      "title": "On-Chip Chiroptical Sensor based on Directional Deflection of Light: A Stern-Gerlach Integrated Optical Analog",
+      "date": "2026-05-28",
+      "md5": "7a079556bc44cf209abc1e572bbf4583",
+      "size": 2474913,
+      "category": "physics.optics"
+    },
+    "2605.30084v1": {
+      "title": "Supercooling of liquids, as described by the Enskog-Vlasov kinetic equation",
+      "date": "2026-05-28",
+      "md5": "86966144521097991f839ce6f18b9856",
+      "size": 683405,
+      "category": "cond-mat.stat-mech"
+    },
+    "2605.30028v1": {
+      "title": "Hysteretic Acoustic Band Structures in Shape-Memory Composite Thin Rods",
+      "date": "2026-05-28",
+      "md5": "01a7b5cae51a62c98b6a40eec244b8c7",
+      "size": 1111268,
+      "category": "cond-mat.mtrl-sci"
+    },
+    "2605.29925v1": {
+      "title": "Carrier Localization in Pnictogen-Based Chalcohalides from Defect-Bound Hot Polarons",
+      "date": "2026-05-28",
+      "md5": "faf7d993154bd3af44cc9ed51e957f41",
+      "size": 1684171,
+      "category": "cond-mat.mtrl-sci"
+    },
+    "2605.30345v1": {
+      "title": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
+      "date": "2026-05-28",
+      "md5": "2d8136e8e51ea445eac04fccd881ce60",
+      "size": 1491403,
+      "category": "cs.AI"
+    },
+    "2605.30316v1": {
+      "title": "Visualizing orbital magnetism in electron doped rhombohedral multilayer graphene",
+      "date": "2026-05-28",
+      "md5": "15f13cf7471955c03966f021895474af",
+      "size": 21351604,
+      "category": "cond-mat.mes-hall"
+    },
+    "2605.30297v1": {
+      "title": "Electron Doping of $\\mathrm{La_3Ni_2O_7}$ Thin Films: Candidate Metal Dopants and Their Potential Impact on Superconductivity",
+      "date": "2026-05-28",
+      "md5": "a753dd81443d85240d2a6e63b4f7a987",
+      "size": 16028685,
+      "category": "cond-mat.supr-con"
+    },
+    "2605.30295v1": {
+      "title": "MedCase-Structured: A Text-to-FHIR Dataset for Benchmarking Diagnostic Reasoning in Clinically Realistic EHR Settings",
+      "date": "2026-05-28",
+      "md5": "cc79905f692085428a7abcae50cecc1c",
+      "size": 386283,
+      "category": "cs.CL"
     }
   },
-  "last_scan": "2026-05-16T03:00:18.784724"
+  "last_scan": "2026-05-30T03:00:26.236629"
 }

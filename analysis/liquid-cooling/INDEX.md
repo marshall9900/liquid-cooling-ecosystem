@@ -1,7 +1,8 @@
 # 洞察联动刷新铁律 & 源文件→洞察索引
 
-> 生效日期: 2026-05-11 | 版本: v1.1
+> 生效日期: 2026-05-11 | 版本: v1.2 🔥
 > 原则: **源动则析动，析动则联动**
+> 🔥 2026-05-30刷新: 研报3篇 + RSS 65篇 → 6个维度洞察刷新(cooling v8/ott v7/supernode v10/gpu v7/oem v7/strategy v6)
 > 🔥 2026-05-11刷新: RSS 186篇 + 研报3篇 → 5个维度洞察刷新(cooling v7/gpu v6/ott v6/idc v6/oem v6)
 
 ---
@@ -126,6 +127,38 @@
 |--------|------|----------|------|
 | H3_AP202604141821191501_1.pdf (535亿美元) | 2026-04-14 | `docs/`待刷新全局市场空间 | ⏳ |
 
+## 2026-05-30 RSS+研报刷新 ← 新增 🔥
+
+| 源文件 | 日期 | 已刷新洞察 | 状态 |
+|--------|------|----------|------|
+| 研报: 谷歌I/O大会点评(华源) | 2026-05-24 | `cooling/` v8 + `ott/` v7 + `gpu/` v7 + `strategy/` v6 | ✅ |
+| 研报: 光与液冷齐舞策略(开源) | 2026-05-25 | `cooling/` v8 + `ott/` v7 + `supernode/` v10 + `gpu/` v7 + `oem/` v7 + `strategy/` v6 | ✅ |
+| 研报: 韬定律戴维斯双击(开源) | 2026-05-26 | `gpu/` v7 + `cooling/` v8 + `strategy/` v6 | ✅ |
+| RSS: Apollo黑石$360亿TPU融资 | 2026-05-29 | `ott/` v7 + `gpu/` v7 + `cooling/` v8 | ✅ |
+| RSS: AI DC水资源成新瓶颈(DCK) | 2026-05-30 | `cooling/` v8 + `idc/` | ✅ |
+| RSS: AI基础设施向800VDC迁移(DCK) | 2026-05-30 | `cooling/` v8 + `oem/` v7 | ✅ |
+| RSS: EPA新规或引发DC反弹(DCK) | 2026-05-30 | `strategy/` v6 + `idc/` | ✅ |
+| RSS: FuriosaAI博通机柜级推理(HPCw) | 2026-05-30 | `gpu/` v7 + `oem/` v7 | ✅ |
+| RSS: 极端天气强化DC散热需求(HPCw) | 2026-05-30 | `cooling/` v8 + `idc/` | ✅ |
+| RSS: 华为新半导体策略突破限制(HPCw) | 2026-05-30 | `gpu/` v7 + `supernode/` v10 | ✅ |
+| RSS: CoolerMaster DDR5主动散热(TH) | 2026-05-30 | `cooling/` v8 | ✅ |
+| RSS: AWS新型DC网络架构(TH) | 2026-05-30 | `ott/` v7 + `oem/` v7 | ✅ |
+| RSS: 65篇全量扫描 | 2026-05-30 | 以上所有 | ✅ |
+
+### 核心洞察摘要
+| 维度 | 关键发现 |
+|------|---------|
+| 芯片功耗 | TPU V8 1300W→浸没液冷成为主流 |
+| OTT CAPEX | 全球2026E上调至$600B+(+88% vs原估) |
+| 液冷市场 | 2029E ¥1300亿(信通院) |
+| 竞争格局 | 全产业链能力从加分项→准入门槛 |
+| 技术路线 | 微通道/相变冷板+泵是下一代高地 |
+| 韬定律 | 国产芯片可摆脱制程依赖→国产液冷需求提前 |
+| 第三方采购 | Anthropic $360亿TPU融资→液冷新场景 |
+| 水资源 | AI DC水资源约束→液冷不耗水是刚需优势 |
+
+---
+
 ## 2026-05-11 RSS+研报刷新 ← 新增
 
 | 源文件 | 日期 | 已刷新洞察 | 状态 |
@@ -151,22 +184,22 @@
 
 | 维度 | 文件 | 版本 | 最近更新 |
 |------|------|------|---------|
-| 超节点 | `supernode/2026-05-09-supernode-insight.md` | v6 | 2026-05-10 |
+| 超节点 | `supernode/2026-05-09-supernode-insight.md` | **v10** 🔥 | **2026-05-30** |
 | 华源超节点 | `supernode/2026-05-10-huayuan-supernode-liquid-cooling-insight.md` | v1 | 2026-05-10 |
 | 东吴曙光×海光 | `supernode/2026-05-10-dongwu-sugon-haiguang-supernode-insight.md` | v1 | 2026-05-10 |
-| 竞争格局 | `cooling/2026-05-09-cooling-competition-insight.md` | **v7** 🔥 | **2026-05-11** |
+| 竞争格局 | `cooling/2026-05-09-cooling-competition-insight.md` | **v8** 🔥 | **2026-05-30** |
 | 市场空间 | `cooling/2026-05-10-guosen-liquid-cooling-market-space.md` | v1 | 2026-05-10 |
-| GPU | `gpu/2026-05-09-gpu-chip-insight.md` | **v6** 🔥 | **2026-05-11** |
+| GPU | `gpu/2026-05-09-gpu-chip-insight.md` | **v7** 🔥 | **2026-05-30** |
 | GPU(国内) | `gpu/2026-04-27-domestic-gpu-landscape-analysis.md` | ? | 2026-04-27 |
 | GPU(份额) | `gpu/2026-04-27-domestic-gpu-share-validation.md` | ? | 2026-04-27 |
-| OEM | `oem/2026-05-09-oem-server-insight.md` | **v6** 🔥 | **2026-05-11** |
-| OTT | `ott/2026-05-09-ott-cloud-insight.md` | **v6** 🔥 | **2026-05-11** |
+| OEM | `oem/2026-05-09-oem-server-insight.md` | **v7** 🔥 | **2026-05-30** |
+| OTT | `ott/2026-05-09-ott-cloud-insight.md` | **v7** 🔥 | **2026-05-30** |
 | OTT(IDC租赁) | `ott/2026-05-04-OTT-IDC-leasing-analysis.md` | ? | 2026-05-04 |
 | IDC | `idc/2026-05-09-idc-datacenter-insight.md` | **v6** 🔥 | **2026-05-11** |
 | 决策链 | `decision/2026-05-09-decision-chain.md` | ? | 2026-05-09 |
 | 标准测试 | `standards/2026-05-09-standards-testing.md` | ? | 2026-05-09 |
 | 运维市场 | `operations/2026-05-09-operations-market.md` | ? | 2026-05-09 |
-| TCO/窗口 | `strategy/2026-05-09-tco-window-risk.md` | ? | 2026-05-09 |
+| TCO/窗口 | `strategy/2026-05-09-tco-window-risk.md` | **v6** 🔥 | **2026-05-30** |
 | 四维洞察 | `docs/2026-04-27-four-dimension-liquid-cooling-industry-insight.md` | ? | 2026-04-27 |
 | 五看三定 | `docs/2026-05-09-海悟液冷五看三定.md` | ? | 2026-05-09 |
 | 市场空间(旧) | `docs/2026-04-28-liquid-cooling-components-market-space.md` | ? | 2026-04-28 |
